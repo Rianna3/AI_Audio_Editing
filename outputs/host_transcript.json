@@ -1,0 +1,8894 @@
+[
+  {
+    "speaker": "host",
+    "start": 0.59,
+    "end": 3.35,
+    "start_timestamp": "00:00:00.590",
+    "end_timestamp": "00:00:03.350",
+    "text": "我让你停 我们结束了再停",
+    "order": 0
+  },
+  {
+    "speaker": "host",
+    "start": 3.35,
+    "end": 6.35,
+    "start_timestamp": "00:00:03.350",
+    "end_timestamp": "00:00:06.350",
+    "text": "中间如果有任何插曲",
+    "order": 1
+  },
+  {
+    "speaker": "host",
+    "start": 6.35,
+    "end": 9.35,
+    "start_timestamp": "00:00:06.350",
+    "end_timestamp": "00:00:09.350",
+    "text": "倒杯水无所谓 都无所谓",
+    "order": 2
+  },
+  {
+    "speaker": "host",
+    "start": 9.35,
+    "end": 13.27,
+    "start_timestamp": "00:00:09.350",
+    "end_timestamp": "00:00:13.270",
+    "text": "对对对",
+    "order": 3
+  },
+  {
+    "speaker": "host",
+    "start": 13.27,
+    "end": 16.27,
+    "start_timestamp": "00:00:13.270",
+    "end_timestamp": "00:00:16.270",
+    "text": "我才知道你怎么开始问呢",
+    "order": 4
+  },
+  {
+    "speaker": "host",
+    "start": 16.27,
+    "end": 20.27,
+    "start_timestamp": "00:00:16.270",
+    "end_timestamp": "00:00:20.270",
+    "text": "我就先不介绍了这些旁白了",
+    "order": 5
+  },
+  {
+    "speaker": "host",
+    "start": 20.27,
+    "end": 24.27,
+    "start_timestamp": "00:00:20.270",
+    "end_timestamp": "00:00:24.270",
+    "text": "我想问问你最近",
+    "order": 6
+  },
+  {
+    "speaker": "host",
+    "start": 24.27,
+    "end": 27.78,
+    "start_timestamp": "00:00:24.270",
+    "end_timestamp": "00:00:27.780",
+    "text": "最近在做什么",
+    "order": 7
+  },
+  {
+    "speaker": "host",
+    "start": 27.78,
+    "end": 31.78,
+    "start_timestamp": "00:00:27.780",
+    "end_timestamp": "00:00:31.780",
+    "text": "最近七天或者说现在",
+    "order": 8
+  },
+  {
+    "speaker": "host",
+    "start": 31.78,
+    "end": 34.78,
+    "start_timestamp": "00:00:31.780",
+    "end_timestamp": "00:00:34.780",
+    "text": "当下的状态是在做什么",
+    "order": 9
+  },
+  {
+    "speaker": "host",
+    "start": 34.78,
+    "end": 104.02,
+    "start_timestamp": "00:00:34.780",
+    "end_timestamp": "00:01:44.020",
+    "text": "这个Hackathon是还没有发生的吗",
+    "order": 10
+  },
+  {
+    "speaker": "host",
+    "start": 104.02,
+    "end": 117.84,
+    "start_timestamp": "00:01:44.020",
+    "end_timestamp": "00:01:57.840",
+    "text": "它是线上的还是线下的",
+    "order": 11
+  },
+  {
+    "speaker": "host",
+    "start": 117.84,
+    "end": 123.3,
+    "start_timestamp": "00:01:57.840",
+    "end_timestamp": "00:02:03.300",
+    "text": "是吗",
+    "order": 12
+  },
+  {
+    "speaker": "host",
+    "start": 123.3,
+    "end": 174.94,
+    "start_timestamp": "00:02:03.300",
+    "end_timestamp": "00:02:54.940",
+    "text": "所以你最近是在准备这个Hackathon",
+    "order": 13
+  },
+  {
+    "speaker": "host",
+    "start": 174.94,
+    "end": 246.77,
+    "start_timestamp": "00:02:54.940",
+    "end_timestamp": "00:04:06.770",
+    "text": "你的主要经历吗",
+    "order": 14
+  },
+  {
+    "speaker": "host",
+    "start": 246.77,
+    "end": 249.77,
+    "start_timestamp": "00:04:06.770",
+    "end_timestamp": "00:04:09.770",
+    "text": "你值得回国是继续创业吗",
+    "order": 15
+  },
+  {
+    "speaker": "host",
+    "start": 249.77,
+    "end": 328.24,
+    "start_timestamp": "00:04:09.770",
+    "end_timestamp": "00:05:28.240",
+    "text": "还是",
+    "order": 16
+  },
+  {
+    "speaker": "host",
+    "start": 328.24,
+    "end": 330.24,
+    "start_timestamp": "00:05:28.240",
+    "end_timestamp": "00:05:30.240",
+    "text": "刚刚你提到了那个数字游民",
+    "order": 17
+  },
+  {
+    "speaker": "host",
+    "start": 330.24,
+    "end": 332.24,
+    "start_timestamp": "00:05:30.240",
+    "end_timestamp": "00:05:32.240",
+    "text": "我觉得这个是非常有趣的",
+    "order": 18
+  },
+  {
+    "speaker": "host",
+    "start": 332.24,
+    "end": 335.24,
+    "start_timestamp": "00:05:32.240",
+    "end_timestamp": "00:05:35.240",
+    "text": "因为我知道杭州一些地方",
+    "order": 19
+  },
+  {
+    "speaker": "host",
+    "start": 335.24,
+    "end": 338.24,
+    "start_timestamp": "00:05:35.240",
+    "end_timestamp": "00:05:38.240",
+    "text": "非常火的这个概念",
+    "order": 20
+  },
+  {
+    "speaker": "host",
+    "start": 338.24,
+    "end": 341.24,
+    "start_timestamp": "00:05:38.240",
+    "end_timestamp": "00:05:41.240",
+    "text": "那你定义说",
+    "order": 21
+  },
+  {
+    "speaker": "host",
+    "start": 341.24,
+    "end": 344.24,
+    "start_timestamp": "00:05:41.240",
+    "end_timestamp": "00:05:44.240",
+    "text": "或者换句话讲",
+    "order": 22
+  },
+  {
+    "speaker": "host",
+    "start": 344.24,
+    "end": 347.24,
+    "start_timestamp": "00:05:44.240",
+    "end_timestamp": "00:05:47.240",
+    "text": "你理想状态",
+    "order": 23
+  },
+  {
+    "speaker": "host",
+    "start": 347.24,
+    "end": 349.24,
+    "start_timestamp": "00:05:47.240",
+    "end_timestamp": "00:05:49.240",
+    "text": "或者说你定义",
+    "order": 24
+  },
+  {
+    "speaker": "host",
+    "start": 349.24,
+    "end": 351.24,
+    "start_timestamp": "00:05:49.240",
+    "end_timestamp": "00:05:51.240",
+    "text": "因为我不知道你知不知道",
+    "order": 25
+  },
+  {
+    "speaker": "host",
+    "start": 351.24,
+    "end": 354.24,
+    "start_timestamp": "00:05:51.240",
+    "end_timestamp": "00:05:54.240",
+    "text": "有很多独立开发者他们是数字游民吗",
+    "order": 26
+  },
+  {
+    "speaker": "host",
+    "start": 354.24,
+    "end": 362.52,
+    "start_timestamp": "00:05:54.240",
+    "end_timestamp": "00:06:02.520",
+    "text": "他们靠这个网站的被动收入",
+    "order": 27
+  },
+  {
+    "speaker": "host",
+    "start": 362.52,
+    "end": 367.52,
+    "start_timestamp": "00:06:02.520",
+    "end_timestamp": "00:06:07.520",
+    "text": "那这种你觉得他们算是创业还是算",
+    "order": 28
+  },
+  {
+    "speaker": "host",
+    "start": 367.52,
+    "end": 440.9,
+    "start_timestamp": "00:06:07.520",
+    "end_timestamp": "00:07:20.900",
+    "text": "明白",
+    "order": 29
+  },
+  {
+    "speaker": "host",
+    "start": 440.9,
+    "end": 442.9,
+    "start_timestamp": "00:07:20.900",
+    "end_timestamp": "00:07:22.900",
+    "text": "所以我可以理解为你",
+    "order": 30
+  },
+  {
+    "speaker": "host",
+    "start": 442.9,
+    "end": 445.9,
+    "start_timestamp": "00:07:22.900",
+    "end_timestamp": "00:07:25.900",
+    "text": "想象中的创业是比较大的",
+    "order": 31
+  },
+  {
+    "speaker": "host",
+    "start": 445.9,
+    "end": 447.9,
+    "start_timestamp": "00:07:25.900",
+    "end_timestamp": "00:07:27.900",
+    "text": "因为我们经常说先有面包",
+    "order": 32
+  },
+  {
+    "speaker": "host",
+    "start": 447.9,
+    "end": 451.9,
+    "start_timestamp": "00:07:27.900",
+    "end_timestamp": "00:07:31.900",
+    "text": "然后才有吃和远方",
+    "order": 33
+  },
+  {
+    "speaker": "host",
+    "start": 451.9,
+    "end": 454.9,
+    "start_timestamp": "00:07:31.900",
+    "end_timestamp": "00:07:34.900",
+    "text": "所以创业更多的是吃和远方",
+    "order": 34
+  },
+  {
+    "speaker": "host",
+    "start": 454.9,
+    "end": 458.47,
+    "start_timestamp": "00:07:34.900",
+    "end_timestamp": "00:07:38.470",
+    "text": "在你的规律当中",
+    "order": 35
+  },
+  {
+    "speaker": "host",
+    "start": 458.47,
+    "end": 459.47,
+    "start_timestamp": "00:07:38.470",
+    "end_timestamp": "00:07:39.470",
+    "text": "明白",
+    "order": 36
+  },
+  {
+    "speaker": "host",
+    "start": 459.47,
+    "end": 518.44,
+    "start_timestamp": "00:07:39.470",
+    "end_timestamp": "00:08:38.440",
+    "text": "因为为什么我刚才举了独立开发者",
+    "order": 37
+  },
+  {
+    "speaker": "host",
+    "start": 518.44,
+    "end": 519.44,
+    "start_timestamp": "00:08:38.440",
+    "end_timestamp": "00:08:39.440",
+    "text": "那个例子",
+    "order": 38
+  },
+  {
+    "speaker": "host",
+    "start": 519.44,
+    "end": 522.44,
+    "start_timestamp": "00:08:39.440",
+    "end_timestamp": "00:08:42.440",
+    "text": "因为你能看到非常大佬的独立开发者",
+    "order": 39
+  },
+  {
+    "speaker": "host",
+    "start": 522.44,
+    "end": 527.44,
+    "start_timestamp": "00:08:42.440",
+    "end_timestamp": "00:08:47.440",
+    "text": "在X上面经常会被举例的一些",
+    "order": 40
+  },
+  {
+    "speaker": "host",
+    "start": 527.44,
+    "end": 531.78,
+    "start_timestamp": "00:08:47.440",
+    "end_timestamp": "00:08:51.780",
+    "text": "他们开发就是一种lifestyle",
+    "order": 41
+  },
+  {
+    "speaker": "host",
+    "start": 531.78,
+    "end": 534.78,
+    "start_timestamp": "00:08:51.780",
+    "end_timestamp": "00:08:54.780",
+    "text": "开发就是一种生活方式",
+    "order": 42
+  },
+  {
+    "speaker": "host",
+    "start": 534.78,
+    "end": 536.78,
+    "start_timestamp": "00:08:54.780",
+    "end_timestamp": "00:08:56.780",
+    "text": "似乎也是一种创业",
+    "order": 43
+  },
+  {
+    "speaker": "host",
+    "start": 536.78,
+    "end": 539.78,
+    "start_timestamp": "00:08:56.780",
+    "end_timestamp": "00:08:59.780",
+    "text": "因为他们是非常小的MVP去验证",
+    "order": 44
+  },
+  {
+    "speaker": "host",
+    "start": 539.78,
+    "end": 540.78,
+    "start_timestamp": "00:08:59.780",
+    "end_timestamp": "00:09:00.780",
+    "text": "一个小产品",
+    "order": 45
+  },
+  {
+    "speaker": "host",
+    "start": 540.78,
+    "end": 541.78,
+    "start_timestamp": "00:09:00.780",
+    "end_timestamp": "00:09:01.780",
+    "text": "现在有了AI",
+    "order": 46
+  },
+  {
+    "speaker": "host",
+    "start": 541.78,
+    "end": 544.78,
+    "start_timestamp": "00:09:01.780",
+    "end_timestamp": "00:09:04.780",
+    "text": "可能一天就开发出一个网站",
+    "order": 47
+  },
+  {
+    "speaker": "host",
+    "start": 544.78,
+    "end": 546.78,
+    "start_timestamp": "00:09:04.780",
+    "end_timestamp": "00:09:06.780",
+    "text": "就开始去收钱",
+    "order": 48
+  },
+  {
+    "speaker": "host",
+    "start": 546.78,
+    "end": 549.78,
+    "start_timestamp": "00:09:06.780",
+    "end_timestamp": "00:09:09.780",
+    "text": "如果这个两天三天跑不出来",
+    "order": 49
+  },
+  {
+    "speaker": "host",
+    "start": 549.78,
+    "end": 551.78,
+    "start_timestamp": "00:09:09.780",
+    "end_timestamp": "00:09:11.780",
+    "text": "就换下一个项目",
+    "order": 50
+  },
+  {
+    "speaker": "host",
+    "start": 551.78,
+    "end": 553.78,
+    "start_timestamp": "00:09:11.780",
+    "end_timestamp": "00:09:13.780",
+    "text": "一天可能好几个网站",
+    "order": 51
+  },
+  {
+    "speaker": "host",
+    "start": 553.78,
+    "end": 556.78,
+    "start_timestamp": "00:09:13.780",
+    "end_timestamp": "00:09:16.780",
+    "text": "所以在你的定义当中",
+    "order": 52
+  },
+  {
+    "speaker": "host",
+    "start": 556.78,
+    "end": 570.18,
+    "start_timestamp": "00:09:16.780",
+    "end_timestamp": "00:09:30.180",
+    "text": "他们这种算创业吗",
+    "order": 53
+  },
+  {
+    "speaker": "host",
+    "start": 570.18,
+    "end": 575.0,
+    "start_timestamp": "00:09:30.180",
+    "end_timestamp": "00:09:35.000",
+    "text": "这是你未来向往的方向吗",
+    "order": 54
+  },
+  {
+    "speaker": "host",
+    "start": 575.0,
+    "end": 658.98,
+    "start_timestamp": "00:09:35.000",
+    "end_timestamp": "00:10:58.980",
+    "text": "所以你未来向往成为独立开发者",
+    "order": 55
+  },
+  {
+    "speaker": "host",
+    "start": 658.98,
+    "end": 659.98,
+    "start_timestamp": "00:10:58.980",
+    "end_timestamp": "00:10:59.980",
+    "text": "我很赞同",
+    "order": 56
+  },
+  {
+    "speaker": "host",
+    "start": 659.98,
+    "end": 661.98,
+    "start_timestamp": "00:10:59.980",
+    "end_timestamp": "00:11:01.980",
+    "text": "因为确实数字有名",
+    "order": 57
+  },
+  {
+    "speaker": "host",
+    "start": 661.98,
+    "end": 663.98,
+    "start_timestamp": "00:11:01.980",
+    "end_timestamp": "00:11:03.980",
+    "text": "我之前看过一些报告",
+    "order": 58
+  },
+  {
+    "speaker": "host",
+    "start": 663.98,
+    "end": 667.98,
+    "start_timestamp": "00:11:03.980",
+    "end_timestamp": "00:11:07.980",
+    "text": "前面的top的是独立开发者",
+    "order": 59
+  },
+  {
+    "speaker": "host",
+    "start": 667.98,
+    "end": 669.98,
+    "start_timestamp": "00:11:07.980",
+    "end_timestamp": "00:11:09.980",
+    "text": "尤其很多男性",
+    "order": 60
+  },
+  {
+    "speaker": "host",
+    "start": 669.98,
+    "end": 671.98,
+    "start_timestamp": "00:11:09.980",
+    "end_timestamp": "00:11:11.980",
+    "text": "我这种CS的比较多",
+    "order": 61
+  },
+  {
+    "speaker": "host",
+    "start": 671.98,
+    "end": 675.98,
+    "start_timestamp": "00:11:11.980",
+    "end_timestamp": "00:11:15.980",
+    "text": "然后女性好像也挺多是以创业",
+    "order": 62
+  },
+  {
+    "speaker": "host",
+    "start": 675.98,
+    "end": 677.98,
+    "start_timestamp": "00:11:15.980",
+    "end_timestamp": "00:11:17.980",
+    "text": "以刚刚说的marketing、社美",
+    "order": 63
+  },
+  {
+    "speaker": "host",
+    "start": 677.98,
+    "end": 679.98,
+    "start_timestamp": "00:11:17.980",
+    "end_timestamp": "00:11:19.980",
+    "text": "做品牌、做branding",
+    "order": 64
+  },
+  {
+    "speaker": "host",
+    "start": 679.98,
+    "end": 682.98,
+    "start_timestamp": "00:11:19.980",
+    "end_timestamp": "00:11:22.980",
+    "text": "为主去当数字有名",
+    "order": 65
+  },
+  {
+    "speaker": "host",
+    "start": 682.98,
+    "end": 686.98,
+    "start_timestamp": "00:11:22.980",
+    "end_timestamp": "00:11:26.980",
+    "text": "这个方向我觉得是蛮不错",
+    "order": 66
+  },
+  {
+    "speaker": "host",
+    "start": 686.98,
+    "end": 688.98,
+    "start_timestamp": "00:11:26.980",
+    "end_timestamp": "00:11:28.980",
+    "text": "你刚刚其实提到了很多",
+    "order": 67
+  },
+  {
+    "speaker": "host",
+    "start": 688.98,
+    "end": 691.98,
+    "start_timestamp": "00:11:28.980",
+    "end_timestamp": "00:11:31.980",
+    "text": "就是不限于上班打卡",
+    "order": 68
+  },
+  {
+    "speaker": "host",
+    "start": 691.98,
+    "end": 695.98,
+    "start_timestamp": "00:11:31.980",
+    "end_timestamp": "00:11:35.980",
+    "text": "你是对于上班打卡有很强的厌恶吗",
+    "order": 69
+  },
+  {
+    "speaker": "host",
+    "start": 1059.76,
+    "end": 1060.76,
+    "start_timestamp": "00:17:39.760",
+    "end_timestamp": "00:17:40.760",
+    "text": "明白",
+    "order": 70
+  },
+  {
+    "speaker": "host",
+    "start": 1060.76,
+    "end": 1064.76,
+    "start_timestamp": "00:17:40.760",
+    "end_timestamp": "00:17:44.760",
+    "text": "所以我回到刚刚总结上你的过往经历",
+    "order": 71
+  },
+  {
+    "speaker": "host",
+    "start": 1064.76,
+    "end": 1066.76,
+    "start_timestamp": "00:17:44.760",
+    "end_timestamp": "00:17:46.760",
+    "text": "你是现在国内工作了几年",
+    "order": 72
+  },
+  {
+    "speaker": "host",
+    "start": 1066.76,
+    "end": 1072.6,
+    "start_timestamp": "00:17:46.760",
+    "end_timestamp": "00:17:52.600",
+    "text": "国内工作了7年",
+    "order": 73
+  },
+  {
+    "speaker": "host",
+    "start": 1072.6,
+    "end": 1073.6,
+    "start_timestamp": "00:17:52.600",
+    "end_timestamp": "00:17:53.600",
+    "text": "然后辞职",
+    "order": 74
+  },
+  {
+    "speaker": "host",
+    "start": 1073.6,
+    "end": 1075.6,
+    "start_timestamp": "00:17:53.600",
+    "end_timestamp": "00:17:55.600",
+    "text": "然后读了一年英硕",
+    "order": 75
+  },
+  {
+    "speaker": "host",
+    "start": 1075.6,
+    "end": 1078.6,
+    "start_timestamp": "00:17:55.600",
+    "end_timestamp": "00:17:58.600",
+    "text": "在英国也工作了一年",
+    "order": 76
+  },
+  {
+    "speaker": "host",
+    "start": 1078.6,
+    "end": 1084.22,
+    "start_timestamp": "00:17:58.600",
+    "end_timestamp": "00:18:04.220",
+    "text": "然后又辞职",
+    "order": 77
+  },
+  {
+    "speaker": "host",
+    "start": 1084.22,
+    "end": 1087.22,
+    "start_timestamp": "00:18:04.220",
+    "end_timestamp": "00:18:07.220",
+    "text": "英国和国内的工作都是跟accounting相关的",
+    "order": 78
+  },
+  {
+    "speaker": "host",
+    "start": 1087.22,
+    "end": 1177.04,
+    "start_timestamp": "00:18:07.220",
+    "end_timestamp": "00:19:37.040",
+    "text": "在英国这一年的工作是没有给你贡签的对吗",
+    "order": 79
+  },
+  {
+    "speaker": "host",
+    "start": 1177.04,
+    "end": 1211.93,
+    "start_timestamp": "00:19:37.040",
+    "end_timestamp": "00:20:11.930",
+    "text": "明白",
+    "order": 80
+  },
+  {
+    "speaker": "host",
+    "start": 1211.93,
+    "end": 1219.34,
+    "start_timestamp": "00:20:11.930",
+    "end_timestamp": "00:20:19.340",
+    "text": "那怎么还派你去岛上",
+    "order": 81
+  },
+  {
+    "speaker": "host",
+    "start": 1219.34,
+    "end": 1222.34,
+    "start_timestamp": "00:20:19.340",
+    "end_timestamp": "00:20:22.340",
+    "text": "怎么还有外派的工作accounting",
+    "order": 82
+  },
+  {
+    "speaker": "host",
+    "start": 1222.34,
+    "end": 1294.82,
+    "start_timestamp": "00:20:22.340",
+    "end_timestamp": "00:21:34.820",
+    "text": "但即使你外派了之后",
+    "order": 83
+  },
+  {
+    "speaker": "host",
+    "start": 1294.82,
+    "end": 1297.82,
+    "start_timestamp": "00:21:34.820",
+    "end_timestamp": "00:21:37.820",
+    "text": "你的工作依然还是非常重复性的",
+    "order": 84
+  },
+  {
+    "speaker": "host",
+    "start": 1297.82,
+    "end": 1298.82,
+    "start_timestamp": "00:21:37.820",
+    "end_timestamp": "00:21:38.820",
+    "text": "accounting比较多",
+    "order": 85
+  },
+  {
+    "speaker": "host",
+    "start": 1298.82,
+    "end": 1350.26,
+    "start_timestamp": "00:21:38.820",
+    "end_timestamp": "00:22:30.260",
+    "text": "但听起来那份去加勒比岛的工作",
+    "order": 86
+  },
+  {
+    "speaker": "host",
+    "start": 1350.26,
+    "end": 1351.26,
+    "start_timestamp": "00:22:30.260",
+    "end_timestamp": "00:22:31.260",
+    "text": "也很有新鲜感",
+    "order": 87
+  },
+  {
+    "speaker": "host",
+    "start": 1351.26,
+    "end": 1354.26,
+    "start_timestamp": "00:22:31.260",
+    "end_timestamp": "00:22:34.260",
+    "text": "也是很符合你想要探索欲",
+    "order": 88
+  },
+  {
+    "speaker": "host",
+    "start": 1354.26,
+    "end": 1358.26,
+    "start_timestamp": "00:22:34.260",
+    "end_timestamp": "00:22:38.260",
+    "text": "想要发挥你的新鲜感探索欲的这种",
+    "order": 89
+  },
+  {
+    "speaker": "host",
+    "start": 1358.26,
+    "end": 1412.71,
+    "start_timestamp": "00:22:38.260",
+    "end_timestamp": "00:23:32.710",
+    "text": "又没有特别重复性",
+    "order": 90
+  },
+  {
+    "speaker": "host",
+    "start": 1412.71,
+    "end": 1415.71,
+    "start_timestamp": "00:23:32.710",
+    "end_timestamp": "00:23:35.710",
+    "text": "所以我听起来像是不仅是",
+    "order": 91
+  },
+  {
+    "speaker": "host",
+    "start": 1415.71,
+    "end": 1417.71,
+    "start_timestamp": "00:23:35.710",
+    "end_timestamp": "00:23:37.710",
+    "text": "不喜欢重复性的",
+    "order": 92
+  },
+  {
+    "speaker": "host",
+    "start": 1417.71,
+    "end": 1420.71,
+    "start_timestamp": "00:23:37.710",
+    "end_timestamp": "00:23:40.710",
+    "text": "更重要的是你也很像自由",
+    "order": 93
+  },
+  {
+    "speaker": "host",
+    "start": 1420.71,
+    "end": 1421.71,
+    "start_timestamp": "00:23:40.710",
+    "end_timestamp": "00:23:41.710",
+    "text": "自由的感觉",
+    "order": 94
+  },
+  {
+    "speaker": "host",
+    "start": 1423.54,
+    "end": 1424.54,
+    "start_timestamp": "00:23:43.540",
+    "end_timestamp": "00:23:44.540",
+    "text": "明白",
+    "order": 95
+  },
+  {
+    "speaker": "host",
+    "start": 1424.54,
+    "end": 1427.54,
+    "start_timestamp": "00:23:44.540",
+    "end_timestamp": "00:23:47.540",
+    "text": "所以也会想做数字游民",
+    "order": 96
+  },
+  {
+    "speaker": "host",
+    "start": 1427.54,
+    "end": 1430.54,
+    "start_timestamp": "00:23:47.540",
+    "end_timestamp": "00:23:50.540",
+    "text": "数字游民每天都可以自我安排",
+    "order": 97
+  },
+  {
+    "speaker": "host",
+    "start": 1430.54,
+    "end": 1434.65,
+    "start_timestamp": "00:23:50.540",
+    "end_timestamp": "00:23:54.650",
+    "text": "地点也可以不卸",
+    "order": 98
+  },
+  {
+    "speaker": "host",
+    "start": 1434.65,
+    "end": 1472.67,
+    "start_timestamp": "00:23:54.650",
+    "end_timestamp": "00:24:32.670",
+    "text": "明白",
+    "order": 99
+  },
+  {
+    "speaker": "host",
+    "start": 1472.67,
+    "end": 1473.67,
+    "start_timestamp": "00:24:32.670",
+    "end_timestamp": "00:24:33.670",
+    "text": "那回到你的时间线",
+    "order": 100
+  },
+  {
+    "speaker": "host",
+    "start": 1473.67,
+    "end": 1476.67,
+    "start_timestamp": "00:24:33.670",
+    "end_timestamp": "00:24:36.670",
+    "text": "你提到的家庭提到的父母",
+    "order": 101
+  },
+  {
+    "speaker": "host",
+    "start": 1476.67,
+    "end": 1478.67,
+    "start_timestamp": "00:24:36.670",
+    "end_timestamp": "00:24:38.670",
+    "text": "那父母有没有曾经给你的压力",
+    "order": 102
+  },
+  {
+    "speaker": "host",
+    "start": 1478.67,
+    "end": 1480.67,
+    "start_timestamp": "00:24:38.670",
+    "end_timestamp": "00:24:40.670",
+    "text": "你7年国内的工作这么稳定",
+    "order": 103
+  },
+  {
+    "speaker": "host",
+    "start": 1480.67,
+    "end": 1484.67,
+    "start_timestamp": "00:24:40.670",
+    "end_timestamp": "00:24:44.670",
+    "text": "然后突然辞职了来读个英术",
+    "order": 104
+  },
+  {
+    "speaker": "host",
+    "start": 1484.67,
+    "end": 1488.67,
+    "start_timestamp": "00:24:44.670",
+    "end_timestamp": "00:24:48.670",
+    "text": "父母或者社会或者身边的朋友们给你",
+    "order": 105
+  },
+  {
+    "speaker": "host",
+    "start": 1488.67,
+    "end": 1490.67,
+    "start_timestamp": "00:24:48.670",
+    "end_timestamp": "00:24:50.670",
+    "text": "一些世俗上的压力",
+    "order": 106
+  },
+  {
+    "speaker": "host",
+    "start": 1490.67,
+    "end": 1581.82,
+    "start_timestamp": "00:24:50.670",
+    "end_timestamp": "00:26:21.820",
+    "text": "明白",
+    "order": 107
+  },
+  {
+    "speaker": "host",
+    "start": 1581.82,
+    "end": 1584.82,
+    "start_timestamp": "00:26:21.820",
+    "end_timestamp": "00:26:24.820",
+    "text": "所以其实当年你出来的时候",
+    "order": 108
+  },
+  {
+    "speaker": "host",
+    "start": 1584.82,
+    "end": 1586.82,
+    "start_timestamp": "00:26:24.820",
+    "end_timestamp": "00:26:26.820",
+    "text": "也许跟父母还没有达成一个deal",
+    "order": 109
+  },
+  {
+    "speaker": "host",
+    "start": 1586.82,
+    "end": 1589.82,
+    "start_timestamp": "00:26:26.820",
+    "end_timestamp": "00:26:29.820",
+    "text": "那现在呢",
+    "order": 110
+  },
+  {
+    "speaker": "host",
+    "start": 1589.82,
+    "end": 1604.79,
+    "start_timestamp": "00:26:29.820",
+    "end_timestamp": "00:26:44.790",
+    "text": "现在你们算和解了吗",
+    "order": 111
+  },
+  {
+    "speaker": "host",
+    "start": 1604.79,
+    "end": 1653.52,
+    "start_timestamp": "00:26:44.790",
+    "end_timestamp": "00:27:33.520",
+    "text": "明白明白",
+    "order": 112
+  },
+  {
+    "speaker": "host",
+    "start": 1653.52,
+    "end": 1658.14,
+    "start_timestamp": "00:27:33.520",
+    "end_timestamp": "00:27:38.140",
+    "text": "不过依然你内心是向往说",
+    "order": 113
+  },
+  {
+    "speaker": "host",
+    "start": 1658.14,
+    "end": 1660.14,
+    "start_timestamp": "00:27:38.140",
+    "end_timestamp": "00:27:40.140",
+    "text": "未来能够有任何事情发生了",
+    "order": 114
+  },
+  {
+    "speaker": "host",
+    "start": 1660.14,
+    "end": 1663.14,
+    "start_timestamp": "00:27:40.140",
+    "end_timestamp": "00:27:43.140",
+    "text": "然后能马上及时回到他们身边",
+    "order": 115
+  },
+  {
+    "speaker": "host",
+    "start": 1663.14,
+    "end": 1665.14,
+    "start_timestamp": "00:27:43.140",
+    "end_timestamp": "00:27:45.140",
+    "text": "并不是想脱离家庭",
+    "order": 116
+  },
+  {
+    "speaker": "host",
+    "start": 1665.14,
+    "end": 1668.14,
+    "start_timestamp": "00:27:45.140",
+    "end_timestamp": "00:27:48.140",
+    "text": "而是更向往自己自由的生活",
+    "order": 117
+  },
+  {
+    "speaker": "host",
+    "start": 1668.14,
+    "end": 1670.14,
+    "start_timestamp": "00:27:48.140",
+    "end_timestamp": "00:27:50.140",
+    "text": "然后选择现在现在的状态",
+    "order": 118
+  },
+  {
+    "speaker": "host",
+    "start": 1670.14,
+    "end": 1673.14,
+    "start_timestamp": "00:27:50.140",
+    "end_timestamp": "00:27:53.140",
+    "text": "然后去争取",
+    "order": 119
+  },
+  {
+    "speaker": "host",
+    "start": 1673.14,
+    "end": 1718.47,
+    "start_timestamp": "00:27:53.140",
+    "end_timestamp": "00:28:38.470",
+    "text": "明白",
+    "order": 120
+  },
+  {
+    "speaker": "host",
+    "start": 1718.47,
+    "end": 1723.9,
+    "start_timestamp": "00:28:38.470",
+    "end_timestamp": "00:28:43.900",
+    "text": "你是独生子女吗",
+    "order": 121
+  },
+  {
+    "speaker": "host",
+    "start": 1723.9,
+    "end": 1755.15,
+    "start_timestamp": "00:28:43.900",
+    "end_timestamp": "00:29:15.150",
+    "text": "那哥哥会在他们身边吗",
+    "order": 122
+  },
+  {
+    "speaker": "host",
+    "start": 1755.15,
+    "end": 1756.15,
+    "start_timestamp": "00:29:15.150",
+    "end_timestamp": "00:29:16.150",
+    "text": "明白",
+    "order": 123
+  },
+  {
+    "speaker": "host",
+    "start": 1756.15,
+    "end": 1759.15,
+    "start_timestamp": "00:29:16.150",
+    "end_timestamp": "00:29:19.150",
+    "text": "所以哥哥是在国内或者说杭州",
+    "order": 124
+  },
+  {
+    "speaker": "host",
+    "start": 1759.15,
+    "end": 1762.3,
+    "start_timestamp": "00:29:19.150",
+    "end_timestamp": "00:29:22.300",
+    "text": "OK",
+    "order": 125
+  },
+  {
+    "speaker": "host",
+    "start": 1762.3,
+    "end": 1766.54,
+    "start_timestamp": "00:29:22.300",
+    "end_timestamp": "00:29:26.540",
+    "text": "那家庭",
+    "order": 126
+  },
+  {
+    "speaker": "host",
+    "start": 1766.54,
+    "end": 1768.54,
+    "start_timestamp": "00:29:26.540",
+    "end_timestamp": "00:29:28.540",
+    "text": "家庭我们可以先不深挖",
+    "order": 127
+  },
+  {
+    "speaker": "host",
+    "start": 1768.54,
+    "end": 1770.54,
+    "start_timestamp": "00:29:28.540",
+    "end_timestamp": "00:29:30.540",
+    "text": "我们还回到刚刚的时间线",
+    "order": 128
+  },
+  {
+    "speaker": "host",
+    "start": 1770.54,
+    "end": 1771.54,
+    "start_timestamp": "00:29:30.540",
+    "end_timestamp": "00:29:31.540",
+    "text": "对吗",
+    "order": 129
+  },
+  {
+    "speaker": "host",
+    "start": 1771.54,
+    "end": 1772.54,
+    "start_timestamp": "00:29:31.540",
+    "end_timestamp": "00:29:32.540",
+    "text": "对吗",
+    "order": 130
+  },
+  {
+    "speaker": "host",
+    "start": 1772.54,
+    "end": 1776.54,
+    "start_timestamp": "00:29:32.540",
+    "end_timestamp": "00:29:36.540",
+    "text": "我们说到了七年国内的工作",
+    "order": 131
+  },
+  {
+    "speaker": "host",
+    "start": 1776.54,
+    "end": 1778.54,
+    "start_timestamp": "00:29:36.540",
+    "end_timestamp": "00:29:38.540",
+    "text": "然后辞职又到了英术",
+    "order": 132
+  },
+  {
+    "speaker": "host",
+    "start": 1778.54,
+    "end": 1779.54,
+    "start_timestamp": "00:29:38.540",
+    "end_timestamp": "00:29:39.540",
+    "text": "读了一年",
+    "order": 133
+  },
+  {
+    "speaker": "host",
+    "start": 1779.54,
+    "end": 1780.54,
+    "start_timestamp": "00:29:39.540",
+    "end_timestamp": "00:29:40.540",
+    "text": "要回工作了一年",
+    "order": 134
+  },
+  {
+    "speaker": "host",
+    "start": 1780.54,
+    "end": 1782.54,
+    "start_timestamp": "00:29:40.540",
+    "end_timestamp": "00:29:42.540",
+    "text": "accounting又不值得",
+    "order": 135
+  },
+  {
+    "speaker": "host",
+    "start": 1782.54,
+    "end": 1783.54,
+    "start_timestamp": "00:29:42.540",
+    "end_timestamp": "00:29:43.540",
+    "text": "不是很满意",
+    "order": 136
+  },
+  {
+    "speaker": "host",
+    "start": 1783.54,
+    "end": 1788.54,
+    "start_timestamp": "00:29:43.540",
+    "end_timestamp": "00:29:48.540",
+    "text": "然后呢去参加了很多各种活动",
+    "order": 137
+  },
+  {
+    "speaker": "host",
+    "start": 1788.54,
+    "end": 1790.54,
+    "start_timestamp": "00:29:48.540",
+    "end_timestamp": "00:29:50.540",
+    "text": "两次的辞职",
+    "order": 138
+  },
+  {
+    "speaker": "host",
+    "start": 1790.54,
+    "end": 1793.54,
+    "start_timestamp": "00:29:50.540",
+    "end_timestamp": "00:29:53.540",
+    "text": "迈向了一个新的方向",
+    "order": 139
+  },
+  {
+    "speaker": "host",
+    "start": 1793.54,
+    "end": 1795.54,
+    "start_timestamp": "00:29:53.540",
+    "end_timestamp": "00:29:55.540",
+    "text": "那你现在的方向",
+    "order": 140
+  },
+  {
+    "speaker": "host",
+    "start": 1795.54,
+    "end": 1797.54,
+    "start_timestamp": "00:29:55.540",
+    "end_timestamp": "00:29:57.540",
+    "text": "你把它定义成",
+    "order": 141
+  },
+  {
+    "speaker": "host",
+    "start": 1797.54,
+    "end": 1798.54,
+    "start_timestamp": "00:29:57.540",
+    "end_timestamp": "00:29:58.540",
+    "text": "你是往",
+    "order": 142
+  },
+  {
+    "speaker": "host",
+    "start": 1798.54,
+    "end": 1800.54,
+    "start_timestamp": "00:29:58.540",
+    "end_timestamp": "00:30:00.540",
+    "text": "你刚刚提到的Y3",
+    "order": 143
+  },
+  {
+    "speaker": "host",
+    "start": 1800.54,
+    "end": 1801.54,
+    "start_timestamp": "00:30:00.540",
+    "end_timestamp": "00:30:01.540",
+    "text": "marketing",
+    "order": 144
+  },
+  {
+    "speaker": "host",
+    "start": 1801.54,
+    "end": 1802.54,
+    "start_timestamp": "00:30:01.540",
+    "end_timestamp": "00:30:02.540",
+    "text": "社媒",
+    "order": 145
+  },
+  {
+    "speaker": "host",
+    "start": 1802.54,
+    "end": 1803.54,
+    "start_timestamp": "00:30:02.540",
+    "end_timestamp": "00:30:03.540",
+    "text": "vibecoding",
+    "order": 146
+  },
+  {
+    "speaker": "host",
+    "start": 1803.54,
+    "end": 1804.54,
+    "start_timestamp": "00:30:03.540",
+    "end_timestamp": "00:30:04.540",
+    "text": "这些关键词",
+    "order": 147
+  },
+  {
+    "speaker": "host",
+    "start": 1804.54,
+    "end": 1805.54,
+    "start_timestamp": "00:30:04.540",
+    "end_timestamp": "00:30:05.540",
+    "text": "你把它定义为",
+    "order": 148
+  },
+  {
+    "speaker": "host",
+    "start": 1805.54,
+    "end": 1808.54,
+    "start_timestamp": "00:30:05.540",
+    "end_timestamp": "00:30:08.540",
+    "text": "你这些都算是一个方向吧",
+    "order": 149
+  },
+  {
+    "speaker": "host",
+    "start": 1808.54,
+    "end": 1810.54,
+    "start_timestamp": "00:30:08.540",
+    "end_timestamp": "00:30:10.540",
+    "text": "还是说你是同步进行的吗",
+    "order": 150
+  },
+  {
+    "speaker": "host",
+    "start": 1810.54,
+    "end": 1864.69,
+    "start_timestamp": "00:30:10.540",
+    "end_timestamp": "00:31:04.690",
+    "text": "还是",
+    "order": 151
+  },
+  {
+    "speaker": "host",
+    "start": 1864.69,
+    "end": 1866.69,
+    "start_timestamp": "00:31:04.690",
+    "end_timestamp": "00:31:06.690",
+    "text": "你提到很多次hackathon",
+    "order": 152
+  },
+  {
+    "speaker": "host",
+    "start": 1866.69,
+    "end": 1869.69,
+    "start_timestamp": "00:31:06.690",
+    "end_timestamp": "00:31:09.690",
+    "text": "你参加hackathon的目的是什么",
+    "order": 153
+  },
+  {
+    "speaker": "host",
+    "start": 1869.69,
+    "end": 1871.69,
+    "start_timestamp": "00:31:09.690",
+    "end_timestamp": "00:31:11.690",
+    "text": "它有帮你赚到钱吗",
+    "order": 154
+  },
+  {
+    "speaker": "host",
+    "start": 1871.69,
+    "end": 1872.69,
+    "start_timestamp": "00:31:11.690",
+    "end_timestamp": "00:31:12.690",
+    "text": "或者是你奖金",
+    "order": 155
+  },
+  {
+    "speaker": "host",
+    "start": 1872.69,
+    "end": 1874.69,
+    "start_timestamp": "00:31:12.690",
+    "end_timestamp": "00:31:14.690",
+    "text": "我知道hackathon很多时候是有奖金的",
+    "order": 156
+  },
+  {
+    "speaker": "host",
+    "start": 1874.69,
+    "end": 1877.69,
+    "start_timestamp": "00:31:14.690",
+    "end_timestamp": "00:31:17.690",
+    "text": "但是是只有前几名才可能有奖金",
+    "order": 157
+  },
+  {
+    "speaker": "host",
+    "start": 1877.69,
+    "end": 1879.69,
+    "start_timestamp": "00:31:17.690",
+    "end_timestamp": "00:31:19.690",
+    "text": "竞争还是非常激烈的",
+    "order": 158
+  },
+  {
+    "speaker": "host",
+    "start": 1879.69,
+    "end": 1881.69,
+    "start_timestamp": "00:31:19.690",
+    "end_timestamp": "00:31:21.690",
+    "text": "那你之前有获得过奖金吗",
+    "order": 159
+  },
+  {
+    "speaker": "host",
+    "start": 1881.69,
+    "end": 1921.99,
+    "start_timestamp": "00:31:21.690",
+    "end_timestamp": "00:32:01.990",
+    "text": "你可以展开展",
+    "order": 160
+  },
+  {
+    "speaker": "host",
+    "start": 1921.99,
+    "end": 1926.99,
+    "start_timestamp": "00:32:01.990",
+    "end_timestamp": "00:32:06.990",
+    "text": "就是你那次金额大概多少方面",
+    "order": 161
+  },
+  {
+    "speaker": "host",
+    "start": 1926.99,
+    "end": 1947.1,
+    "start_timestamp": "00:32:06.990",
+    "end_timestamp": "00:32:27.100",
+    "text": "明白",
+    "order": 162
+  },
+  {
+    "speaker": "host",
+    "start": 1947.1,
+    "end": 1949.1,
+    "start_timestamp": "00:32:27.100",
+    "end_timestamp": "00:32:29.100",
+    "text": "我打断一下",
+    "order": 163
+  },
+  {
+    "speaker": "host",
+    "start": 1949.1,
+    "end": 1951.1,
+    "start_timestamp": "00:32:29.100",
+    "end_timestamp": "00:32:31.100",
+    "text": "你看一下你的录音是不是还在录",
+    "order": 164
+  },
+  {
+    "speaker": "host",
+    "start": 1951.1,
+    "end": 1953.1,
+    "start_timestamp": "00:32:31.100",
+    "end_timestamp": "00:32:33.100",
+    "text": "我刚刚断了一下",
+    "order": 165
+  },
+  {
+    "speaker": "host",
+    "start": 1953.1,
+    "end": 1954.1,
+    "start_timestamp": "00:32:33.100",
+    "end_timestamp": "00:32:34.100",
+    "text": "ok",
+    "order": 166
+  },
+  {
+    "speaker": "host",
+    "start": 1954.1,
+    "end": 1962.09,
+    "start_timestamp": "00:32:34.100",
+    "end_timestamp": "00:32:42.090",
+    "text": "我不知道为什么出了什么bug",
+    "order": 167
+  },
+  {
+    "speaker": "host",
+    "start": 1962.09,
+    "end": 1963.09,
+    "start_timestamp": "00:32:42.090",
+    "end_timestamp": "00:32:43.090",
+    "text": "但anyway没事",
+    "order": 168
+  },
+  {
+    "speaker": "host",
+    "start": 1963.09,
+    "end": 1965.09,
+    "start_timestamp": "00:32:43.090",
+    "end_timestamp": "00:32:45.090",
+    "text": "我们继续",
+    "order": 169
+  },
+  {
+    "speaker": "host",
+    "start": 1965.09,
+    "end": 1967.4,
+    "start_timestamp": "00:32:45.090",
+    "end_timestamp": "00:32:47.400",
+    "text": "后期会裁掉的",
+    "order": 170
+  },
+  {
+    "speaker": "host",
+    "start": 1967.4,
+    "end": 1969.4,
+    "start_timestamp": "00:32:47.400",
+    "end_timestamp": "00:32:49.400",
+    "text": "我表记一下",
+    "order": 171
+  },
+  {
+    "speaker": "host",
+    "start": 1969.4,
+    "end": 1972.4,
+    "start_timestamp": "00:32:49.400",
+    "end_timestamp": "00:32:52.400",
+    "text": "你刚刚提到了你这个",
+    "order": 172
+  },
+  {
+    "speaker": "host",
+    "start": 1972.4,
+    "end": 1974.4,
+    "start_timestamp": "00:32:52.400",
+    "end_timestamp": "00:32:54.400",
+    "text": "你刚刚提到了",
+    "order": 173
+  },
+  {
+    "speaker": "host",
+    "start": 1974.4,
+    "end": 1976.4,
+    "start_timestamp": "00:32:54.400",
+    "end_timestamp": "00:32:56.400",
+    "text": "你这个trading education platform",
+    "order": 174
+  },
+  {
+    "speaker": "host",
+    "start": 1976.4,
+    "end": 1977.4,
+    "start_timestamp": "00:32:56.400",
+    "end_timestamp": "00:32:57.400",
+    "text": "你能具体展开讲一下",
+    "order": 175
+  },
+  {
+    "speaker": "host",
+    "start": 1977.4,
+    "end": 1979.4,
+    "start_timestamp": "00:32:57.400",
+    "end_timestamp": "00:32:59.400",
+    "text": "这是一个什么platform",
+    "order": 176
+  },
+  {
+    "speaker": "host",
+    "start": 1979.4,
+    "end": 1980.4,
+    "start_timestamp": "00:32:59.400",
+    "end_timestamp": "00:33:00.400",
+    "text": "明白",
+    "order": 177
+  },
+  {
+    "speaker": "host",
+    "start": 1980.4,
+    "end": 2050.66,
+    "start_timestamp": "00:33:00.400",
+    "end_timestamp": "00:34:10.660",
+    "text": "你想做的这个platform",
+    "order": 178
+  },
+  {
+    "speaker": "host",
+    "start": 2050.66,
+    "end": 2052.66,
+    "start_timestamp": "00:34:10.660",
+    "end_timestamp": "00:34:12.660",
+    "text": "是你刚说trading education",
+    "order": 179
+  },
+  {
+    "speaker": "host",
+    "start": 2052.66,
+    "end": 2055.66,
+    "start_timestamp": "00:34:12.660",
+    "end_timestamp": "00:34:15.660",
+    "text": "你是想教育大家怎么去交易吗",
+    "order": 180
+  },
+  {
+    "speaker": "host",
+    "start": 2055.66,
+    "end": 2169.15,
+    "start_timestamp": "00:34:15.660",
+    "end_timestamp": "00:36:09.150",
+    "text": "我想回到刚刚你获奖的那个hackathon",
+    "order": 181
+  },
+  {
+    "speaker": "host",
+    "start": 2169.15,
+    "end": 2170.15,
+    "start_timestamp": "00:36:09.150",
+    "end_timestamp": "00:36:10.150",
+    "text": "因为你输了",
+    "order": 182
+  },
+  {
+    "speaker": "host",
+    "start": 2170.15,
+    "end": 2172.15,
+    "start_timestamp": "00:36:10.150",
+    "end_timestamp": "00:36:12.150",
+    "text": "你build了一个discord",
+    "order": 183
+  },
+  {
+    "speaker": "host",
+    "start": 2172.15,
+    "end": 2173.15,
+    "start_timestamp": "00:36:12.150",
+    "end_timestamp": "00:36:13.150",
+    "text": "assistant agent",
+    "order": 184
+  },
+  {
+    "speaker": "host",
+    "start": 2173.15,
+    "end": 2175.15,
+    "start_timestamp": "00:36:13.150",
+    "end_timestamp": "00:36:15.150",
+    "text": "然后放到你的platform",
+    "order": 185
+  },
+  {
+    "speaker": "host",
+    "start": 2175.15,
+    "end": 2179.15,
+    "start_timestamp": "00:36:15.150",
+    "end_timestamp": "00:36:19.150",
+    "text": "他具体是得奖这个是做了什么",
+    "order": 186
+  },
+  {
+    "speaker": "host",
+    "start": 2179.15,
+    "end": 2182.15,
+    "start_timestamp": "00:36:19.150",
+    "end_timestamp": "00:36:22.150",
+    "text": "然后你觉得为什么你能够胜出得奖",
+    "order": 187
+  },
+  {
+    "speaker": "host",
+    "start": 2182.15,
+    "end": 2299.38,
+    "start_timestamp": "00:36:22.150",
+    "end_timestamp": "00:38:19.380",
+    "text": "所以明白",
+    "order": 188
+  },
+  {
+    "speaker": "host",
+    "start": 2299.38,
+    "end": 2303.38,
+    "start_timestamp": "00:38:19.380",
+    "end_timestamp": "00:38:23.380",
+    "text": "所以相当于说你做了一个聊天discord",
+    "order": 189
+  },
+  {
+    "speaker": "host",
+    "start": 2303.38,
+    "end": 2305.38,
+    "start_timestamp": "00:38:23.380",
+    "end_timestamp": "00:38:25.380",
+    "text": "聊天的agent",
+    "order": 190
+  },
+  {
+    "speaker": "host",
+    "start": 2305.38,
+    "end": 2308.38,
+    "start_timestamp": "00:38:25.380",
+    "end_timestamp": "00:38:28.380",
+    "text": "然后教大家怎么去trading",
+    "order": 191
+  },
+  {
+    "speaker": "host",
+    "start": 2308.38,
+    "end": 2318.06,
+    "start_timestamp": "00:38:28.380",
+    "end_timestamp": "00:38:38.060",
+    "text": "ok 我不知道为什么会断掉",
+    "order": 192
+  },
+  {
+    "speaker": "host",
+    "start": 2318.06,
+    "end": 2321.06,
+    "start_timestamp": "00:38:38.060",
+    "end_timestamp": "00:38:41.060",
+    "text": "但我们刚刚聊到的",
+    "order": 193
+  },
+  {
+    "speaker": "host",
+    "start": 2321.06,
+    "end": 2322.06,
+    "start_timestamp": "00:38:41.060",
+    "end_timestamp": "00:38:42.060",
+    "text": "B",
+    "order": 194
+  },
+  {
+    "speaker": "host",
+    "start": 2322.06,
+    "end": 2332.13,
+    "start_timestamp": "00:38:42.060",
+    "end_timestamp": "00:38:52.130",
+    "text": "我声音会中断",
+    "order": 195
+  },
+  {
+    "speaker": "host",
+    "start": 2333.13,
+    "end": 2344.09,
+    "start_timestamp": "00:38:53.130",
+    "end_timestamp": "00:39:04.090",
+    "text": "ok 你还有在录对吧",
+    "order": 196
+  },
+  {
+    "speaker": "host",
+    "start": 2346.98,
+    "end": 2348.98,
+    "start_timestamp": "00:39:06.980",
+    "end_timestamp": "00:39:08.980",
+    "text": "你在录好我标记一下",
+    "order": 197
+  },
+  {
+    "speaker": "host",
+    "start": 2353.63,
+    "end": 2355.63,
+    "start_timestamp": "00:39:13.630",
+    "end_timestamp": "00:39:15.630",
+    "text": "所以刚刚其实提到了更多",
+    "order": 198
+  },
+  {
+    "speaker": "host",
+    "start": 2355.63,
+    "end": 2357.63,
+    "start_timestamp": "00:39:15.630",
+    "end_timestamp": "00:39:17.630",
+    "text": "你ok吗现在",
+    "order": 199
+  },
+  {
+    "speaker": "host",
+    "start": 2357.63,
+    "end": 2359.63,
+    "start_timestamp": "00:39:17.630",
+    "end_timestamp": "00:39:19.630",
+    "text": "你随时",
+    "order": 200
+  },
+  {
+    "speaker": "host",
+    "start": 2359.63,
+    "end": 2381.22,
+    "start_timestamp": "00:39:19.630",
+    "end_timestamp": "00:39:41.220",
+    "text": "你是做引流了吧",
+    "order": 201
+  },
+  {
+    "speaker": "host",
+    "start": 2381.22,
+    "end": 2383.22,
+    "start_timestamp": "00:39:41.220",
+    "end_timestamp": "00:39:43.220",
+    "text": "你有引流到微信吗",
+    "order": 202
+  },
+  {
+    "speaker": "host",
+    "start": 2383.22,
+    "end": 2388.42,
+    "start_timestamp": "00:39:43.220",
+    "end_timestamp": "00:39:48.420",
+    "text": "只是小红书群是吗",
+    "order": 203
+  },
+  {
+    "speaker": "host",
+    "start": 2388.42,
+    "end": 2407.41,
+    "start_timestamp": "00:39:48.420",
+    "end_timestamp": "00:40:07.410",
+    "text": "剧中闹事",
+    "order": 204
+  },
+  {
+    "speaker": "host",
+    "start": 2407.41,
+    "end": 2411.78,
+    "start_timestamp": "00:40:07.410",
+    "end_timestamp": "00:40:11.780",
+    "text": "对也许会讲到一些比较敏感的话题",
+    "order": 205
+  },
+  {
+    "speaker": "host",
+    "start": 2411.78,
+    "end": 2413.78,
+    "start_timestamp": "00:40:11.780",
+    "end_timestamp": "00:40:13.780",
+    "text": "所以对",
+    "order": 206
+  },
+  {
+    "speaker": "host",
+    "start": 2413.78,
+    "end": 2414.78,
+    "start_timestamp": "00:40:13.780",
+    "end_timestamp": "00:40:14.780",
+    "text": "然后",
+    "order": 207
+  },
+  {
+    "speaker": "host",
+    "start": 2414.78,
+    "end": 2416.78,
+    "start_timestamp": "00:40:14.780",
+    "end_timestamp": "00:40:16.780",
+    "text": "因为拉回来拉回来我们继续聊",
+    "order": 208
+  },
+  {
+    "speaker": "host",
+    "start": 2416.78,
+    "end": 2418.78,
+    "start_timestamp": "00:40:16.780",
+    "end_timestamp": "00:40:18.780",
+    "text": "对拉回来我们继续聊",
+    "order": 209
+  },
+  {
+    "speaker": "host",
+    "start": 2419.78,
+    "end": 2423.54,
+    "start_timestamp": "00:40:19.780",
+    "end_timestamp": "00:40:23.540",
+    "text": "你要休息一下吗",
+    "order": 210
+  },
+  {
+    "speaker": "host",
+    "start": 2423.54,
+    "end": 2436.33,
+    "start_timestamp": "00:40:23.540",
+    "end_timestamp": "00:40:36.330",
+    "text": "ok",
+    "order": 211
+  },
+  {
+    "speaker": "host",
+    "start": 2436.33,
+    "end": 2439.64,
+    "start_timestamp": "00:40:36.330",
+    "end_timestamp": "00:40:39.640",
+    "text": "分开录分开录吧",
+    "order": 212
+  },
+  {
+    "speaker": "host",
+    "start": 2439.64,
+    "end": 2441.64,
+    "start_timestamp": "00:40:39.640",
+    "end_timestamp": "00:40:41.640",
+    "text": "但可能就要稍微注意一下了",
+    "order": 213
+  },
+  {
+    "speaker": "host",
+    "start": 2441.64,
+    "end": 2442.64,
+    "start_timestamp": "00:40:41.640",
+    "end_timestamp": "00:40:42.640",
+    "text": "对",
+    "order": 214
+  },
+  {
+    "speaker": "host",
+    "start": 2442.64,
+    "end": 2444.64,
+    "start_timestamp": "00:40:42.640",
+    "end_timestamp": "00:40:44.640",
+    "text": "还好我有backup",
+    "order": 215
+  },
+  {
+    "speaker": "host",
+    "start": 2444.64,
+    "end": 2446.64,
+    "start_timestamp": "00:40:44.640",
+    "end_timestamp": "00:40:46.640",
+    "text": "但是我自己的音频没有backup",
+    "order": 216
+  },
+  {
+    "speaker": "host",
+    "start": 2446.64,
+    "end": 2448.64,
+    "start_timestamp": "00:40:46.640",
+    "end_timestamp": "00:40:48.640",
+    "text": "anyway",
+    "order": 217
+  },
+  {
+    "speaker": "host",
+    "start": 2448.64,
+    "end": 2452.64,
+    "start_timestamp": "00:40:48.640",
+    "end_timestamp": "00:40:52.640",
+    "text": "ok 我们回到刚刚提到的hackathon",
+    "order": 218
+  },
+  {
+    "speaker": "host",
+    "start": 2452.64,
+    "end": 2454.64,
+    "start_timestamp": "00:40:52.640",
+    "end_timestamp": "00:40:54.640",
+    "text": "对",
+    "order": 219
+  },
+  {
+    "speaker": "host",
+    "start": 2454.64,
+    "end": 2456.64,
+    "start_timestamp": "00:40:54.640",
+    "end_timestamp": "00:40:56.640",
+    "text": "你做了一个AI agent",
+    "order": 220
+  },
+  {
+    "speaker": "host",
+    "start": 2456.64,
+    "end": 2459.64,
+    "start_timestamp": "00:40:56.640",
+    "end_timestamp": "00:40:59.640",
+    "text": "应该说你用了这家初创公司",
+    "order": 221
+  },
+  {
+    "speaker": "host",
+    "start": 2459.64,
+    "end": 2461.64,
+    "start_timestamp": "00:40:59.640",
+    "end_timestamp": "00:41:01.640",
+    "text": "他们开发的discord AI agent",
+    "order": 222
+  },
+  {
+    "speaker": "host",
+    "start": 2461.64,
+    "end": 2463.64,
+    "start_timestamp": "00:41:01.640",
+    "end_timestamp": "00:41:03.640",
+    "text": "assistant",
+    "order": 223
+  },
+  {
+    "speaker": "host",
+    "start": 2463.64,
+    "end": 2465.64,
+    "start_timestamp": "00:41:03.640",
+    "end_timestamp": "00:41:05.640",
+    "text": "去复充到",
+    "order": 224
+  },
+  {
+    "speaker": "host",
+    "start": 2465.64,
+    "end": 2467.64,
+    "start_timestamp": "00:41:05.640",
+    "end_timestamp": "00:41:07.640",
+    "text": "你的trading education platform",
+    "order": 225
+  },
+  {
+    "speaker": "host",
+    "start": 2467.64,
+    "end": 2469.64,
+    "start_timestamp": "00:41:07.640",
+    "end_timestamp": "00:41:09.640",
+    "text": "教大家怎么去trading",
+    "order": 226
+  },
+  {
+    "speaker": "host",
+    "start": 2469.64,
+    "end": 2471.64,
+    "start_timestamp": "00:41:09.640",
+    "end_timestamp": "00:41:11.640",
+    "text": "但是你觉得hackathon",
+    "order": 227
+  },
+  {
+    "speaker": "host",
+    "start": 2471.64,
+    "end": 2473.64,
+    "start_timestamp": "00:41:11.640",
+    "end_timestamp": "00:41:13.640",
+    "text": "本身这次能拿到几十棒",
+    "order": 228
+  },
+  {
+    "speaker": "host",
+    "start": 2473.64,
+    "end": 2475.64,
+    "start_timestamp": "00:41:13.640",
+    "end_timestamp": "00:41:15.640",
+    "text": "的",
+    "order": 229
+  },
+  {
+    "speaker": "host",
+    "start": 2475.64,
+    "end": 2477.64,
+    "start_timestamp": "00:41:15.640",
+    "end_timestamp": "00:41:17.640",
+    "text": "price",
+    "order": 230
+  },
+  {
+    "speaker": "host",
+    "start": 2477.64,
+    "end": 2479.64,
+    "start_timestamp": "00:41:17.640",
+    "end_timestamp": "00:41:19.640",
+    "text": "更多的归功于是",
+    "order": 231
+  },
+  {
+    "speaker": "host",
+    "start": 2479.64,
+    "end": 2481.64,
+    "start_timestamp": "00:41:19.640",
+    "end_timestamp": "00:41:21.640",
+    "text": "你们的idea让大家更感兴趣",
+    "order": 232
+  },
+  {
+    "speaker": "host",
+    "start": 2481.64,
+    "end": 2483.64,
+    "start_timestamp": "00:41:21.640",
+    "end_timestamp": "00:41:23.640",
+    "text": "以及你们的pitch",
+    "order": 233
+  },
+  {
+    "speaker": "host",
+    "start": 2483.64,
+    "end": 2485.64,
+    "start_timestamp": "00:41:23.640",
+    "end_timestamp": "00:41:25.640",
+    "text": "非常的吸引大家",
+    "order": 234
+  },
+  {
+    "speaker": "host",
+    "start": 2485.64,
+    "end": 2489.24,
+    "start_timestamp": "00:41:25.640",
+    "end_timestamp": "00:41:29.240",
+    "text": "所以相对来说",
+    "order": 235
+  },
+  {
+    "speaker": "host",
+    "start": 2489.24,
+    "end": 2492.84,
+    "start_timestamp": "00:41:29.240",
+    "end_timestamp": "00:41:32.840",
+    "text": "你参加过多少个hackathon",
+    "order": 236
+  },
+  {
+    "speaker": "host",
+    "start": 2492.84,
+    "end": 2504.12,
+    "start_timestamp": "00:41:32.840",
+    "end_timestamp": "00:41:44.120",
+    "text": "大概十来个",
+    "order": 237
+  },
+  {
+    "speaker": "host",
+    "start": 2504.12,
+    "end": 2506.12,
+    "start_timestamp": "00:41:44.120",
+    "end_timestamp": "00:41:46.120",
+    "text": "在半年内",
+    "order": 238
+  },
+  {
+    "speaker": "host",
+    "start": 2506.12,
+    "end": 2510.52,
+    "start_timestamp": "00:41:46.120",
+    "end_timestamp": "00:41:50.520",
+    "text": "大大小小的都有",
+    "order": 239
+  },
+  {
+    "speaker": "host",
+    "start": 2510.52,
+    "end": 2522.57,
+    "start_timestamp": "00:41:50.520",
+    "end_timestamp": "00:42:02.570",
+    "text": "除了这场",
+    "order": 240
+  },
+  {
+    "speaker": "host",
+    "start": 2522.57,
+    "end": 2524.57,
+    "start_timestamp": "00:42:02.570",
+    "end_timestamp": "00:42:04.570",
+    "text": "有没有印象最深的一场",
+    "order": 241
+  },
+  {
+    "speaker": "host",
+    "start": 2524.57,
+    "end": 2528.94,
+    "start_timestamp": "00:42:04.570",
+    "end_timestamp": "00:42:08.940",
+    "text": "hackathon",
+    "order": 242
+  },
+  {
+    "speaker": "host",
+    "start": 2528.94,
+    "end": 2533.62,
+    "start_timestamp": "00:42:08.940",
+    "end_timestamp": "00:42:13.620",
+    "text": "可以",
+    "order": 243
+  },
+  {
+    "speaker": "host",
+    "start": 2533.62,
+    "end": 2535.62,
+    "start_timestamp": "00:42:13.620",
+    "end_timestamp": "00:42:15.620",
+    "text": "具体展开一下你是做了什么",
+    "order": 244
+  },
+  {
+    "speaker": "host",
+    "start": 2535.62,
+    "end": 2537.62,
+    "start_timestamp": "00:42:15.620",
+    "end_timestamp": "00:42:17.620",
+    "text": "还是什么点让你印象这么深",
+    "order": 245
+  },
+  {
+    "speaker": "host",
+    "start": 2537.62,
+    "end": 2552.78,
+    "start_timestamp": "00:42:17.620",
+    "end_timestamp": "00:42:32.780",
+    "text": "可以具体展开一下吗",
+    "order": 246
+  },
+  {
+    "speaker": "host",
+    "start": 2552.78,
+    "end": 2554.78,
+    "start_timestamp": "00:42:32.780",
+    "end_timestamp": "00:42:34.780",
+    "text": "当然跟我一起做的",
+    "order": 247
+  },
+  {
+    "speaker": "host",
+    "start": 2554.78,
+    "end": 2556.78,
+    "start_timestamp": "00:42:34.780",
+    "end_timestamp": "00:42:36.780",
+    "text": "我记得",
+    "order": 248
+  },
+  {
+    "speaker": "host",
+    "start": 2556.78,
+    "end": 2558.78,
+    "start_timestamp": "00:42:36.780",
+    "end_timestamp": "00:42:38.780",
+    "text": "从你的视角",
+    "order": 249
+  },
+  {
+    "speaker": "host",
+    "start": 2558.78,
+    "end": 2731.98,
+    "start_timestamp": "00:42:38.780",
+    "end_timestamp": "00:45:31.980",
+    "text": "明白",
+    "order": 250
+  },
+  {
+    "speaker": "host",
+    "start": 2731.98,
+    "end": 2733.98,
+    "start_timestamp": "00:45:31.980",
+    "end_timestamp": "00:45:33.980",
+    "text": "所以这场hackathon",
+    "order": 251
+  },
+  {
+    "speaker": "host",
+    "start": 2733.98,
+    "end": 2735.98,
+    "start_timestamp": "00:45:33.980",
+    "end_timestamp": "00:45:35.980",
+    "text": "首先我补充一下背景",
+    "order": 252
+  },
+  {
+    "speaker": "host",
+    "start": 2735.98,
+    "end": 2737.98,
+    "start_timestamp": "00:45:35.980",
+    "end_timestamp": "00:45:37.980",
+    "text": "这个是做crypto-quant",
+    "order": 253
+  },
+  {
+    "speaker": "host",
+    "start": 2737.98,
+    "end": 2739.98,
+    "start_timestamp": "00:45:37.980",
+    "end_timestamp": "00:45:39.980",
+    "text": "主打虽然",
+    "order": 254
+  },
+  {
+    "speaker": "host",
+    "start": 2739.98,
+    "end": 2741.98,
+    "start_timestamp": "00:45:39.980",
+    "end_timestamp": "00:45:41.980",
+    "text": "title是crypto-quant",
+    "order": 255
+  },
+  {
+    "speaker": "host",
+    "start": 2741.98,
+    "end": 2743.98,
+    "start_timestamp": "00:45:41.980",
+    "end_timestamp": "00:45:43.980",
+    "text": "的一个交易比赛",
+    "order": 256
+  },
+  {
+    "speaker": "host",
+    "start": 2743.98,
+    "end": 2745.98,
+    "start_timestamp": "00:45:43.980",
+    "end_timestamp": "00:45:45.980",
+    "text": "看大家回测",
+    "order": 257
+  },
+  {
+    "speaker": "host",
+    "start": 2745.98,
+    "end": 2747.98,
+    "start_timestamp": "00:45:45.980",
+    "end_timestamp": "00:45:47.980",
+    "text": "谁的策略写的更好",
+    "order": 258
+  },
+  {
+    "speaker": "host",
+    "start": 2747.98,
+    "end": 2749.98,
+    "start_timestamp": "00:45:47.980",
+    "end_timestamp": "00:45:49.980",
+    "text": "然后我们是用AI",
+    "order": 259
+  },
+  {
+    "speaker": "host",
+    "start": 2749.98,
+    "end": 2751.98,
+    "start_timestamp": "00:45:49.980",
+    "end_timestamp": "00:45:51.980",
+    "text": "去写的策略",
+    "order": 260
+  },
+  {
+    "speaker": "host",
+    "start": 2751.98,
+    "end": 2755.22,
+    "start_timestamp": "00:45:51.980",
+    "end_timestamp": "00:45:55.220",
+    "text": "虽然其实大部分的team",
+    "order": 261
+  },
+  {
+    "speaker": "host",
+    "start": 2755.22,
+    "end": 2757.22,
+    "start_timestamp": "00:45:55.220",
+    "end_timestamp": "00:45:57.220",
+    "text": "也是借助了AI去辅助",
+    "order": 262
+  },
+  {
+    "speaker": "host",
+    "start": 2757.22,
+    "end": 2759.22,
+    "start_timestamp": "00:45:57.220",
+    "end_timestamp": "00:45:59.220",
+    "text": "但是我们没有写策略",
+    "order": 263
+  },
+  {
+    "speaker": "host",
+    "start": 2759.22,
+    "end": 2761.22,
+    "start_timestamp": "00:45:59.220",
+    "end_timestamp": "00:46:01.220",
+    "text": "的经验",
+    "order": 264
+  },
+  {
+    "speaker": "host",
+    "start": 2761.22,
+    "end": 2763.22,
+    "start_timestamp": "00:46:01.220",
+    "end_timestamp": "00:46:03.220",
+    "text": "所以基本上是纯AI的",
+    "order": 265
+  },
+  {
+    "speaker": "host",
+    "start": 2763.22,
+    "end": 2765.22,
+    "start_timestamp": "00:46:03.220",
+    "end_timestamp": "00:46:05.220",
+    "text": "代码",
+    "order": 266
+  },
+  {
+    "speaker": "host",
+    "start": 2765.22,
+    "end": 2767.22,
+    "start_timestamp": "00:46:05.220",
+    "end_timestamp": "00:46:07.220",
+    "text": "来去做的crypto-quant",
+    "order": 267
+  },
+  {
+    "speaker": "host",
+    "start": 2767.22,
+    "end": 2769.22,
+    "start_timestamp": "00:46:07.220",
+    "end_timestamp": "00:46:09.220",
+    "text": "然后让你印象最深",
+    "order": 268
+  },
+  {
+    "speaker": "host",
+    "start": 2769.22,
+    "end": 2771.22,
+    "start_timestamp": "00:46:09.220",
+    "end_timestamp": "00:46:11.220",
+    "text": "主要你刚刚提到有两点",
+    "order": 269
+  },
+  {
+    "speaker": "host",
+    "start": 2771.22,
+    "end": 2775.11,
+    "start_timestamp": "00:46:11.220",
+    "end_timestamp": "00:46:15.110",
+    "text": "一个是",
+    "order": 270
+  },
+  {
+    "speaker": "host",
+    "start": 2775.11,
+    "end": 2777.11,
+    "start_timestamp": "00:46:15.110",
+    "end_timestamp": "00:46:17.110",
+    "text": "你可以说一下Jacky暂停了",
+    "order": 271
+  },
+  {
+    "speaker": "host",
+    "start": 2777.11,
+    "end": 2780.71,
+    "start_timestamp": "00:46:17.110",
+    "end_timestamp": "00:46:20.710",
+    "text": "因为我现在听不到你说的",
+    "order": 272
+  },
+  {
+    "speaker": "host",
+    "start": 2780.71,
+    "end": 2782.71,
+    "start_timestamp": "00:46:20.710",
+    "end_timestamp": "00:46:22.710",
+    "text": "然后你还在录吧",
+    "order": 273
+  },
+  {
+    "speaker": "host",
+    "start": 2782.71,
+    "end": 2786.18,
+    "start_timestamp": "00:46:22.710",
+    "end_timestamp": "00:46:26.180",
+    "text": "ok ok",
+    "order": 274
+  },
+  {
+    "speaker": "host",
+    "start": 2786.18,
+    "end": 2788.18,
+    "start_timestamp": "00:46:26.180",
+    "end_timestamp": "00:46:28.180",
+    "text": "继续",
+    "order": 275
+  },
+  {
+    "speaker": "host",
+    "start": 2788.18,
+    "end": 2853.77,
+    "start_timestamp": "00:46:28.180",
+    "end_timestamp": "00:47:33.770",
+    "text": "我重新讲一下",
+    "order": 276
+  },
+  {
+    "speaker": "host",
+    "start": 2853.77,
+    "end": 2865.85,
+    "start_timestamp": "00:47:33.770",
+    "end_timestamp": "00:47:45.850",
+    "text": "明白",
+    "order": 277
+  },
+  {
+    "speaker": "host",
+    "start": 2865.85,
+    "end": 2867.85,
+    "start_timestamp": "00:47:45.850",
+    "end_timestamp": "00:47:47.850",
+    "text": "Hecton是你实际场中印象最深的",
+    "order": 278
+  },
+  {
+    "speaker": "host",
+    "start": 2867.85,
+    "end": 2869.85,
+    "start_timestamp": "00:47:47.850",
+    "end_timestamp": "00:47:49.850",
+    "text": "主要是两点",
+    "order": 279
+  },
+  {
+    "speaker": "host",
+    "start": 2869.85,
+    "end": 2871.85,
+    "start_timestamp": "00:47:49.850",
+    "end_timestamp": "00:47:51.850",
+    "text": "第一点是",
+    "order": 280
+  },
+  {
+    "speaker": "host",
+    "start": 2871.85,
+    "end": 2873.85,
+    "start_timestamp": "00:47:51.850",
+    "end_timestamp": "00:47:53.850",
+    "text": "它本身那个曲线",
+    "order": 281
+  },
+  {
+    "speaker": "host",
+    "start": 2873.85,
+    "end": 2875.85,
+    "start_timestamp": "00:47:53.850",
+    "end_timestamp": "00:47:55.850",
+    "text": "走势回测的曲线",
+    "order": 282
+  },
+  {
+    "speaker": "host",
+    "start": 2875.85,
+    "end": 2877.85,
+    "start_timestamp": "00:47:55.850",
+    "end_timestamp": "00:47:57.850",
+    "text": "走势让你印象非常深",
+    "order": 283
+  },
+  {
+    "speaker": "host",
+    "start": 2877.85,
+    "end": 2901.86,
+    "start_timestamp": "00:47:57.850",
+    "end_timestamp": "00:48:21.860",
+    "text": "所以",
+    "order": 284
+  },
+  {
+    "speaker": "host",
+    "start": 2901.86,
+    "end": 2903.86,
+    "start_timestamp": "00:48:21.860",
+    "end_timestamp": "00:48:23.860",
+    "text": "明白所以第一点",
+    "order": 285
+  },
+  {
+    "speaker": "host",
+    "start": 2903.86,
+    "end": 2905.86,
+    "start_timestamp": "00:48:23.860",
+    "end_timestamp": "00:48:25.860",
+    "text": "就是第一方面是来自于你的",
+    "order": 286
+  },
+  {
+    "speaker": "host",
+    "start": 2905.86,
+    "end": 2907.86,
+    "start_timestamp": "00:48:25.860",
+    "end_timestamp": "00:48:27.860",
+    "text": "成就感让你印象非常深",
+    "order": 287
+  },
+  {
+    "speaker": "host",
+    "start": 2907.86,
+    "end": 2909.86,
+    "start_timestamp": "00:48:27.860",
+    "end_timestamp": "00:48:29.860",
+    "text": "然后第二方面是来自于你的",
+    "order": 288
+  },
+  {
+    "speaker": "host",
+    "start": 2909.86,
+    "end": 2911.86,
+    "start_timestamp": "00:48:29.860",
+    "end_timestamp": "00:48:31.860",
+    "text": "参与感或者说",
+    "order": 289
+  },
+  {
+    "speaker": "host",
+    "start": 2911.86,
+    "end": 2913.86,
+    "start_timestamp": "00:48:31.860",
+    "end_timestamp": "00:48:33.860",
+    "text": "它跟你的行业相关性非常的强",
+    "order": 290
+  },
+  {
+    "speaker": "host",
+    "start": 2913.86,
+    "end": 2915.86,
+    "start_timestamp": "00:48:33.860",
+    "end_timestamp": "00:48:35.860",
+    "text": "是跟过往的经历背景",
+    "order": 291
+  },
+  {
+    "speaker": "host",
+    "start": 2915.86,
+    "end": 2917.86,
+    "start_timestamp": "00:48:35.860",
+    "end_timestamp": "00:48:37.860",
+    "text": "是trade金融相关的",
+    "order": 292
+  },
+  {
+    "speaker": "host",
+    "start": 2917.86,
+    "end": 2919.86,
+    "start_timestamp": "00:48:37.860",
+    "end_timestamp": "00:48:39.860",
+    "text": "所以你会非常",
+    "order": 293
+  },
+  {
+    "speaker": "host",
+    "start": 2919.86,
+    "end": 2921.86,
+    "start_timestamp": "00:48:39.860",
+    "end_timestamp": "00:48:41.860",
+    "text": "本身你就非常有兴趣",
+    "order": 294
+  },
+  {
+    "speaker": "host",
+    "start": 2921.86,
+    "end": 2923.86,
+    "start_timestamp": "00:48:41.860",
+    "end_timestamp": "00:48:43.860",
+    "text": "所以印象最深",
+    "order": 295
+  },
+  {
+    "speaker": "host",
+    "start": 2923.86,
+    "end": 2925.86,
+    "start_timestamp": "00:48:43.860",
+    "end_timestamp": "00:48:45.860",
+    "text": "不过你刚刚其实提到了",
+    "order": 296
+  },
+  {
+    "speaker": "host",
+    "start": 2925.86,
+    "end": 2927.86,
+    "start_timestamp": "00:48:45.860",
+    "end_timestamp": "00:48:47.860",
+    "text": "说你意想不到",
+    "order": 297
+  },
+  {
+    "speaker": "host",
+    "start": 2927.86,
+    "end": 2929.86,
+    "start_timestamp": "00:48:47.860",
+    "end_timestamp": "00:48:49.860",
+    "text": "得了第一",
+    "order": 298
+  },
+  {
+    "speaker": "host",
+    "start": 2929.86,
+    "end": 2931.86,
+    "start_timestamp": "00:48:49.860",
+    "end_timestamp": "00:48:51.860",
+    "text": "那",
+    "order": 299
+  },
+  {
+    "speaker": "host",
+    "start": 2931.86,
+    "end": 2933.86,
+    "start_timestamp": "00:48:51.860",
+    "end_timestamp": "00:48:53.860",
+    "text": "是否是在",
+    "order": 300
+  },
+  {
+    "speaker": "host",
+    "start": 2933.86,
+    "end": 2935.86,
+    "start_timestamp": "00:48:53.860",
+    "end_timestamp": "00:48:55.860",
+    "text": "前一天这个转折",
+    "order": 301
+  },
+  {
+    "speaker": "host",
+    "start": 2935.86,
+    "end": 2937.86,
+    "start_timestamp": "00:48:55.860",
+    "end_timestamp": "00:48:57.860",
+    "text": "或者说你的",
+    "order": 302
+  },
+  {
+    "speaker": "host",
+    "start": 2937.86,
+    "end": 2939.86,
+    "start_timestamp": "00:48:57.860",
+    "end_timestamp": "00:48:59.860",
+    "text": "惊喜是更多是来自于",
+    "order": 303
+  },
+  {
+    "speaker": "host",
+    "start": 2939.86,
+    "end": 2941.86,
+    "start_timestamp": "00:48:59.860",
+    "end_timestamp": "00:49:01.860",
+    "text": "曲线本身还是说",
+    "order": 304
+  },
+  {
+    "speaker": "host",
+    "start": 2941.86,
+    "end": 2943.86,
+    "start_timestamp": "00:49:01.860",
+    "end_timestamp": "00:49:03.860",
+    "text": "AI能够写出这么完美的策略",
+    "order": 305
+  },
+  {
+    "speaker": "host",
+    "start": 2943.86,
+    "end": 2947.75,
+    "start_timestamp": "00:49:03.860",
+    "end_timestamp": "00:49:07.750",
+    "text": "还是就是你的意向",
+    "order": 306
+  },
+  {
+    "speaker": "host",
+    "start": 2947.75,
+    "end": 2949.75,
+    "start_timestamp": "00:49:07.750",
+    "end_timestamp": "00:49:09.750",
+    "text": "你的惊喜点",
+    "order": 307
+  },
+  {
+    "speaker": "host",
+    "start": 2949.75,
+    "end": 2951.75,
+    "start_timestamp": "00:49:09.750",
+    "end_timestamp": "00:49:11.750",
+    "text": "你的",
+    "order": 308
+  },
+  {
+    "speaker": "host",
+    "start": 2951.75,
+    "end": 2953.75,
+    "start_timestamp": "00:49:11.750",
+    "end_timestamp": "00:49:13.750",
+    "text": "惊讶点",
+    "order": 309
+  },
+  {
+    "speaker": "host",
+    "start": 2953.75,
+    "end": 2955.75,
+    "start_timestamp": "00:49:13.750",
+    "end_timestamp": "00:49:15.750",
+    "text": "你觉得更多是来自于",
+    "order": 310
+  },
+  {
+    "speaker": "host",
+    "start": 2955.75,
+    "end": 2983.35,
+    "start_timestamp": "00:49:15.750",
+    "end_timestamp": "00:49:43.350",
+    "text": "明白",
+    "order": 311
+  },
+  {
+    "speaker": "host",
+    "start": 2983.35,
+    "end": 2985.35,
+    "start_timestamp": "00:49:43.350",
+    "end_timestamp": "00:49:45.350",
+    "text": "所以在真正曲线",
+    "order": 312
+  },
+  {
+    "speaker": "host",
+    "start": 2985.35,
+    "end": 2987.35,
+    "start_timestamp": "00:49:45.350",
+    "end_timestamp": "00:49:47.350",
+    "text": "跑出来的时候你可能都没有想过",
+    "order": 313
+  },
+  {
+    "speaker": "host",
+    "start": 2987.35,
+    "end": 2989.35,
+    "start_timestamp": "00:49:47.350",
+    "end_timestamp": "00:49:49.350",
+    "text": "AI能够写得这么好",
+    "order": 314
+  },
+  {
+    "speaker": "host",
+    "start": 2989.35,
+    "end": 2995.06,
+    "start_timestamp": "00:49:49.350",
+    "end_timestamp": "00:49:55.060",
+    "text": "明白",
+    "order": 315
+  },
+  {
+    "speaker": "host",
+    "start": 2995.06,
+    "end": 2997.06,
+    "start_timestamp": "00:49:55.060",
+    "end_timestamp": "00:49:57.060",
+    "text": "所以相当于说这是一个AI在",
+    "order": 316
+  },
+  {
+    "speaker": "host",
+    "start": 2997.06,
+    "end": 2999.06,
+    "start_timestamp": "00:49:57.060",
+    "end_timestamp": "00:49:59.060",
+    "text": "trading在quant",
+    "order": 317
+  },
+  {
+    "speaker": "host",
+    "start": 2999.06,
+    "end": 3001.06,
+    "start_timestamp": "00:49:59.060",
+    "end_timestamp": "00:50:01.060",
+    "text": "这个领域的",
+    "order": 318
+  },
+  {
+    "speaker": "host",
+    "start": 3001.06,
+    "end": 3003.06,
+    "start_timestamp": "00:50:01.060",
+    "end_timestamp": "00:50:03.060",
+    "text": "应用不仅仅是",
+    "order": 319
+  },
+  {
+    "speaker": "host",
+    "start": 3003.06,
+    "end": 3005.06,
+    "start_timestamp": "00:50:03.060",
+    "end_timestamp": "00:50:05.060",
+    "text": "在coding方面",
+    "order": 320
+  },
+  {
+    "speaker": "host",
+    "start": 3005.06,
+    "end": 3027.54,
+    "start_timestamp": "00:50:05.060",
+    "end_timestamp": "00:50:27.540",
+    "text": "OK",
+    "order": 321
+  },
+  {
+    "speaker": "host",
+    "start": 3027.54,
+    "end": 3029.54,
+    "start_timestamp": "00:50:27.540",
+    "end_timestamp": "00:50:29.540",
+    "text": "那么你刚才提到还有其他的吗",
+    "order": 322
+  },
+  {
+    "speaker": "host",
+    "start": 3029.54,
+    "end": 3031.54,
+    "start_timestamp": "00:50:29.540",
+    "end_timestamp": "00:50:31.540",
+    "text": "你让你印象非常深的你刚才说一两个",
+    "order": 323
+  },
+  {
+    "speaker": "host",
+    "start": 3119.27,
+    "end": 3129.72,
+    "start_timestamp": "00:51:59.270",
+    "end_timestamp": "00:52:09.720",
+    "text": "可以一两句话讲一下",
+    "order": 324
+  },
+  {
+    "speaker": "host",
+    "start": 3129.72,
+    "end": 3133.16,
+    "start_timestamp": "00:52:09.720",
+    "end_timestamp": "00:52:13.160",
+    "text": "你刚刚说的给cfo的",
+    "order": 325
+  },
+  {
+    "speaker": "host",
+    "start": 3133.16,
+    "end": 3135.16,
+    "start_timestamp": "00:52:13.160",
+    "end_timestamp": "00:52:15.160",
+    "text": "aiagent具体是做什么",
+    "order": 326
+  },
+  {
+    "speaker": "host",
+    "start": 3135.16,
+    "end": 3186.66,
+    "start_timestamp": "00:52:15.160",
+    "end_timestamp": "00:53:06.660",
+    "text": "开发了一个什么样的策略",
+    "order": 327
+  },
+  {
+    "speaker": "host",
+    "start": 3186.66,
+    "end": 3188.66,
+    "start_timestamp": "00:53:06.660",
+    "end_timestamp": "00:53:08.660",
+    "text": "你指的是cfo如果没有",
+    "order": 328
+  },
+  {
+    "speaker": "host",
+    "start": 3188.66,
+    "end": 3190.66,
+    "start_timestamp": "00:53:08.660",
+    "end_timestamp": "00:53:10.660",
+    "text": "aiagent平常的",
+    "order": 329
+  },
+  {
+    "speaker": "host",
+    "start": 3190.66,
+    "end": 3192.66,
+    "start_timestamp": "00:53:10.660",
+    "end_timestamp": "00:53:12.660",
+    "text": "资金管理先进流管理的效率",
+    "order": 330
+  },
+  {
+    "speaker": "host",
+    "start": 3192.66,
+    "end": 3252.26,
+    "start_timestamp": "00:53:12.660",
+    "end_timestamp": "00:54:12.260",
+    "text": "很低吗",
+    "order": 331
+  },
+  {
+    "speaker": "host",
+    "start": 3252.26,
+    "end": 3254.26,
+    "start_timestamp": "00:54:12.260",
+    "end_timestamp": "00:54:14.260",
+    "text": "slack",
+    "order": 332
+  },
+  {
+    "speaker": "host",
+    "start": 3254.26,
+    "end": 3256.26,
+    "start_timestamp": "00:54:14.260",
+    "end_timestamp": "00:54:16.260",
+    "text": "所以在我听起来aiagent",
+    "order": 333
+  },
+  {
+    "speaker": "host",
+    "start": 3256.26,
+    "end": 3276.15,
+    "start_timestamp": "00:54:16.260",
+    "end_timestamp": "00:54:36.150",
+    "text": "其中扮演的角色是",
+    "order": 334
+  },
+  {
+    "speaker": "host",
+    "start": 3276.15,
+    "end": 3346.86,
+    "start_timestamp": "00:54:36.150",
+    "end_timestamp": "00:55:46.860",
+    "text": "从原来",
+    "order": 335
+  },
+  {
+    "speaker": "host",
+    "start": 3346.86,
+    "end": 3348.86,
+    "start_timestamp": "00:55:46.860",
+    "end_timestamp": "00:55:48.860",
+    "text": "非常被动用",
+    "order": 336
+  },
+  {
+    "speaker": "host",
+    "start": 3348.86,
+    "end": 3350.86,
+    "start_timestamp": "00:55:48.860",
+    "end_timestamp": "00:55:50.860",
+    "text": "excel去播放",
+    "order": 337
+  },
+  {
+    "speaker": "host",
+    "start": 3350.86,
+    "end": 3352.86,
+    "start_timestamp": "00:55:50.860",
+    "end_timestamp": "00:55:52.860",
+    "text": "被动用excel去管理",
+    "order": 338
+  },
+  {
+    "speaker": "host",
+    "start": 3352.86,
+    "end": 3354.86,
+    "start_timestamp": "00:55:52.860",
+    "end_timestamp": "00:55:54.860",
+    "text": "然后去被动用公司",
+    "order": 339
+  },
+  {
+    "speaker": "host",
+    "start": 3354.86,
+    "end": 3356.86,
+    "start_timestamp": "00:55:54.860",
+    "end_timestamp": "00:55:56.860",
+    "text": "可能去计算",
+    "order": 340
+  },
+  {
+    "speaker": "host",
+    "start": 3356.86,
+    "end": 3358.86,
+    "start_timestamp": "00:55:56.860",
+    "end_timestamp": "00:55:58.860",
+    "text": "一些数值变成了aiagent",
+    "order": 341
+  },
+  {
+    "speaker": "host",
+    "start": 3358.86,
+    "end": 3360.86,
+    "start_timestamp": "00:55:58.860",
+    "end_timestamp": "00:56:00.860",
+    "text": "能够主动去询问这个cfo",
+    "order": 342
+  },
+  {
+    "speaker": "host",
+    "start": 3360.86,
+    "end": 3362.86,
+    "start_timestamp": "00:56:00.860",
+    "end_timestamp": "00:56:02.860",
+    "text": "数值",
+    "order": 343
+  },
+  {
+    "speaker": "host",
+    "start": 3362.86,
+    "end": 3364.86,
+    "start_timestamp": "00:56:02.860",
+    "end_timestamp": "00:56:04.860",
+    "text": "approved然后剩下的工作可能",
+    "order": 344
+  },
+  {
+    "speaker": "host",
+    "start": 3364.86,
+    "end": 3366.86,
+    "start_timestamp": "00:56:04.860",
+    "end_timestamp": "00:56:06.860",
+    "text": "甚至都可以交给ai去",
+    "order": 345
+  },
+  {
+    "speaker": "host",
+    "start": 3366.86,
+    "end": 3368.86,
+    "start_timestamp": "00:56:06.860",
+    "end_timestamp": "00:56:08.860",
+    "text": "做剩下的工作",
+    "order": 346
+  },
+  {
+    "speaker": "host",
+    "start": 3430.66,
+    "end": 3436.38,
+    "start_timestamp": "00:57:10.660",
+    "end_timestamp": "00:57:16.380",
+    "text": "明白",
+    "order": 347
+  },
+  {
+    "speaker": "host",
+    "start": 3436.38,
+    "end": 3438.38,
+    "start_timestamp": "00:57:16.380",
+    "end_timestamp": "00:57:18.380",
+    "text": "因为可视化它并不是aiagent",
+    "order": 348
+  },
+  {
+    "speaker": "host",
+    "start": 3438.38,
+    "end": 3440.38,
+    "start_timestamp": "00:57:18.380",
+    "end_timestamp": "00:57:20.380",
+    "text": "的强项",
+    "order": 349
+  },
+  {
+    "speaker": "host",
+    "start": 3440.38,
+    "end": 3442.38,
+    "start_timestamp": "00:57:20.380",
+    "end_timestamp": "00:57:22.380",
+    "text": "但是你刚刚提到有两个点",
+    "order": 350
+  },
+  {
+    "speaker": "host",
+    "start": 3442.38,
+    "end": 3444.38,
+    "start_timestamp": "00:57:22.380",
+    "end_timestamp": "00:57:24.380",
+    "text": "可能aiagent有的",
+    "order": 351
+  },
+  {
+    "speaker": "host",
+    "start": 3444.38,
+    "end": 3446.38,
+    "start_timestamp": "00:57:24.380",
+    "end_timestamp": "00:57:26.380",
+    "text": "一种是从原来的被动",
+    "order": 352
+  },
+  {
+    "speaker": "host",
+    "start": 3446.38,
+    "end": 3448.38,
+    "start_timestamp": "00:57:26.380",
+    "end_timestamp": "00:57:28.380",
+    "text": "管理变成了主动去管理效率",
+    "order": 353
+  },
+  {
+    "speaker": "host",
+    "start": 3448.38,
+    "end": 3450.38,
+    "start_timestamp": "00:57:28.380",
+    "end_timestamp": "00:57:30.380",
+    "text": "提升了然后还可以去",
+    "order": 354
+  },
+  {
+    "speaker": "host",
+    "start": 3450.38,
+    "end": 3452.38,
+    "start_timestamp": "00:57:30.380",
+    "end_timestamp": "00:57:32.380",
+    "text": "喜好调整可以调",
+    "order": 355
+  },
+  {
+    "speaker": "host",
+    "start": 3452.38,
+    "end": 3454.38,
+    "start_timestamp": "00:57:32.380",
+    "end_timestamp": "00:57:34.380",
+    "text": "cfo",
+    "order": 356
+  },
+  {
+    "speaker": "host",
+    "start": 3454.38,
+    "end": 3502.04,
+    "start_timestamp": "00:57:34.380",
+    "end_timestamp": "00:58:22.040",
+    "text": "preference",
+    "order": 357
+  },
+  {
+    "speaker": "host",
+    "start": 3502.04,
+    "end": 3504.04,
+    "start_timestamp": "00:58:22.040",
+    "end_timestamp": "00:58:24.040",
+    "text": "你刚刚说cfo有自己的",
+    "order": 358
+  },
+  {
+    "speaker": "host",
+    "start": 3504.04,
+    "end": 3506.04,
+    "start_timestamp": "00:58:24.040",
+    "end_timestamp": "00:58:26.040",
+    "text": "管理偏好这个偏好",
+    "order": 359
+  },
+  {
+    "speaker": "host",
+    "start": 3506.04,
+    "end": 3508.04,
+    "start_timestamp": "00:58:26.040",
+    "end_timestamp": "00:58:28.040",
+    "text": "可以这样那样可以具体",
+    "order": 360
+  },
+  {
+    "speaker": "host",
+    "start": 3508.04,
+    "end": 3510.04,
+    "start_timestamp": "00:58:28.040",
+    "end_timestamp": "00:58:30.040",
+    "text": "可以怎样管理",
+    "order": 361
+  },
+  {
+    "speaker": "host",
+    "start": 3510.04,
+    "end": 3565.03,
+    "start_timestamp": "00:58:30.040",
+    "end_timestamp": "00:59:25.030",
+    "text": "明白",
+    "order": 362
+  },
+  {
+    "speaker": "host",
+    "start": 3565.03,
+    "end": 3567.03,
+    "start_timestamp": "00:59:25.030",
+    "end_timestamp": "00:59:27.030",
+    "text": "所以aiagent就像个秘书",
+    "order": 363
+  },
+  {
+    "speaker": "host",
+    "start": 3567.03,
+    "end": 3569.03,
+    "start_timestamp": "00:59:27.030",
+    "end_timestamp": "00:59:29.030",
+    "text": "又可以主动询问",
+    "order": 364
+  },
+  {
+    "speaker": "host",
+    "start": 3569.03,
+    "end": 3590.78,
+    "start_timestamp": "00:59:29.030",
+    "end_timestamp": "00:59:50.780",
+    "text": "明白",
+    "order": 365
+  },
+  {
+    "speaker": "host",
+    "start": 3590.78,
+    "end": 3592.78,
+    "start_timestamp": "00:59:50.780",
+    "end_timestamp": "00:59:52.780",
+    "text": "明白就相当于做了一个",
+    "order": 366
+  },
+  {
+    "speaker": "host",
+    "start": 3592.78,
+    "end": 3594.78,
+    "start_timestamp": "00:59:52.780",
+    "end_timestamp": "00:59:54.780",
+    "text": "cfo的私人",
+    "order": 367
+  },
+  {
+    "speaker": "host",
+    "start": 3594.78,
+    "end": 3596.78,
+    "start_timestamp": "00:59:54.780",
+    "end_timestamp": "00:59:56.780",
+    "text": "秘书的一个aiagent",
+    "order": 368
+  },
+  {
+    "speaker": "host",
+    "start": 3596.78,
+    "end": 3615.32,
+    "start_timestamp": "00:59:56.780",
+    "end_timestamp": "01:00:15.320",
+    "text": "这次的hackathon",
+    "order": 369
+  },
+  {
+    "speaker": "host",
+    "start": 3615.32,
+    "end": 3618.92,
+    "start_timestamp": "01:00:15.320",
+    "end_timestamp": "01:00:18.920",
+    "text": "其实是没有得奖",
+    "order": 370
+  },
+  {
+    "speaker": "host",
+    "start": 3618.92,
+    "end": 3651.19,
+    "start_timestamp": "01:00:18.920",
+    "end_timestamp": "01:00:51.190",
+    "text": "第二名所以你得奖",
+    "order": 371
+  },
+  {
+    "speaker": "host",
+    "start": 3651.19,
+    "end": 3653.19,
+    "start_timestamp": "01:00:51.190",
+    "end_timestamp": "01:00:53.190",
+    "text": "其实没有那么的意外",
+    "order": 372
+  },
+  {
+    "speaker": "host",
+    "start": 3653.19,
+    "end": 3674.26,
+    "start_timestamp": "01:00:53.190",
+    "end_timestamp": "01:01:14.260",
+    "text": "可以OK明白",
+    "order": 373
+  },
+  {
+    "speaker": "host",
+    "start": 3676.26,
+    "end": 3678.26,
+    "start_timestamp": "01:01:16.260",
+    "end_timestamp": "01:01:18.260",
+    "text": "我看看关于这个hackathon",
+    "order": 374
+  },
+  {
+    "speaker": "host",
+    "start": 3678.26,
+    "end": 3687.88,
+    "start_timestamp": "01:01:18.260",
+    "end_timestamp": "01:01:27.880",
+    "text": "所以这次的hackathon",
+    "order": 375
+  },
+  {
+    "speaker": "host",
+    "start": 3687.88,
+    "end": 3689.88,
+    "start_timestamp": "01:01:27.880",
+    "end_timestamp": "01:01:29.880",
+    "text": "你最大的收获是什么",
+    "order": 376
+  },
+  {
+    "speaker": "host",
+    "start": 3689.88,
+    "end": 3719.69,
+    "start_timestamp": "01:01:29.880",
+    "end_timestamp": "01:01:59.690",
+    "text": "所以回到了说",
+    "order": 377
+  },
+  {
+    "speaker": "host",
+    "start": 3719.69,
+    "end": 3721.69,
+    "start_timestamp": "01:01:59.690",
+    "end_timestamp": "01:02:01.690",
+    "text": "你其实参加hackathon更多",
+    "order": 378
+  },
+  {
+    "speaker": "host",
+    "start": 3721.69,
+    "end": 3723.69,
+    "start_timestamp": "01:02:01.690",
+    "end_timestamp": "01:02:03.690",
+    "text": "是学习的目的",
+    "order": 379
+  },
+  {
+    "speaker": "host",
+    "start": 3723.69,
+    "end": 3732.41,
+    "start_timestamp": "01:02:03.690",
+    "end_timestamp": "01:02:12.410",
+    "text": "交流的目的",
+    "order": 380
+  },
+  {
+    "speaker": "host",
+    "start": 3732.41,
+    "end": 3734.41,
+    "start_timestamp": "01:02:12.410",
+    "end_timestamp": "01:02:14.410",
+    "text": "OK你刚刚还有说",
+    "order": 381
+  },
+  {
+    "speaker": "host",
+    "start": 3734.41,
+    "end": 3736.41,
+    "start_timestamp": "01:02:14.410",
+    "end_timestamp": "01:02:16.410",
+    "text": "另外一场hackathon吗",
+    "order": 382
+  },
+  {
+    "speaker": "host",
+    "start": 3736.41,
+    "end": 3740.68,
+    "start_timestamp": "01:02:16.410",
+    "end_timestamp": "01:02:20.680",
+    "text": "印象深",
+    "order": 383
+  },
+  {
+    "speaker": "host",
+    "start": 3740.68,
+    "end": 3895.38,
+    "start_timestamp": "01:02:20.680",
+    "end_timestamp": "01:04:55.380",
+    "text": "所以我感觉",
+    "order": 384
+  },
+  {
+    "speaker": "host",
+    "start": 3895.38,
+    "end": 3897.38,
+    "start_timestamp": "01:04:55.380",
+    "end_timestamp": "01:04:57.380",
+    "text": "让你印象深的",
+    "order": 385
+  },
+  {
+    "speaker": "host",
+    "start": 3897.38,
+    "end": 3899.38,
+    "start_timestamp": "01:04:57.380",
+    "end_timestamp": "01:04:59.380",
+    "text": "一些共同点",
+    "order": 386
+  },
+  {
+    "speaker": "host",
+    "start": 3899.38,
+    "end": 3901.38,
+    "start_timestamp": "01:04:59.380",
+    "end_timestamp": "01:05:01.380",
+    "text": "有个很大的共同点就是",
+    "order": 387
+  },
+  {
+    "speaker": "host",
+    "start": 3901.38,
+    "end": 3903.38,
+    "start_timestamp": "01:05:01.380",
+    "end_timestamp": "01:05:03.380",
+    "text": "很多是大厂举办的hackathon",
+    "order": 388
+  },
+  {
+    "speaker": "host",
+    "start": 3903.38,
+    "end": 3905.38,
+    "start_timestamp": "01:05:03.380",
+    "end_timestamp": "01:05:05.380",
+    "text": "他们举办的活动",
+    "order": 389
+  },
+  {
+    "speaker": "host",
+    "start": 3905.38,
+    "end": 3907.38,
+    "start_timestamp": "01:05:05.380",
+    "end_timestamp": "01:05:07.380",
+    "text": "的氛围啊吃的",
+    "order": 390
+  },
+  {
+    "speaker": "host",
+    "start": 3907.38,
+    "end": 3909.38,
+    "start_timestamp": "01:05:07.380",
+    "end_timestamp": "01:05:09.380",
+    "text": "喝的可能都不知道",
+    "order": 391
+  },
+  {
+    "speaker": "host",
+    "start": 3909.38,
+    "end": 3927.26,
+    "start_timestamp": "01:05:09.380",
+    "end_timestamp": "01:05:27.260",
+    "text": "这些hackathon都是免费的吗",
+    "order": 392
+  },
+  {
+    "speaker": "host",
+    "start": 3927.26,
+    "end": 3984.62,
+    "start_timestamp": "01:05:27.260",
+    "end_timestamp": "01:06:24.620",
+    "text": "明白",
+    "order": 393
+  },
+  {
+    "speaker": "host",
+    "start": 3984.62,
+    "end": 3986.62,
+    "start_timestamp": "01:06:24.620",
+    "end_timestamp": "01:06:26.620",
+    "text": "所以你刚刚分享了非常多的",
+    "order": 394
+  },
+  {
+    "speaker": "host",
+    "start": 3986.62,
+    "end": 3988.62,
+    "start_timestamp": "01:06:26.620",
+    "end_timestamp": "01:06:28.620",
+    "text": "让你印象深的",
+    "order": 395
+  },
+  {
+    "speaker": "host",
+    "start": 3988.62,
+    "end": 3992.22,
+    "start_timestamp": "01:06:28.620",
+    "end_timestamp": "01:06:32.220",
+    "text": "hackathon",
+    "order": 396
+  },
+  {
+    "speaker": "host",
+    "start": 3992.22,
+    "end": 3994.22,
+    "start_timestamp": "01:06:32.220",
+    "end_timestamp": "01:06:34.220",
+    "text": "但更多的目的你抱的目的",
+    "order": 397
+  },
+  {
+    "speaker": "host",
+    "start": 3994.22,
+    "end": 3996.22,
+    "start_timestamp": "01:06:34.220",
+    "end_timestamp": "01:06:36.220",
+    "text": "是去学习",
+    "order": 398
+  },
+  {
+    "speaker": "host",
+    "start": 3996.22,
+    "end": 3998.22,
+    "start_timestamp": "01:06:36.220",
+    "end_timestamp": "01:06:38.220",
+    "text": "去交流",
+    "order": 399
+  },
+  {
+    "speaker": "host",
+    "start": 3998.22,
+    "end": 4000.22,
+    "start_timestamp": "01:06:38.220",
+    "end_timestamp": "01:06:40.220",
+    "text": "在我听起来它更像是",
+    "order": 400
+  },
+  {
+    "speaker": "host",
+    "start": 4000.22,
+    "end": 4002.22,
+    "start_timestamp": "01:06:40.220",
+    "end_timestamp": "01:06:42.220",
+    "text": "一个过程",
+    "order": 401
+  },
+  {
+    "speaker": "host",
+    "start": 4002.22,
+    "end": 4004.22,
+    "start_timestamp": "01:06:42.220",
+    "end_timestamp": "01:06:44.220",
+    "text": "它不是你最终的目的",
+    "order": 402
+  },
+  {
+    "speaker": "host",
+    "start": 4004.22,
+    "end": 4006.22,
+    "start_timestamp": "01:06:44.220",
+    "end_timestamp": "01:06:46.220",
+    "text": "就像你最开始也说了",
+    "order": 403
+  },
+  {
+    "speaker": "host",
+    "start": 4006.22,
+    "end": 4008.22,
+    "start_timestamp": "01:06:46.220",
+    "end_timestamp": "01:06:48.220",
+    "text": "你未来想做一个数字游民",
+    "order": 404
+  },
+  {
+    "speaker": "host",
+    "start": 4008.22,
+    "end": 4010.22,
+    "start_timestamp": "01:06:48.220",
+    "end_timestamp": "01:06:50.220",
+    "text": "不仅要有面包",
+    "order": 405
+  },
+  {
+    "speaker": "host",
+    "start": 4010.22,
+    "end": 4012.22,
+    "start_timestamp": "01:06:50.220",
+    "end_timestamp": "01:06:52.220",
+    "text": "不仅是跟大家交流",
+    "order": 406
+  },
+  {
+    "speaker": "host",
+    "start": 4012.22,
+    "end": 4014.22,
+    "start_timestamp": "01:06:52.220",
+    "end_timestamp": "01:06:54.220",
+    "text": "那你参加我们这个hackathon",
+    "order": 407
+  },
+  {
+    "speaker": "host",
+    "start": 4014.22,
+    "end": 4016.22,
+    "start_timestamp": "01:06:54.220",
+    "end_timestamp": "01:06:56.220",
+    "text": "最终你有没有一个想达到的",
+    "order": 408
+  },
+  {
+    "speaker": "host",
+    "start": 4016.22,
+    "end": 4018.22,
+    "start_timestamp": "01:06:56.220",
+    "end_timestamp": "01:06:58.220",
+    "text": "一个目的",
+    "order": 409
+  },
+  {
+    "speaker": "host",
+    "start": 4018.22,
+    "end": 4020.22,
+    "start_timestamp": "01:06:58.220",
+    "end_timestamp": "01:07:00.220",
+    "text": "比如像你跟CFO是想去",
+    "order": 410
+  },
+  {
+    "speaker": "host",
+    "start": 4020.22,
+    "end": 4022.22,
+    "start_timestamp": "01:07:00.220",
+    "end_timestamp": "01:07:02.220",
+    "text": "入职更好的人脉",
+    "order": 411
+  },
+  {
+    "speaker": "host",
+    "start": 4022.22,
+    "end": 4163.1,
+    "start_timestamp": "01:07:02.220",
+    "end_timestamp": "01:09:23.100",
+    "text": "还是",
+    "order": 412
+  },
+  {
+    "speaker": "host",
+    "start": 4163.1,
+    "end": 4223.72,
+    "start_timestamp": "01:09:23.100",
+    "end_timestamp": "01:10:23.720",
+    "text": "所以我想",
+    "order": 413
+  },
+  {
+    "speaker": "host",
+    "start": 4223.72,
+    "end": 4225.72,
+    "start_timestamp": "01:10:23.720",
+    "end_timestamp": "01:10:25.720",
+    "text": "所以我可以理解成你参加",
+    "order": 414
+  },
+  {
+    "speaker": "host",
+    "start": 4225.72,
+    "end": 4227.72,
+    "start_timestamp": "01:10:25.720",
+    "end_timestamp": "01:10:27.720",
+    "text": "很多的hackathon",
+    "order": 415
+  },
+  {
+    "speaker": "host",
+    "start": 4227.72,
+    "end": 4229.72,
+    "start_timestamp": "01:10:27.720",
+    "end_timestamp": "01:10:29.720",
+    "text": "最终的目的不是为了",
+    "order": 416
+  },
+  {
+    "speaker": "host",
+    "start": 4229.72,
+    "end": 4231.72,
+    "start_timestamp": "01:10:29.720",
+    "end_timestamp": "01:10:31.720",
+    "text": "去链接人去networking",
+    "order": 417
+  },
+  {
+    "speaker": "host",
+    "start": 4231.72,
+    "end": 4233.72,
+    "start_timestamp": "01:10:31.720",
+    "end_timestamp": "01:10:33.720",
+    "text": "而是说去转型",
+    "order": 418
+  },
+  {
+    "speaker": "host",
+    "start": 4233.72,
+    "end": 4247.62,
+    "start_timestamp": "01:10:33.720",
+    "end_timestamp": "01:10:47.620",
+    "text": "未来有更多的机会",
+    "order": 419
+  },
+  {
+    "speaker": "host",
+    "start": 4247.62,
+    "end": 4249.62,
+    "start_timestamp": "01:10:47.620",
+    "end_timestamp": "01:10:49.620",
+    "text": "就学习了之后",
+    "order": 420
+  },
+  {
+    "speaker": "host",
+    "start": 4249.62,
+    "end": 4251.62,
+    "start_timestamp": "01:10:49.620",
+    "end_timestamp": "01:10:51.620",
+    "text": "你更进一步的目的是为了",
+    "order": 421
+  },
+  {
+    "speaker": "host",
+    "start": 4251.62,
+    "end": 4253.62,
+    "start_timestamp": "01:10:51.620",
+    "end_timestamp": "01:10:53.620",
+    "text": "未来的转型",
+    "order": 422
+  },
+  {
+    "speaker": "host",
+    "start": 4253.62,
+    "end": 4255.62,
+    "start_timestamp": "01:10:53.620",
+    "end_timestamp": "01:10:55.620",
+    "text": "从原来的accounting背景变成",
+    "order": 423
+  },
+  {
+    "speaker": "host",
+    "start": 4255.62,
+    "end": 4257.62,
+    "start_timestamp": "01:10:55.620",
+    "end_timestamp": "01:10:57.620",
+    "text": "一个更新型的背景",
+    "order": 424
+  },
+  {
+    "speaker": "host",
+    "start": 4257.62,
+    "end": 4259.62,
+    "start_timestamp": "01:10:57.620",
+    "end_timestamp": "01:10:59.620",
+    "text": "对吗",
+    "order": 425
+  },
+  {
+    "speaker": "host",
+    "start": 4259.62,
+    "end": 4261.62,
+    "start_timestamp": "01:10:59.620",
+    "end_timestamp": "01:11:01.620",
+    "text": "那这个转型你想转的是",
+    "order": 426
+  },
+  {
+    "speaker": "host",
+    "start": 4261.62,
+    "end": 4265.1,
+    "start_timestamp": "01:11:01.620",
+    "end_timestamp": "01:11:05.100",
+    "text": "什么型呢",
+    "order": 427
+  },
+  {
+    "speaker": "host",
+    "start": 4265.1,
+    "end": 4299.9,
+    "start_timestamp": "01:11:05.100",
+    "end_timestamp": "01:11:39.900",
+    "text": "AI",
+    "order": 428
+  },
+  {
+    "speaker": "host",
+    "start": 4299.9,
+    "end": 4301.9,
+    "start_timestamp": "01:11:39.900",
+    "end_timestamp": "01:11:41.900",
+    "text": "不过你刚刚提到说",
+    "order": 429
+  },
+  {
+    "speaker": "host",
+    "start": 4301.9,
+    "end": 4303.9,
+    "start_timestamp": "01:11:41.900",
+    "end_timestamp": "01:11:43.900",
+    "text": "你想转型的很多点AI web3",
+    "order": 430
+  },
+  {
+    "speaker": "host",
+    "start": 4303.9,
+    "end": 4305.9,
+    "start_timestamp": "01:11:43.900",
+    "end_timestamp": "01:11:45.900",
+    "text": "marketing设备都可以转",
+    "order": 431
+  },
+  {
+    "speaker": "host",
+    "start": 4305.9,
+    "end": 4307.9,
+    "start_timestamp": "01:11:45.900",
+    "end_timestamp": "01:11:47.900",
+    "text": "那你刚刚提到很多hackathon",
+    "order": 432
+  },
+  {
+    "speaker": "host",
+    "start": 4307.9,
+    "end": 4309.9,
+    "start_timestamp": "01:11:47.900",
+    "end_timestamp": "01:11:49.900",
+    "text": "其实",
+    "order": 433
+  },
+  {
+    "speaker": "host",
+    "start": 4309.9,
+    "end": 4311.9,
+    "start_timestamp": "01:11:49.900",
+    "end_timestamp": "01:11:51.900",
+    "text": "也有参加hackathon web3的活动",
+    "order": 434
+  },
+  {
+    "speaker": "host",
+    "start": 4311.9,
+    "end": 4313.9,
+    "start_timestamp": "01:11:51.900",
+    "end_timestamp": "01:11:53.900",
+    "text": "那设备和marketing这个",
+    "order": 435
+  },
+  {
+    "speaker": "host",
+    "start": 4313.9,
+    "end": 4315.9,
+    "start_timestamp": "01:11:53.900",
+    "end_timestamp": "01:11:55.900",
+    "text": "是",
+    "order": 436
+  },
+  {
+    "speaker": "host",
+    "start": 4315.9,
+    "end": 4317.9,
+    "start_timestamp": "01:11:55.900",
+    "end_timestamp": "01:11:57.900",
+    "text": "参加这些活动是怎么帮助到你",
+    "order": 437
+  },
+  {
+    "speaker": "host",
+    "start": 4317.9,
+    "end": 4371.16,
+    "start_timestamp": "01:11:57.900",
+    "end_timestamp": "01:12:51.160",
+    "text": "设备和marketing转型",
+    "order": 438
+  },
+  {
+    "speaker": "host",
+    "start": 4371.16,
+    "end": 4373.16,
+    "start_timestamp": "01:12:51.160",
+    "end_timestamp": "01:12:53.160",
+    "text": "是做了一个什么样的marketing",
+    "order": 439
+  },
+  {
+    "speaker": "host",
+    "start": 4373.16,
+    "end": 4406.78,
+    "start_timestamp": "01:12:53.160",
+    "end_timestamp": "01:13:26.780",
+    "text": "活动",
+    "order": 440
+  },
+  {
+    "speaker": "host",
+    "start": 4406.78,
+    "end": 4468.17,
+    "start_timestamp": "01:13:26.780",
+    "end_timestamp": "01:14:28.170",
+    "text": "你没有得奖的时候",
+    "order": 441
+  },
+  {
+    "speaker": "host",
+    "start": 4468.17,
+    "end": 4470.17,
+    "start_timestamp": "01:14:28.170",
+    "end_timestamp": "01:14:30.170",
+    "text": "你会比较失落吗",
+    "order": 442
+  },
+  {
+    "speaker": "host",
+    "start": 4470.17,
+    "end": 4499.4,
+    "start_timestamp": "01:14:30.170",
+    "end_timestamp": "01:14:59.400",
+    "text": "所以你也参加过",
+    "order": 443
+  },
+  {
+    "speaker": "host",
+    "start": 4499.4,
+    "end": 4501.4,
+    "start_timestamp": "01:14:59.400",
+    "end_timestamp": "01:15:01.400",
+    "text": "marketing方向的hackathon",
+    "order": 444
+  },
+  {
+    "speaker": "host",
+    "start": 4501.4,
+    "end": 4503.4,
+    "start_timestamp": "01:15:01.400",
+    "end_timestamp": "01:15:03.400",
+    "text": "确实我",
+    "order": 445
+  },
+  {
+    "speaker": "host",
+    "start": 4503.4,
+    "end": 4505.4,
+    "start_timestamp": "01:15:03.400",
+    "end_timestamp": "01:15:05.400",
+    "text": "因为我是coding背景的",
+    "order": 446
+  },
+  {
+    "speaker": "host",
+    "start": 4505.4,
+    "end": 4507.4,
+    "start_timestamp": "01:15:05.400",
+    "end_timestamp": "01:15:07.400",
+    "text": "我的观察以前很多的hackathon",
+    "order": 447
+  },
+  {
+    "speaker": "host",
+    "start": 4507.4,
+    "end": 4509.4,
+    "start_timestamp": "01:15:07.400",
+    "end_timestamp": "01:15:09.400",
+    "text": "都是面向于coding背景的人",
+    "order": 448
+  },
+  {
+    "speaker": "host",
+    "start": 4509.4,
+    "end": 4511.4,
+    "start_timestamp": "01:15:09.400",
+    "end_timestamp": "01:15:11.400",
+    "text": "但现在好像有各种",
+    "order": 449
+  },
+  {
+    "speaker": "host",
+    "start": 4511.4,
+    "end": 4516.22,
+    "start_timestamp": "01:15:11.400",
+    "end_timestamp": "01:15:16.220",
+    "text": "topic的",
+    "order": 450
+  },
+  {
+    "speaker": "host",
+    "start": 4516.22,
+    "end": 4518.22,
+    "start_timestamp": "01:15:16.220",
+    "end_timestamp": "01:15:18.220",
+    "text": "你刚刚还提到了另外一个转型是设备",
+    "order": 451
+  },
+  {
+    "speaker": "host",
+    "start": 4518.22,
+    "end": 4520.22,
+    "start_timestamp": "01:15:18.220",
+    "end_timestamp": "01:15:20.220",
+    "text": "有专门设备的活动吗还是说",
+    "order": 452
+  },
+  {
+    "speaker": "host",
+    "start": 4520.22,
+    "end": 4522.22,
+    "start_timestamp": "01:15:20.220",
+    "end_timestamp": "01:15:22.220",
+    "text": "是参加这个活动能够",
+    "order": 453
+  },
+  {
+    "speaker": "host",
+    "start": 4522.22,
+    "end": 4592.5,
+    "start_timestamp": "01:15:22.220",
+    "end_timestamp": "01:16:32.500",
+    "text": "辅助到你的设备",
+    "order": 454
+  },
+  {
+    "speaker": "host",
+    "start": 4592.5,
+    "end": 4594.5,
+    "start_timestamp": "01:16:32.500",
+    "end_timestamp": "01:16:34.500",
+    "text": "这里的设备指的是你做自媒体",
+    "order": 455
+  },
+  {
+    "speaker": "host",
+    "start": 4594.5,
+    "end": 4596.5,
+    "start_timestamp": "01:16:34.500",
+    "end_timestamp": "01:16:36.500",
+    "text": "做",
+    "order": 456
+  },
+  {
+    "speaker": "host",
+    "start": 4596.5,
+    "end": 4612.81,
+    "start_timestamp": "01:16:36.500",
+    "end_timestamp": "01:16:52.810",
+    "text": "OK",
+    "order": 457
+  },
+  {
+    "speaker": "host",
+    "start": 4612.81,
+    "end": 4614.81,
+    "start_timestamp": "01:16:52.810",
+    "end_timestamp": "01:16:54.810",
+    "text": "所以相对来说参加hackathon",
+    "order": 458
+  },
+  {
+    "speaker": "host",
+    "start": 4614.81,
+    "end": 4616.81,
+    "start_timestamp": "01:16:54.810",
+    "end_timestamp": "01:16:56.810",
+    "text": "能够更好地帮助你去设备转型",
+    "order": 459
+  },
+  {
+    "speaker": "host",
+    "start": 4616.81,
+    "end": 4618.81,
+    "start_timestamp": "01:16:56.810",
+    "end_timestamp": "01:16:58.810",
+    "text": "是它帮你积累了很多素材",
+    "order": 460
+  },
+  {
+    "speaker": "host",
+    "start": 4618.81,
+    "end": 4626.25,
+    "start_timestamp": "01:16:58.810",
+    "end_timestamp": "01:17:06.250",
+    "text": "我可以这么理解",
+    "order": 461
+  },
+  {
+    "speaker": "host",
+    "start": 4626.25,
+    "end": 4628.25,
+    "start_timestamp": "01:17:06.250",
+    "end_timestamp": "01:17:08.250",
+    "text": "明白",
+    "order": 462
+  },
+  {
+    "speaker": "host",
+    "start": 4628.25,
+    "end": 4661.96,
+    "start_timestamp": "01:17:08.250",
+    "end_timestamp": "01:17:41.960",
+    "text": "那未来你是想保持这样的人设吗",
+    "order": 463
+  },
+  {
+    "speaker": "host",
+    "start": 4661.96,
+    "end": 4663.96,
+    "start_timestamp": "01:17:41.960",
+    "end_timestamp": "01:17:43.960",
+    "text": "明白",
+    "order": 464
+  },
+  {
+    "speaker": "host",
+    "start": 4663.96,
+    "end": 4665.96,
+    "start_timestamp": "01:17:43.960",
+    "end_timestamp": "01:17:45.960",
+    "text": "不过很有意思的一点",
+    "order": 465
+  },
+  {
+    "speaker": "host",
+    "start": 4665.96,
+    "end": 4667.96,
+    "start_timestamp": "01:17:45.960",
+    "end_timestamp": "01:17:47.960",
+    "text": "我听完你刚刚分享的几个hackathon",
+    "order": 466
+  },
+  {
+    "speaker": "host",
+    "start": 4667.96,
+    "end": 4669.96,
+    "start_timestamp": "01:17:47.960",
+    "end_timestamp": "01:17:49.960",
+    "text": "有marketing的",
+    "order": 467
+  },
+  {
+    "speaker": "host",
+    "start": 4669.96,
+    "end": 4671.96,
+    "start_timestamp": "01:17:49.960",
+    "end_timestamp": "01:17:51.960",
+    "text": "有cfo有金融的",
+    "order": 468
+  },
+  {
+    "speaker": "host",
+    "start": 4671.96,
+    "end": 4673.96,
+    "start_timestamp": "01:17:51.960",
+    "end_timestamp": "01:17:53.960",
+    "text": "有quant",
+    "order": 469
+  },
+  {
+    "speaker": "host",
+    "start": 4673.96,
+    "end": 4675.96,
+    "start_timestamp": "01:17:53.960",
+    "end_timestamp": "01:17:55.960",
+    "text": "有accounting",
+    "order": 470
+  },
+  {
+    "speaker": "host",
+    "start": 4675.96,
+    "end": 4677.96,
+    "start_timestamp": "01:17:55.960",
+    "end_timestamp": "01:17:57.960",
+    "text": "有vibe coding",
+    "order": 471
+  },
+  {
+    "speaker": "host",
+    "start": 4677.96,
+    "end": 4679.96,
+    "start_timestamp": "01:17:57.960",
+    "end_timestamp": "01:17:59.960",
+    "text": "但是都有提到一个common word",
+    "order": 472
+  },
+  {
+    "speaker": "host",
+    "start": 4679.96,
+    "end": 4681.96,
+    "start_timestamp": "01:17:59.960",
+    "end_timestamp": "01:18:01.960",
+    "text": "就是ai agent",
+    "order": 473
+  },
+  {
+    "speaker": "host",
+    "start": 4681.96,
+    "end": 4683.96,
+    "start_timestamp": "01:18:01.960",
+    "end_timestamp": "01:18:03.960",
+    "text": "都提到了",
+    "order": 474
+  },
+  {
+    "speaker": "host",
+    "start": 4683.96,
+    "end": 4685.96,
+    "start_timestamp": "01:18:03.960",
+    "end_timestamp": "01:18:05.960",
+    "text": "这个点包括",
+    "order": 475
+  },
+  {
+    "speaker": "host",
+    "start": 4685.96,
+    "end": 4687.96,
+    "start_timestamp": "01:18:05.960",
+    "end_timestamp": "01:18:07.960",
+    "text": "你们做了一个",
+    "order": 476
+  },
+  {
+    "speaker": "host",
+    "start": 4687.96,
+    "end": 4689.96,
+    "start_timestamp": "01:18:07.960",
+    "end_timestamp": "01:18:09.960",
+    "text": "assistant",
+    "order": 477
+  },
+  {
+    "speaker": "host",
+    "start": 4689.96,
+    "end": 4693.3,
+    "start_timestamp": "01:18:09.960",
+    "end_timestamp": "01:18:13.300",
+    "text": "message assistant",
+    "order": 478
+  },
+  {
+    "speaker": "host",
+    "start": 4693.3,
+    "end": 4695.3,
+    "start_timestamp": "01:18:13.300",
+    "end_timestamp": "01:18:15.300",
+    "text": "去做ai agent",
+    "order": 479
+  },
+  {
+    "speaker": "host",
+    "start": 4695.3,
+    "end": 4697.3,
+    "start_timestamp": "01:18:15.300",
+    "end_timestamp": "01:18:17.300",
+    "text": "所以ai agent",
+    "order": 480
+  },
+  {
+    "speaker": "host",
+    "start": 4697.3,
+    "end": 4699.3,
+    "start_timestamp": "01:18:17.300",
+    "end_timestamp": "01:18:19.300",
+    "text": "是你这半年",
+    "order": 481
+  },
+  {
+    "speaker": "host",
+    "start": 4699.3,
+    "end": 4701.3,
+    "start_timestamp": "01:18:19.300",
+    "end_timestamp": "01:18:21.300",
+    "text": "另一个经常提到的",
+    "order": 482
+  },
+  {
+    "speaker": "host",
+    "start": 4701.3,
+    "end": 4731.43,
+    "start_timestamp": "01:18:21.300",
+    "end_timestamp": "01:18:51.430",
+    "text": "词",
+    "order": 483
+  },
+  {
+    "speaker": "host",
+    "start": 4731.43,
+    "end": 4734.97,
+    "start_timestamp": "01:18:51.430",
+    "end_timestamp": "01:18:54.970",
+    "text": "这个很有意思",
+    "order": 484
+  },
+  {
+    "speaker": "host",
+    "start": 4734.97,
+    "end": 4736.97,
+    "start_timestamp": "01:18:54.970",
+    "end_timestamp": "01:18:56.970",
+    "text": "就是有专业的人或者说",
+    "order": 485
+  },
+  {
+    "speaker": "host",
+    "start": 4736.97,
+    "end": 4738.97,
+    "start_timestamp": "01:18:56.970",
+    "end_timestamp": "01:18:58.970",
+    "text": "可能是engineer告诉你",
+    "order": 486
+  },
+  {
+    "speaker": "host",
+    "start": 4738.97,
+    "end": 4740.97,
+    "start_timestamp": "01:18:58.970",
+    "end_timestamp": "01:19:00.970",
+    "text": "这个不算agent",
+    "order": 487
+  },
+  {
+    "speaker": "host",
+    "start": 4740.97,
+    "end": 4742.97,
+    "start_timestamp": "01:19:00.970",
+    "end_timestamp": "01:19:02.970",
+    "text": "可能是prime engineer",
+    "order": 488
+  },
+  {
+    "speaker": "host",
+    "start": 4742.97,
+    "end": 4744.97,
+    "start_timestamp": "01:19:02.970",
+    "end_timestamp": "01:19:04.970",
+    "text": "他会不会让你",
+    "order": 489
+  },
+  {
+    "speaker": "host",
+    "start": 4744.97,
+    "end": 4746.97,
+    "start_timestamp": "01:19:04.970",
+    "end_timestamp": "01:19:06.970",
+    "text": "很沮丧",
+    "order": 490
+  },
+  {
+    "speaker": "host",
+    "start": 4746.97,
+    "end": 4748.97,
+    "start_timestamp": "01:19:06.970",
+    "end_timestamp": "01:19:08.970",
+    "text": "或者",
+    "order": 491
+  },
+  {
+    "speaker": "host",
+    "start": 4748.97,
+    "end": 4779.61,
+    "start_timestamp": "01:19:08.970",
+    "end_timestamp": "01:19:39.610",
+    "text": "被否定的感觉",
+    "order": 492
+  },
+  {
+    "speaker": "host",
+    "start": 4779.61,
+    "end": 4781.61,
+    "start_timestamp": "01:19:39.610",
+    "end_timestamp": "01:19:41.610",
+    "text": "明白",
+    "order": 493
+  },
+  {
+    "speaker": "host",
+    "start": 4781.61,
+    "end": 4783.61,
+    "start_timestamp": "01:19:41.610",
+    "end_timestamp": "01:19:43.610",
+    "text": "就像每个人对自己有自己的定义",
+    "order": 494
+  },
+  {
+    "speaker": "host",
+    "start": 4783.61,
+    "end": 4798.79,
+    "start_timestamp": "01:19:43.610",
+    "end_timestamp": "01:19:58.790",
+    "text": "对agent有自己的定义",
+    "order": 495
+  },
+  {
+    "speaker": "host",
+    "start": 4798.79,
+    "end": 4800.79,
+    "start_timestamp": "01:19:58.790",
+    "end_timestamp": "01:20:00.790",
+    "text": "刚才我问说",
+    "order": 496
+  },
+  {
+    "speaker": "host",
+    "start": 4800.79,
+    "end": 4802.79,
+    "start_timestamp": "01:20:00.790",
+    "end_timestamp": "01:20:02.790",
+    "text": "你未来是不是保持这样参加活动的人设",
+    "order": 497
+  },
+  {
+    "speaker": "host",
+    "start": 4802.79,
+    "end": 4804.79,
+    "start_timestamp": "01:20:02.790",
+    "end_timestamp": "01:20:04.790",
+    "text": "你说走一步看一步",
+    "order": 498
+  },
+  {
+    "speaker": "host",
+    "start": 4804.79,
+    "end": 4806.79,
+    "start_timestamp": "01:20:04.790",
+    "end_timestamp": "01:20:06.790",
+    "text": "那",
+    "order": 499
+  },
+  {
+    "speaker": "host",
+    "start": 4806.79,
+    "end": 4808.79,
+    "start_timestamp": "01:20:06.790",
+    "end_timestamp": "01:20:08.790",
+    "text": "你好像是比较排斥",
+    "order": 500
+  },
+  {
+    "speaker": "host",
+    "start": 4808.79,
+    "end": 4810.79,
+    "start_timestamp": "01:20:08.790",
+    "end_timestamp": "01:20:10.790",
+    "text": "说往coding方向去发展",
+    "order": 501
+  },
+  {
+    "speaker": "host",
+    "start": 4810.79,
+    "end": 4812.79,
+    "start_timestamp": "01:20:10.790",
+    "end_timestamp": "01:20:12.790",
+    "text": "因为你一直觉得自己不是coding的背景",
+    "order": 502
+  },
+  {
+    "speaker": "host",
+    "start": 4812.79,
+    "end": 4814.79,
+    "start_timestamp": "01:20:12.790",
+    "end_timestamp": "01:20:14.790",
+    "text": "但是你其实做了很多的",
+    "order": 503
+  },
+  {
+    "speaker": "host",
+    "start": 4814.79,
+    "end": 4816.79,
+    "start_timestamp": "01:20:14.790",
+    "end_timestamp": "01:20:16.790",
+    "text": "事像lovable",
+    "order": 504
+  },
+  {
+    "speaker": "host",
+    "start": 4816.79,
+    "end": 4818.79,
+    "start_timestamp": "01:20:16.790",
+    "end_timestamp": "01:20:18.790",
+    "text": "其实他们都是做了一个网站",
+    "order": 505
+  },
+  {
+    "speaker": "host",
+    "start": 4818.79,
+    "end": 4820.79,
+    "start_timestamp": "01:20:18.790",
+    "end_timestamp": "01:20:20.790",
+    "text": "都是底层的逻辑都是coding",
+    "order": 506
+  },
+  {
+    "speaker": "host",
+    "start": 4820.79,
+    "end": 4822.79,
+    "start_timestamp": "01:20:20.790",
+    "end_timestamp": "01:20:22.790",
+    "text": "那你不觉得自己已经在coding的",
+    "order": 507
+  },
+  {
+    "speaker": "host",
+    "start": 4822.79,
+    "end": 4824.79,
+    "start_timestamp": "01:20:22.790",
+    "end_timestamp": "01:20:24.790",
+    "text": "行业里了或者说未来",
+    "order": 508
+  },
+  {
+    "speaker": "host",
+    "start": 4824.79,
+    "end": 4826.79,
+    "start_timestamp": "01:20:24.790",
+    "end_timestamp": "01:20:26.790",
+    "text": "可能会接触coding",
+    "order": 509
+  },
+  {
+    "speaker": "host",
+    "start": 4826.79,
+    "end": 4871.99,
+    "start_timestamp": "01:20:26.790",
+    "end_timestamp": "01:21:11.990",
+    "text": "还说你是非常排斥coding",
+    "order": 510
+  },
+  {
+    "speaker": "host",
+    "start": 4871.99,
+    "end": 4873.99,
+    "start_timestamp": "01:21:11.990",
+    "end_timestamp": "01:21:13.990",
+    "text": "明白",
+    "order": 511
+  },
+  {
+    "speaker": "host",
+    "start": 4873.99,
+    "end": 4875.99,
+    "start_timestamp": "01:21:13.990",
+    "end_timestamp": "01:21:15.990",
+    "text": "不过你参加很多vibe coding的",
+    "order": 512
+  },
+  {
+    "speaker": "host",
+    "start": 4875.99,
+    "end": 4877.99,
+    "start_timestamp": "01:21:15.990",
+    "end_timestamp": "01:21:17.990",
+    "text": "活动",
+    "order": 513
+  },
+  {
+    "speaker": "host",
+    "start": 4877.99,
+    "end": 4879.99,
+    "start_timestamp": "01:21:17.990",
+    "end_timestamp": "01:21:19.990",
+    "text": "我们经常说vibe coding",
+    "order": 514
+  },
+  {
+    "speaker": "host",
+    "start": 4879.99,
+    "end": 4881.99,
+    "start_timestamp": "01:21:19.990",
+    "end_timestamp": "01:21:21.990",
+    "text": "它的定义就是用自然语言就可以去coding",
+    "order": 515
+  },
+  {
+    "speaker": "host",
+    "start": 4881.99,
+    "end": 4883.99,
+    "start_timestamp": "01:21:21.990",
+    "end_timestamp": "01:21:23.990",
+    "text": "其实你用自然语言已经在coding了",
+    "order": 516
+  },
+  {
+    "speaker": "host",
+    "start": 4883.99,
+    "end": 4885.99,
+    "start_timestamp": "01:21:23.990",
+    "end_timestamp": "01:21:25.990",
+    "text": "你可能不需要了解那么底层的原理",
+    "order": 517
+  },
+  {
+    "speaker": "host",
+    "start": 4885.99,
+    "end": 4908.41,
+    "start_timestamp": "01:21:25.990",
+    "end_timestamp": "01:21:48.410",
+    "text": "明白在你的语境上面",
+    "order": 518
+  },
+  {
+    "speaker": "host",
+    "start": 4908.41,
+    "end": 4910.41,
+    "start_timestamp": "01:21:48.410",
+    "end_timestamp": "01:21:50.410",
+    "text": "更多这里coding指的是底层",
+    "order": 519
+  },
+  {
+    "speaker": "host",
+    "start": 4910.41,
+    "end": 4912.41,
+    "start_timestamp": "01:21:50.410",
+    "end_timestamp": "01:21:52.410",
+    "text": "要写代码",
+    "order": 520
+  },
+  {
+    "speaker": "host",
+    "start": 4912.41,
+    "end": 4914.41,
+    "start_timestamp": "01:21:52.410",
+    "end_timestamp": "01:21:54.410",
+    "text": "写非常技术的代码",
+    "order": 521
+  },
+  {
+    "speaker": "host",
+    "start": 4914.41,
+    "end": 4916.41,
+    "start_timestamp": "01:21:54.410",
+    "end_timestamp": "01:21:56.410",
+    "text": "或前后逻辑的coding",
+    "order": 522
+  },
+  {
+    "speaker": "host",
+    "start": 4916.41,
+    "end": 4918.41,
+    "start_timestamp": "01:21:56.410",
+    "end_timestamp": "01:21:58.410",
+    "text": "明白",
+    "order": 523
+  },
+  {
+    "speaker": "host",
+    "start": 4918.41,
+    "end": 4920.41,
+    "start_timestamp": "01:21:58.410",
+    "end_timestamp": "01:22:00.410",
+    "text": "不过很显然能感觉出来",
+    "order": 524
+  },
+  {
+    "speaker": "host",
+    "start": 4920.41,
+    "end": 4922.41,
+    "start_timestamp": "01:22:00.410",
+    "end_timestamp": "01:22:02.410",
+    "text": "你更多的是那种应用者",
+    "order": 525
+  },
+  {
+    "speaker": "host",
+    "start": 4922.41,
+    "end": 4926.26,
+    "start_timestamp": "01:22:02.410",
+    "end_timestamp": "01:22:06.260",
+    "text": "EI时代的去应用的",
+    "order": 526
+  },
+  {
+    "speaker": "host",
+    "start": 4926.26,
+    "end": 4928.26,
+    "start_timestamp": "01:22:06.260",
+    "end_timestamp": "01:22:08.260",
+    "text": "这是两个完全不同的方向",
+    "order": 527
+  },
+  {
+    "speaker": "host",
+    "start": 4928.26,
+    "end": 5054.71,
+    "start_timestamp": "01:22:08.260",
+    "end_timestamp": "01:24:14.710",
+    "text": "你要喝口水吗",
+    "order": 528
+  },
+  {
+    "speaker": "host",
+    "start": 5054.71,
+    "end": 5056.71,
+    "start_timestamp": "01:24:14.710",
+    "end_timestamp": "01:24:16.710",
+    "text": "可以先上个厕所你可以先录着没关系",
+    "order": 529
+  },
+  {
+    "speaker": "host",
+    "start": 5056.71,
+    "end": 5064.28,
+    "start_timestamp": "01:24:16.710",
+    "end_timestamp": "01:24:24.280",
+    "text": "你就可以不需要暂停",
+    "order": 530
+  },
+  {
+    "speaker": "host",
+    "start": 5064.28,
+    "end": 5069.77,
+    "start_timestamp": "01:24:24.280",
+    "end_timestamp": "01:24:29.770",
+    "text": "他们现在暂停了",
+    "order": 531
+  },
+  {
+    "speaker": "host",
+    "start": 5069.77,
+    "end": 5071.77,
+    "start_timestamp": "01:24:29.770",
+    "end_timestamp": "01:24:31.770",
+    "text": "后期可能",
+    "order": 532
+  },
+  {
+    "speaker": "host",
+    "start": 5071.77,
+    "end": 5073.77,
+    "start_timestamp": "01:24:31.770",
+    "end_timestamp": "01:24:33.770",
+    "text": "对齐的话要麻烦一些",
+    "order": 533
+  },
+  {
+    "speaker": "host",
+    "start": 5073.77,
+    "end": 5079.9,
+    "start_timestamp": "01:24:33.770",
+    "end_timestamp": "01:24:39.900",
+    "text": "现在是一个小时29分",
+    "order": 534
+  },
+  {
+    "speaker": "host",
+    "start": 5079.9,
+    "end": 5084.84,
+    "start_timestamp": "01:24:39.900",
+    "end_timestamp": "01:24:44.840",
+    "text": "24秒",
+    "order": 535
+  },
+  {
+    "speaker": "host",
+    "start": 5084.84,
+    "end": 5184.06,
+    "start_timestamp": "01:24:44.840",
+    "end_timestamp": "01:26:24.060",
+    "text": "暂停",
+    "order": 536
+  },
+  {
+    "speaker": "host",
+    "start": 5184.06,
+    "end": 5186.06,
+    "start_timestamp": "01:26:24.060",
+    "end_timestamp": "01:26:26.060",
+    "text": "其实你不用暂停",
+    "order": 537
+  },
+  {
+    "speaker": "host",
+    "start": 5186.06,
+    "end": 5188.06,
+    "start_timestamp": "01:26:26.060",
+    "end_timestamp": "01:26:28.060",
+    "text": "因为你暂停的话",
+    "order": 538
+  },
+  {
+    "speaker": "host",
+    "start": 5188.06,
+    "end": 5190.06,
+    "start_timestamp": "01:26:28.060",
+    "end_timestamp": "01:26:30.060",
+    "text": "后期剪辑的时候对齐比较麻烦",
+    "order": 539
+  },
+  {
+    "speaker": "host",
+    "start": 5190.06,
+    "end": 5192.06,
+    "start_timestamp": "01:26:30.060",
+    "end_timestamp": "01:26:32.060",
+    "text": "对",
+    "order": 540
+  },
+  {
+    "speaker": "host",
+    "start": 5192.06,
+    "end": 5194.06,
+    "start_timestamp": "01:26:32.060",
+    "end_timestamp": "01:26:34.060",
+    "text": "我是刻意不想暂停太多",
+    "order": 541
+  },
+  {
+    "speaker": "host",
+    "start": 5194.06,
+    "end": 5196.06,
+    "start_timestamp": "01:26:34.060",
+    "end_timestamp": "01:26:36.060",
+    "text": "所以",
+    "order": 542
+  },
+  {
+    "speaker": "host",
+    "start": 5196.06,
+    "end": 5198.06,
+    "start_timestamp": "01:26:36.060",
+    "end_timestamp": "01:26:38.060",
+    "text": "对对对没关系没关系",
+    "order": 543
+  },
+  {
+    "speaker": "host",
+    "start": 5198.06,
+    "end": 5200.06,
+    "start_timestamp": "01:26:38.060",
+    "end_timestamp": "01:26:40.060",
+    "text": "我有记录时间",
+    "order": 544
+  },
+  {
+    "speaker": "host",
+    "start": 5200.06,
+    "end": 5202.06,
+    "start_timestamp": "01:26:40.060",
+    "end_timestamp": "01:26:42.060",
+    "text": "有记录时间",
+    "order": 545
+  },
+  {
+    "speaker": "host",
+    "start": 5202.06,
+    "end": 5204.06,
+    "start_timestamp": "01:26:42.060",
+    "end_timestamp": "01:26:44.060",
+    "text": "你可以继续开始录没关系",
+    "order": 546
+  },
+  {
+    "speaker": "host",
+    "start": 5204.06,
+    "end": 5222.57,
+    "start_timestamp": "01:26:44.060",
+    "end_timestamp": "01:27:02.570",
+    "text": "你开始录了吗",
+    "order": 547
+  },
+  {
+    "speaker": "host",
+    "start": 5222.57,
+    "end": 5224.57,
+    "start_timestamp": "01:27:02.570",
+    "end_timestamp": "01:27:04.570",
+    "text": "你没什么特别想聊一聊的",
+    "order": 548
+  },
+  {
+    "speaker": "host",
+    "start": 5224.57,
+    "end": 5230.76,
+    "start_timestamp": "01:27:04.570",
+    "end_timestamp": "01:27:10.760",
+    "text": "其他的",
+    "order": 549
+  },
+  {
+    "speaker": "host",
+    "start": 5230.76,
+    "end": 5232.76,
+    "start_timestamp": "01:27:10.760",
+    "end_timestamp": "01:27:12.760",
+    "text": "我其实有蛮多",
+    "order": 550
+  },
+  {
+    "speaker": "host",
+    "start": 5232.76,
+    "end": 5234.76,
+    "start_timestamp": "01:27:12.760",
+    "end_timestamp": "01:27:14.760",
+    "text": "东西",
+    "order": 551
+  },
+  {
+    "speaker": "host",
+    "start": 5234.76,
+    "end": 5236.76,
+    "start_timestamp": "01:27:14.760",
+    "end_timestamp": "01:27:16.760",
+    "text": "就是刚刚那些东西",
+    "order": 552
+  },
+  {
+    "speaker": "host",
+    "start": 5236.76,
+    "end": 5238.76,
+    "start_timestamp": "01:27:16.760",
+    "end_timestamp": "01:27:18.760",
+    "text": "主题的话",
+    "order": 553
+  },
+  {
+    "speaker": "host",
+    "start": 5238.76,
+    "end": 5240.76,
+    "start_timestamp": "01:27:18.760",
+    "end_timestamp": "01:27:20.760",
+    "text": "看看有什么",
+    "order": 554
+  },
+  {
+    "speaker": "host",
+    "start": 5240.76,
+    "end": 5242.76,
+    "start_timestamp": "01:27:20.760",
+    "end_timestamp": "01:27:22.760",
+    "text": "补充但如果没有补充我们下次再说",
+    "order": 555
+  },
+  {
+    "speaker": "host",
+    "start": 5242.76,
+    "end": 5244.76,
+    "start_timestamp": "01:27:22.760",
+    "end_timestamp": "01:27:24.760",
+    "text": "然后",
+    "order": 556
+  },
+  {
+    "speaker": "host",
+    "start": 5244.76,
+    "end": 5246.76,
+    "start_timestamp": "01:27:24.760",
+    "end_timestamp": "01:27:26.760",
+    "text": "我们可以先来到其他的",
+    "order": 557
+  },
+  {
+    "speaker": "host",
+    "start": 5246.76,
+    "end": 5248.76,
+    "start_timestamp": "01:27:26.760",
+    "end_timestamp": "01:27:28.760",
+    "text": "还有很多",
+    "order": 558
+  },
+  {
+    "speaker": "host",
+    "start": 5248.76,
+    "end": 5250.76,
+    "start_timestamp": "01:27:28.760",
+    "end_timestamp": "01:27:30.760",
+    "text": "重复",
+    "order": 559
+  },
+  {
+    "speaker": "host",
+    "start": 5250.76,
+    "end": 5252.76,
+    "start_timestamp": "01:27:30.760",
+    "end_timestamp": "01:27:32.760",
+    "text": "就单纯这个时间线",
+    "order": 560
+  },
+  {
+    "speaker": "host",
+    "start": 5252.76,
+    "end": 5254.76,
+    "start_timestamp": "01:27:32.760",
+    "end_timestamp": "01:27:34.760",
+    "text": "七年的counting",
+    "order": 561
+  },
+  {
+    "speaker": "host",
+    "start": 5254.76,
+    "end": 5256.76,
+    "start_timestamp": "01:27:34.760",
+    "end_timestamp": "01:27:36.760",
+    "text": "就已经硬含了非常多的",
+    "order": 562
+  },
+  {
+    "speaker": "host",
+    "start": 5256.76,
+    "end": 5258.76,
+    "start_timestamp": "01:27:36.760",
+    "end_timestamp": "01:27:38.760",
+    "text": "信息量",
+    "order": 563
+  },
+  {
+    "speaker": "host",
+    "start": 5258.76,
+    "end": 5260.76,
+    "start_timestamp": "01:27:38.760",
+    "end_timestamp": "01:27:40.760",
+    "text": "我们其实都没有特别问这七年",
+    "order": 564
+  },
+  {
+    "speaker": "host",
+    "start": 5260.76,
+    "end": 5264.23,
+    "start_timestamp": "01:27:40.760",
+    "end_timestamp": "01:27:44.230",
+    "text": "是不是完全",
+    "order": 565
+  },
+  {
+    "speaker": "host",
+    "start": 5264.23,
+    "end": 5266.23,
+    "start_timestamp": "01:27:44.230",
+    "end_timestamp": "01:27:46.230",
+    "text": "就是",
+    "order": 566
+  },
+  {
+    "speaker": "host",
+    "start": 5266.23,
+    "end": 5268.23,
+    "start_timestamp": "01:27:46.230",
+    "end_timestamp": "01:27:48.230",
+    "text": "非常稳定的在工作",
+    "order": 567
+  },
+  {
+    "speaker": "host",
+    "start": 5268.23,
+    "end": 5270.23,
+    "start_timestamp": "01:27:48.230",
+    "end_timestamp": "01:27:50.230",
+    "text": "反而稳定不是你想要的",
+    "order": 568
+  },
+  {
+    "speaker": "host",
+    "start": 5270.23,
+    "end": 5311.62,
+    "start_timestamp": "01:27:50.230",
+    "end_timestamp": "01:28:31.620",
+    "text": "一个状态",
+    "order": 569
+  },
+  {
+    "speaker": "host",
+    "start": 5311.62,
+    "end": 5399.67,
+    "start_timestamp": "01:28:31.620",
+    "end_timestamp": "01:29:59.670",
+    "text": "你去",
+    "order": 570
+  },
+  {
+    "speaker": "host",
+    "start": 5399.67,
+    "end": 5401.67,
+    "start_timestamp": "01:29:59.670",
+    "end_timestamp": "01:30:01.670",
+    "text": "有些意外然后又重断了",
+    "order": 571
+  },
+  {
+    "speaker": "host",
+    "start": 5401.67,
+    "end": 5403.67,
+    "start_timestamp": "01:30:01.670",
+    "end_timestamp": "01:30:03.670",
+    "text": "我导出一下",
+    "order": 572
+  },
+  {
+    "speaker": "host",
+    "start": 5403.67,
+    "end": 5405.67,
+    "start_timestamp": "01:30:03.670",
+    "end_timestamp": "01:30:05.670",
+    "text": "我可以先录一分",
+    "order": 573
+  },
+  {
+    "speaker": "host",
+    "start": 5405.67,
+    "end": 5407.67,
+    "start_timestamp": "01:30:05.670",
+    "end_timestamp": "01:30:07.670",
+    "text": "但没关系你刚刚只是有一小段",
+    "order": 574
+  },
+  {
+    "speaker": "host",
+    "start": 5407.67,
+    "end": 5409.67,
+    "start_timestamp": "01:30:07.670",
+    "end_timestamp": "01:30:09.670",
+    "text": "没了而已",
+    "order": 575
+  },
+  {
+    "speaker": "host",
+    "start": 5409.67,
+    "end": 5432.44,
+    "start_timestamp": "01:30:09.670",
+    "end_timestamp": "01:30:32.440",
+    "text": "就几秒钟",
+    "order": 576
+  },
+  {
+    "speaker": "host",
+    "start": 5432.44,
+    "end": 5434.44,
+    "start_timestamp": "01:30:32.440",
+    "end_timestamp": "01:30:34.440",
+    "text": "你说一句话",
+    "order": 577
+  },
+  {
+    "speaker": "host",
+    "start": 5434.44,
+    "end": 5436.44,
+    "start_timestamp": "01:30:34.440",
+    "end_timestamp": "01:30:36.440",
+    "text": "OK",
+    "order": 578
+  },
+  {
+    "speaker": "host",
+    "start": 5436.44,
+    "end": 5438.44,
+    "start_timestamp": "01:30:36.440",
+    "end_timestamp": "01:30:38.440",
+    "text": "我继续录",
+    "order": 579
+  },
+  {
+    "speaker": "host",
+    "start": 5438.44,
+    "end": 5440.44,
+    "start_timestamp": "01:30:38.440",
+    "end_timestamp": "01:30:40.440",
+    "text": "刚刚",
+    "order": 580
+  },
+  {
+    "speaker": "host",
+    "start": 5440.44,
+    "end": 5578.12,
+    "start_timestamp": "01:30:40.440",
+    "end_timestamp": "01:32:58.120",
+    "text": "提到国内领导",
+    "order": 581
+  },
+  {
+    "speaker": "host",
+    "start": 5578.12,
+    "end": 5580.12,
+    "start_timestamp": "01:32:58.120",
+    "end_timestamp": "01:33:00.120",
+    "text": "所以更多的是看到了大家",
+    "order": 582
+  },
+  {
+    "speaker": "host",
+    "start": 5580.12,
+    "end": 5582.12,
+    "start_timestamp": "01:33:00.120",
+    "end_timestamp": "01:33:02.120",
+    "text": "被动被优化",
+    "order": 583
+  },
+  {
+    "speaker": "host",
+    "start": 5582.12,
+    "end": 5584.12,
+    "start_timestamp": "01:33:02.120",
+    "end_timestamp": "01:33:04.120",
+    "text": "职场有重点危机",
+    "order": 584
+  },
+  {
+    "speaker": "host",
+    "start": 5584.12,
+    "end": 5586.12,
+    "start_timestamp": "01:33:04.120",
+    "end_timestamp": "01:33:06.120",
+    "text": "有上升的平静",
+    "order": 585
+  },
+  {
+    "speaker": "host",
+    "start": 5586.12,
+    "end": 5588.12,
+    "start_timestamp": "01:33:06.120",
+    "end_timestamp": "01:33:08.120",
+    "text": "但是你自己有遇到过吗",
+    "order": 586
+  },
+  {
+    "speaker": "host",
+    "start": 5588.12,
+    "end": 5590.12,
+    "start_timestamp": "01:33:08.120",
+    "end_timestamp": "01:33:10.120",
+    "text": "我觉得未来一定会碰到这样的事情的时刻",
+    "order": 587
+  },
+  {
+    "speaker": "host",
+    "start": 5595.13,
+    "end": 5597.13,
+    "start_timestamp": "01:33:15.130",
+    "end_timestamp": "01:33:17.130",
+    "text": "所以你自己其实是暂时还没有碰到过",
+    "order": 588
+  },
+  {
+    "speaker": "host",
+    "start": 5597.13,
+    "end": 5637.69,
+    "start_timestamp": "01:33:17.130",
+    "end_timestamp": "01:33:57.690",
+    "text": "那七年在国内工作的时候",
+    "order": 589
+  },
+  {
+    "speaker": "host",
+    "start": 5637.69,
+    "end": 5712.87,
+    "start_timestamp": "01:33:57.690",
+    "end_timestamp": "01:35:12.870",
+    "text": "明白",
+    "order": 590
+  },
+  {
+    "speaker": "host",
+    "start": 5712.87,
+    "end": 5714.87,
+    "start_timestamp": "01:35:12.870",
+    "end_timestamp": "01:35:14.870",
+    "text": "所以发生在你身上的",
+    "order": 591
+  },
+  {
+    "speaker": "host",
+    "start": 5714.87,
+    "end": 5716.87,
+    "start_timestamp": "01:35:14.870",
+    "end_timestamp": "01:35:16.870",
+    "text": "促使你去离职的更多的",
+    "order": 592
+  },
+  {
+    "speaker": "host",
+    "start": 5716.87,
+    "end": 5718.87,
+    "start_timestamp": "01:35:16.870",
+    "end_timestamp": "01:35:18.870",
+    "text": "并不是",
+    "order": 593
+  },
+  {
+    "speaker": "host",
+    "start": 5718.87,
+    "end": 5720.87,
+    "start_timestamp": "01:35:18.870",
+    "end_timestamp": "01:35:20.870",
+    "text": "平静可能",
+    "order": 594
+  },
+  {
+    "speaker": "host",
+    "start": 5720.87,
+    "end": 5722.87,
+    "start_timestamp": "01:35:20.870",
+    "end_timestamp": "01:35:22.870",
+    "text": "职场上升的平静到还没有达到",
+    "order": 595
+  },
+  {
+    "speaker": "host",
+    "start": 5722.87,
+    "end": 5724.87,
+    "start_timestamp": "01:35:22.870",
+    "end_timestamp": "01:35:24.870",
+    "text": "更多的可能是职场的",
+    "order": 596
+  },
+  {
+    "speaker": "host",
+    "start": 5724.87,
+    "end": 5726.87,
+    "start_timestamp": "01:35:24.870",
+    "end_timestamp": "01:35:26.870",
+    "text": "环境冷酷",
+    "order": 597
+  },
+  {
+    "speaker": "host",
+    "start": 5726.87,
+    "end": 5728.87,
+    "start_timestamp": "01:35:26.870",
+    "end_timestamp": "01:35:28.870",
+    "text": "以及",
+    "order": 598
+  },
+  {
+    "speaker": "host",
+    "start": 5728.87,
+    "end": 5730.87,
+    "start_timestamp": "01:35:28.870",
+    "end_timestamp": "01:35:30.870",
+    "text": "环境",
+    "order": 599
+  },
+  {
+    "speaker": "host",
+    "start": 5730.87,
+    "end": 5732.87,
+    "start_timestamp": "01:35:30.870",
+    "end_timestamp": "01:35:32.870",
+    "text": "它不能让你那么向往自由",
+    "order": 600
+  },
+  {
+    "speaker": "host",
+    "start": 5732.87,
+    "end": 5734.87,
+    "start_timestamp": "01:35:32.870",
+    "end_timestamp": "01:35:34.870",
+    "text": "的状态",
+    "order": 601
+  },
+  {
+    "speaker": "host",
+    "start": 5734.87,
+    "end": 5736.87,
+    "start_timestamp": "01:35:34.870",
+    "end_timestamp": "01:35:36.870",
+    "text": "让你促使你是离职",
+    "order": 602
+  },
+  {
+    "speaker": "host",
+    "start": 5736.87,
+    "end": 5747.77,
+    "start_timestamp": "01:35:36.870",
+    "end_timestamp": "01:35:47.770",
+    "text": "明白",
+    "order": 603
+  },
+  {
+    "speaker": "host",
+    "start": 5747.77,
+    "end": 5749.77,
+    "start_timestamp": "01:35:47.770",
+    "end_timestamp": "01:35:49.770",
+    "text": "所以内心本身是追求自由的",
+    "order": 604
+  },
+  {
+    "speaker": "host",
+    "start": 5751.77,
+    "end": 5753.77,
+    "start_timestamp": "01:35:51.770",
+    "end_timestamp": "01:35:53.770",
+    "text": "那你会定义现在",
+    "order": 605
+  },
+  {
+    "speaker": "host",
+    "start": 5753.77,
+    "end": 5755.77,
+    "start_timestamp": "01:35:53.770",
+    "end_timestamp": "01:35:55.770",
+    "text": "你现在稳定吗",
+    "order": 606
+  },
+  {
+    "speaker": "host",
+    "start": 5755.77,
+    "end": 5801.7,
+    "start_timestamp": "01:35:55.770",
+    "end_timestamp": "01:36:41.700",
+    "text": "现在的状况",
+    "order": 607
+  },
+  {
+    "speaker": "host",
+    "start": 5801.7,
+    "end": 5803.7,
+    "start_timestamp": "01:36:41.700",
+    "end_timestamp": "01:36:43.700",
+    "text": "所以现在你更多觉得不稳定的是",
+    "order": 608
+  },
+  {
+    "speaker": "host",
+    "start": 5803.7,
+    "end": 5805.7,
+    "start_timestamp": "01:36:43.700",
+    "end_timestamp": "01:36:45.700",
+    "text": "你的财务不稳定",
+    "order": 609
+  },
+  {
+    "speaker": "host",
+    "start": 5805.7,
+    "end": 5807.7,
+    "start_timestamp": "01:36:45.700",
+    "end_timestamp": "01:36:47.700",
+    "text": "它会影响到你享受自由吗",
+    "order": 610
+  },
+  {
+    "speaker": "host",
+    "start": 5807.7,
+    "end": 5834.34,
+    "start_timestamp": "01:36:47.700",
+    "end_timestamp": "01:37:14.340",
+    "text": "你的财务不稳定",
+    "order": 611
+  },
+  {
+    "speaker": "host",
+    "start": 5834.34,
+    "end": 5836.34,
+    "start_timestamp": "01:37:14.340",
+    "end_timestamp": "01:37:16.340",
+    "text": "那为什么你在自由和",
+    "order": 612
+  },
+  {
+    "speaker": "host",
+    "start": 5836.34,
+    "end": 5838.34,
+    "start_timestamp": "01:37:16.340",
+    "end_timestamp": "01:37:18.340",
+    "text": "财务稳定",
+    "order": 613
+  },
+  {
+    "speaker": "host",
+    "start": 5838.34,
+    "end": 5840.34,
+    "start_timestamp": "01:37:18.340",
+    "end_timestamp": "01:37:20.340",
+    "text": "这两个共存的",
+    "order": 614
+  },
+  {
+    "speaker": "host",
+    "start": 5840.34,
+    "end": 5842.34,
+    "start_timestamp": "01:37:20.340",
+    "end_timestamp": "01:37:22.340",
+    "text": "想法下",
+    "order": 615
+  },
+  {
+    "speaker": "host",
+    "start": 5842.34,
+    "end": 5844.34,
+    "start_timestamp": "01:37:22.340",
+    "end_timestamp": "01:37:24.340",
+    "text": "然后选择可能未来想当数字有名",
+    "order": 616
+  },
+  {
+    "speaker": "host",
+    "start": 5844.34,
+    "end": 5846.34,
+    "start_timestamp": "01:37:24.340",
+    "end_timestamp": "01:37:26.340",
+    "text": "因为数字有名",
+    "order": 617
+  },
+  {
+    "speaker": "host",
+    "start": 5846.34,
+    "end": 5848.34,
+    "start_timestamp": "01:37:26.340",
+    "end_timestamp": "01:37:28.340",
+    "text": "可能有机会达到",
+    "order": 618
+  },
+  {
+    "speaker": "host",
+    "start": 5848.34,
+    "end": 5850.34,
+    "start_timestamp": "01:37:28.340",
+    "end_timestamp": "01:37:30.340",
+    "text": "有技能财务稳定又能自由",
+    "order": 619
+  },
+  {
+    "speaker": "host",
+    "start": 5850.34,
+    "end": 5871.38,
+    "start_timestamp": "01:37:30.340",
+    "end_timestamp": "01:37:51.380",
+    "text": "这两个选项都能满足",
+    "order": 620
+  },
+  {
+    "speaker": "host",
+    "start": 5871.38,
+    "end": 5873.38,
+    "start_timestamp": "01:37:51.380",
+    "end_timestamp": "01:37:53.380",
+    "text": "明白",
+    "order": 621
+  },
+  {
+    "speaker": "host",
+    "start": 5873.38,
+    "end": 5880.6,
+    "start_timestamp": "01:37:53.380",
+    "end_timestamp": "01:38:00.600",
+    "text": "其实明白",
+    "order": 622
+  },
+  {
+    "speaker": "host",
+    "start": 5880.6,
+    "end": 5882.6,
+    "start_timestamp": "01:38:00.600",
+    "end_timestamp": "01:38:02.600",
+    "text": "也是符合你向往自由",
+    "order": 623
+  },
+  {
+    "speaker": "host",
+    "start": 5882.6,
+    "end": 5884.6,
+    "start_timestamp": "01:38:02.600",
+    "end_timestamp": "01:38:04.600",
+    "text": "的这种",
+    "order": 624
+  },
+  {
+    "speaker": "host",
+    "start": 5884.6,
+    "end": 5886.6,
+    "start_timestamp": "01:38:04.600",
+    "end_timestamp": "01:38:06.600",
+    "text": "天高任遥飞的状态",
+    "order": 625
+  },
+  {
+    "speaker": "host",
+    "start": 5886.6,
+    "end": 5891.93,
+    "start_timestamp": "01:38:06.600",
+    "end_timestamp": "01:38:11.930",
+    "text": "那你其实接触到了非常多的行业",
+    "order": 626
+  },
+  {
+    "speaker": "host",
+    "start": 5891.93,
+    "end": 5893.93,
+    "start_timestamp": "01:38:11.930",
+    "end_timestamp": "01:38:13.930",
+    "text": "Accounting",
+    "order": 627
+  },
+  {
+    "speaker": "host",
+    "start": 5893.93,
+    "end": 5895.93,
+    "start_timestamp": "01:38:13.930",
+    "end_timestamp": "01:38:15.930",
+    "text": "是你待的行业",
+    "order": 628
+  },
+  {
+    "speaker": "host",
+    "start": 5895.93,
+    "end": 5897.93,
+    "start_timestamp": "01:38:15.930",
+    "end_timestamp": "01:38:17.930",
+    "text": "时间上是最长的",
+    "order": 629
+  },
+  {
+    "speaker": "host",
+    "start": 5897.93,
+    "end": 5899.93,
+    "start_timestamp": "01:38:17.930",
+    "end_timestamp": "01:38:19.930",
+    "text": "然后AI",
+    "order": 630
+  },
+  {
+    "speaker": "host",
+    "start": 5899.93,
+    "end": 5907.59,
+    "start_timestamp": "01:38:19.930",
+    "end_timestamp": "01:38:27.590",
+    "text": "交易的话也是从",
+    "order": 631
+  },
+  {
+    "speaker": "host",
+    "start": 5907.59,
+    "end": 5909.59,
+    "start_timestamp": "01:38:27.590",
+    "end_timestamp": "01:38:29.590",
+    "text": "相当于说从做Accounting开始",
+    "order": 632
+  },
+  {
+    "speaker": "host",
+    "start": 5909.59,
+    "end": 5911.59,
+    "start_timestamp": "01:38:29.590",
+    "end_timestamp": "01:38:31.590",
+    "text": "就同步接触了交易",
+    "order": 633
+  },
+  {
+    "speaker": "host",
+    "start": 5911.59,
+    "end": 5922.87,
+    "start_timestamp": "01:38:31.590",
+    "end_timestamp": "01:38:42.870",
+    "text": "所以Trading背景",
+    "order": 634
+  },
+  {
+    "speaker": "host",
+    "start": 5922.87,
+    "end": 5924.87,
+    "start_timestamp": "01:38:42.870",
+    "end_timestamp": "01:38:44.870",
+    "text": "Trading行业是你入行最久的一个",
+    "order": 635
+  },
+  {
+    "speaker": "host",
+    "start": 5924.87,
+    "end": 5963.45,
+    "start_timestamp": "01:38:44.870",
+    "end_timestamp": "01:39:23.450",
+    "text": "行业吗",
+    "order": 636
+  },
+  {
+    "speaker": "host",
+    "start": 5963.45,
+    "end": 5965.45,
+    "start_timestamp": "01:39:23.450",
+    "end_timestamp": "01:39:25.450",
+    "text": "不过Trading这个行业你接触了这么久",
+    "order": 637
+  },
+  {
+    "speaker": "host",
+    "start": 5965.45,
+    "end": 5967.45,
+    "start_timestamp": "01:39:25.450",
+    "end_timestamp": "01:39:27.450",
+    "text": "其实刚才并没有特别",
+    "order": 638
+  },
+  {
+    "speaker": "host",
+    "start": 5967.45,
+    "end": 5969.45,
+    "start_timestamp": "01:39:27.450",
+    "end_timestamp": "01:39:29.450",
+    "text": "谈到Trading相关的",
+    "order": 639
+  },
+  {
+    "speaker": "host",
+    "start": 5969.45,
+    "end": 5971.45,
+    "start_timestamp": "01:39:29.450",
+    "end_timestamp": "01:39:31.450",
+    "text": "你有参加过Trading的活动吗",
+    "order": 640
+  },
+  {
+    "speaker": "host",
+    "start": 5971.45,
+    "end": 5973.45,
+    "start_timestamp": "01:39:31.450",
+    "end_timestamp": "01:39:33.450",
+    "text": "近半年一年",
+    "order": 641
+  },
+  {
+    "speaker": "host",
+    "start": 5973.45,
+    "end": 6068.06,
+    "start_timestamp": "01:39:33.450",
+    "end_timestamp": "01:41:08.060",
+    "text": "所以你现在",
+    "order": 642
+  },
+  {
+    "speaker": "host",
+    "start": 6068.06,
+    "end": 6070.06,
+    "start_timestamp": "01:41:08.060",
+    "end_timestamp": "01:41:10.060",
+    "text": "有持仓",
+    "order": 643
+  },
+  {
+    "speaker": "host",
+    "start": 6070.06,
+    "end": 6072.06,
+    "start_timestamp": "01:41:10.060",
+    "end_timestamp": "01:41:12.060",
+    "text": "任何",
+    "order": 644
+  },
+  {
+    "speaker": "host",
+    "start": 6072.06,
+    "end": 6074.06,
+    "start_timestamp": "01:41:12.060",
+    "end_timestamp": "01:41:14.060",
+    "text": "可交易的东西",
+    "order": 645
+  },
+  {
+    "speaker": "host",
+    "start": 6074.06,
+    "end": 6076.06,
+    "start_timestamp": "01:41:14.060",
+    "end_timestamp": "01:41:16.060",
+    "text": "明白",
+    "order": 646
+  },
+  {
+    "speaker": "host",
+    "start": 6076.06,
+    "end": 6078.06,
+    "start_timestamp": "01:41:16.060",
+    "end_timestamp": "01:41:18.060",
+    "text": "就是从大学可能就已经",
+    "order": 647
+  },
+  {
+    "speaker": "host",
+    "start": 6078.06,
+    "end": 6082.46,
+    "start_timestamp": "01:41:18.060",
+    "end_timestamp": "01:41:22.460",
+    "text": "开始非常早了",
+    "order": 648
+  },
+  {
+    "speaker": "host",
+    "start": 6082.46,
+    "end": 6086.02,
+    "start_timestamp": "01:41:22.460",
+    "end_timestamp": "01:41:26.020",
+    "text": "有十年以上了明白",
+    "order": 649
+  },
+  {
+    "speaker": "host",
+    "start": 6086.02,
+    "end": 6092.34,
+    "start_timestamp": "01:41:26.020",
+    "end_timestamp": "01:41:32.340",
+    "text": "持仓",
+    "order": 650
+  },
+  {
+    "speaker": "host",
+    "start": 6092.34,
+    "end": 6094.34,
+    "start_timestamp": "01:41:32.340",
+    "end_timestamp": "01:41:34.340",
+    "text": "不过这个可能不是你特别关注的方向",
+    "order": 651
+  },
+  {
+    "speaker": "host",
+    "start": 6094.34,
+    "end": 6096.34,
+    "start_timestamp": "01:41:34.340",
+    "end_timestamp": "01:41:36.340",
+    "text": "更多的像是一个副业",
+    "order": 652
+  },
+  {
+    "speaker": "host",
+    "start": 6096.34,
+    "end": 6138.22,
+    "start_timestamp": "01:41:36.340",
+    "end_timestamp": "01:42:18.220",
+    "text": "或者说明白",
+    "order": 653
+  },
+  {
+    "speaker": "host",
+    "start": 6138.22,
+    "end": 6140.22,
+    "start_timestamp": "01:42:18.220",
+    "end_timestamp": "01:42:20.220",
+    "text": "明白所以你现在这阶段",
+    "order": 654
+  },
+  {
+    "speaker": "host",
+    "start": 6140.22,
+    "end": 6142.22,
+    "start_timestamp": "01:42:20.220",
+    "end_timestamp": "01:42:22.220",
+    "text": "这一年更多是在一个学习",
+    "order": 655
+  },
+  {
+    "speaker": "host",
+    "start": 6142.22,
+    "end": 6144.22,
+    "start_timestamp": "01:42:22.220",
+    "end_timestamp": "01:42:24.220",
+    "text": "转型期",
+    "order": 656
+  },
+  {
+    "speaker": "host",
+    "start": 6144.22,
+    "end": 6146.22,
+    "start_timestamp": "01:42:24.220",
+    "end_timestamp": "01:42:26.220",
+    "text": "所以并没有特别接触Trading",
+    "order": 657
+  },
+  {
+    "speaker": "host",
+    "start": 6146.22,
+    "end": 6148.22,
+    "start_timestamp": "01:42:26.220",
+    "end_timestamp": "01:42:28.220",
+    "text": "是因为它",
+    "order": 658
+  },
+  {
+    "speaker": "host",
+    "start": 6148.22,
+    "end": 6150.22,
+    "start_timestamp": "01:42:28.220",
+    "end_timestamp": "01:42:30.220",
+    "text": "已经可能是融入你的生活",
+    "order": 659
+  },
+  {
+    "speaker": "host",
+    "start": 6150.22,
+    "end": 6165.02,
+    "start_timestamp": "01:42:30.220",
+    "end_timestamp": "01:42:45.020",
+    "text": "方式生活习惯",
+    "order": 660
+  },
+  {
+    "speaker": "host",
+    "start": 6165.02,
+    "end": 6167.02,
+    "start_timestamp": "01:42:45.020",
+    "end_timestamp": "01:42:47.020",
+    "text": "不过你也做Crypto",
+    "order": 661
+  },
+  {
+    "speaker": "host",
+    "start": 6167.02,
+    "end": 6175.61,
+    "start_timestamp": "01:42:47.020",
+    "end_timestamp": "01:42:55.610",
+    "text": "明白因为你刚刚其实提到了",
+    "order": 662
+  },
+  {
+    "speaker": "host",
+    "start": 6175.61,
+    "end": 6177.61,
+    "start_timestamp": "01:42:55.610",
+    "end_timestamp": "01:42:57.610",
+    "text": "你二五年其实才接触了",
+    "order": 663
+  },
+  {
+    "speaker": "host",
+    "start": 6177.61,
+    "end": 6179.61,
+    "start_timestamp": "01:42:57.610",
+    "end_timestamp": "01:42:59.610",
+    "text": "Crypto接触了加密货币",
+    "order": 664
+  },
+  {
+    "speaker": "host",
+    "start": 6179.61,
+    "end": 6181.61,
+    "start_timestamp": "01:42:59.610",
+    "end_timestamp": "01:43:01.610",
+    "text": "那这是一个非常",
+    "order": 665
+  },
+  {
+    "speaker": "host",
+    "start": 6181.61,
+    "end": 6183.61,
+    "start_timestamp": "01:43:01.610",
+    "end_timestamp": "01:43:03.610",
+    "text": "新的东西对你来说",
+    "order": 666
+  },
+  {
+    "speaker": "host",
+    "start": 6183.61,
+    "end": 6185.61,
+    "start_timestamp": "01:43:03.610",
+    "end_timestamp": "01:43:05.610",
+    "text": "其实也是学习了二五年才",
+    "order": 667
+  },
+  {
+    "speaker": "host",
+    "start": 6185.61,
+    "end": 6222.62,
+    "start_timestamp": "01:43:05.610",
+    "end_timestamp": "01:43:42.620",
+    "text": "接触了这个赛道",
+    "order": 668
+  },
+  {
+    "speaker": "host",
+    "start": 6222.62,
+    "end": 6224.62,
+    "start_timestamp": "01:43:42.620",
+    "end_timestamp": "01:43:44.620",
+    "text": "你现在有持仓加密",
+    "order": 669
+  },
+  {
+    "speaker": "host",
+    "start": 6224.62,
+    "end": 6229.34,
+    "start_timestamp": "01:43:44.620",
+    "end_timestamp": "01:43:49.340",
+    "text": "Crypto吗",
+    "order": 670
+  },
+  {
+    "speaker": "host",
+    "start": 6229.34,
+    "end": 6231.34,
+    "start_timestamp": "01:43:49.340",
+    "end_timestamp": "01:43:51.340",
+    "text": "是因为你刚刚说",
+    "order": 671
+  },
+  {
+    "speaker": "host",
+    "start": 6231.34,
+    "end": 6233.34,
+    "start_timestamp": "01:43:51.340",
+    "end_timestamp": "01:43:53.340",
+    "text": "二五年接触Crypto没有很理想",
+    "order": 672
+  },
+  {
+    "speaker": "host",
+    "start": 6233.34,
+    "end": 6235.34,
+    "start_timestamp": "01:43:53.340",
+    "end_timestamp": "01:43:55.340",
+    "text": "是因为",
+    "order": 673
+  },
+  {
+    "speaker": "host",
+    "start": 6235.34,
+    "end": 6377.02,
+    "start_timestamp": "01:43:55.340",
+    "end_timestamp": "01:46:17.020",
+    "text": "所以二五年",
+    "order": 674
+  },
+  {
+    "speaker": "host",
+    "start": 6377.02,
+    "end": 6379.02,
+    "start_timestamp": "01:46:17.020",
+    "end_timestamp": "01:46:19.020",
+    "text": "你在加密货币",
+    "order": 675
+  },
+  {
+    "speaker": "host",
+    "start": 6379.02,
+    "end": 6381.02,
+    "start_timestamp": "01:46:19.020",
+    "end_timestamp": "01:46:21.020",
+    "text": "这个赛道这个行业",
+    "order": 676
+  },
+  {
+    "speaker": "host",
+    "start": 6381.02,
+    "end": 6383.02,
+    "start_timestamp": "01:46:21.020",
+    "end_timestamp": "01:46:23.020",
+    "text": "更多是试水",
+    "order": 677
+  },
+  {
+    "speaker": "host",
+    "start": 6383.02,
+    "end": 6385.02,
+    "start_timestamp": "01:46:23.020",
+    "end_timestamp": "01:46:25.020",
+    "text": "对你现实生活",
+    "order": 678
+  },
+  {
+    "speaker": "host",
+    "start": 6385.02,
+    "end": 6387.02,
+    "start_timestamp": "01:46:25.020",
+    "end_timestamp": "01:46:27.020",
+    "text": "没有造成非常非常",
+    "order": 679
+  },
+  {
+    "speaker": "host",
+    "start": 6387.02,
+    "end": 6494.97,
+    "start_timestamp": "01:46:27.020",
+    "end_timestamp": "01:48:14.970",
+    "text": "大的影响",
+    "order": 680
+  },
+  {
+    "speaker": "host",
+    "start": 6494.97,
+    "end": 6496.97,
+    "start_timestamp": "01:48:14.970",
+    "end_timestamp": "01:48:16.970",
+    "text": "所以你后来产生了想做一个",
+    "order": 681
+  },
+  {
+    "speaker": "host",
+    "start": 6496.97,
+    "end": 6498.97,
+    "start_timestamp": "01:48:16.970",
+    "end_timestamp": "01:48:18.970",
+    "text": "教育平台",
+    "order": 682
+  },
+  {
+    "speaker": "host",
+    "start": 6498.97,
+    "end": 6500.97,
+    "start_timestamp": "01:48:18.970",
+    "end_timestamp": "01:48:20.970",
+    "text": "是不是因为你自己淋过雨",
+    "order": 683
+  },
+  {
+    "speaker": "host",
+    "start": 6500.97,
+    "end": 6571.45,
+    "start_timestamp": "01:48:20.970",
+    "end_timestamp": "01:49:31.450",
+    "text": "所以想给别人打伞",
+    "order": 684
+  },
+  {
+    "speaker": "host",
+    "start": 6607.78,
+    "end": 6678.84,
+    "start_timestamp": "01:50:07.780",
+    "end_timestamp": "01:51:18.840",
+    "text": "明白这是两个方向了",
+    "order": 685
+  },
+  {
+    "speaker": "host",
+    "start": 6678.84,
+    "end": 6680.84,
+    "start_timestamp": "01:51:18.840",
+    "end_timestamp": "01:51:20.840",
+    "text": "一种是被人",
+    "order": 686
+  },
+  {
+    "speaker": "host",
+    "start": 6680.84,
+    "end": 6682.84,
+    "start_timestamp": "01:51:20.840",
+    "end_timestamp": "01:51:22.840",
+    "text": "设局被人做事",
+    "order": 687
+  },
+  {
+    "speaker": "host",
+    "start": 6682.84,
+    "end": 6684.84,
+    "start_timestamp": "01:51:22.840",
+    "end_timestamp": "01:51:24.840",
+    "text": "有做事商去做事",
+    "order": 688
+  },
+  {
+    "speaker": "host",
+    "start": 6684.84,
+    "end": 6686.84,
+    "start_timestamp": "01:51:24.840",
+    "end_timestamp": "01:51:26.840",
+    "text": "有政策影响这可能是",
+    "order": 689
+  },
+  {
+    "speaker": "host",
+    "start": 6686.84,
+    "end": 6688.84,
+    "start_timestamp": "01:51:26.840",
+    "end_timestamp": "01:51:28.840",
+    "text": "Crypto行业的独特的性质",
+    "order": 690
+  },
+  {
+    "speaker": "host",
+    "start": 6688.84,
+    "end": 6690.84,
+    "start_timestamp": "01:51:28.840",
+    "end_timestamp": "01:51:30.840",
+    "text": "但是",
+    "order": 691
+  },
+  {
+    "speaker": "host",
+    "start": 6690.84,
+    "end": 6692.84,
+    "start_timestamp": "01:51:30.840",
+    "end_timestamp": "01:51:32.840",
+    "text": "Trading很多其实也",
+    "order": 692
+  },
+  {
+    "speaker": "host",
+    "start": 6692.84,
+    "end": 6694.84,
+    "start_timestamp": "01:51:32.840",
+    "end_timestamp": "01:51:34.840",
+    "text": "或是Quant传统行业很多是",
+    "order": 693
+  },
+  {
+    "speaker": "host",
+    "start": 6694.84,
+    "end": 6696.84,
+    "start_timestamp": "01:51:34.840",
+    "end_timestamp": "01:51:36.840",
+    "text": "围绕着股票市场",
+    "order": 694
+  },
+  {
+    "speaker": "host",
+    "start": 6696.84,
+    "end": 6698.84,
+    "start_timestamp": "01:51:36.840",
+    "end_timestamp": "01:51:38.840",
+    "text": "不一定有Crypto那么多的风险",
+    "order": 695
+  },
+  {
+    "speaker": "host",
+    "start": 6698.84,
+    "end": 6700.84,
+    "start_timestamp": "01:51:38.840",
+    "end_timestamp": "01:51:40.840",
+    "text": "当然",
+    "order": 696
+  },
+  {
+    "speaker": "host",
+    "start": 6700.84,
+    "end": 6702.84,
+    "start_timestamp": "01:51:40.840",
+    "end_timestamp": "01:51:42.840",
+    "text": "所有的Trading都需要风险管理",
+    "order": 697
+  },
+  {
+    "speaker": "host",
+    "start": 6702.84,
+    "end": 6760.84,
+    "start_timestamp": "01:51:42.840",
+    "end_timestamp": "01:52:40.840",
+    "text": "需要资金管理",
+    "order": 698
+  },
+  {
+    "speaker": "host",
+    "start": 6760.84,
+    "end": 6762.84,
+    "start_timestamp": "01:52:40.840",
+    "end_timestamp": "01:52:42.840",
+    "text": "你这个Trading Education Platform是什么时候",
+    "order": 699
+  },
+  {
+    "speaker": "host",
+    "start": 6762.84,
+    "end": 6764.84,
+    "start_timestamp": "01:52:42.840",
+    "end_timestamp": "01:52:44.840",
+    "text": "开始做的还在做吗",
+    "order": 700
+  },
+  {
+    "speaker": "host",
+    "start": 6764.84,
+    "end": 6786.58,
+    "start_timestamp": "01:52:44.840",
+    "end_timestamp": "01:53:06.580",
+    "text": "现在但是是",
+    "order": 701
+  },
+  {
+    "speaker": "host",
+    "start": 6786.58,
+    "end": 6793.16,
+    "start_timestamp": "01:53:06.580",
+    "end_timestamp": "01:53:13.160",
+    "text": "二五年也是二五年的事",
+    "order": 702
+  },
+  {
+    "speaker": "host",
+    "start": 6793.16,
+    "end": 6795.16,
+    "start_timestamp": "01:53:13.160",
+    "end_timestamp": "01:53:15.160",
+    "text": "也是半年一年内的",
+    "order": 703
+  },
+  {
+    "speaker": "host",
+    "start": 6795.16,
+    "end": 6813.35,
+    "start_timestamp": "01:53:15.160",
+    "end_timestamp": "01:53:33.350",
+    "text": "也没有很早",
+    "order": 704
+  },
+  {
+    "speaker": "host",
+    "start": 6813.35,
+    "end": 6843.48,
+    "start_timestamp": "01:53:33.350",
+    "end_timestamp": "01:54:03.480",
+    "text": "但你有十年以上的Trading经验",
+    "order": 705
+  },
+  {
+    "speaker": "host",
+    "start": 6843.48,
+    "end": 6845.48,
+    "start_timestamp": "01:54:03.480",
+    "end_timestamp": "01:54:05.480",
+    "text": "是什么特别的动机",
+    "order": 706
+  },
+  {
+    "speaker": "host",
+    "start": 6845.48,
+    "end": 6847.48,
+    "start_timestamp": "01:54:05.480",
+    "end_timestamp": "01:54:07.480",
+    "text": "让你二五年",
+    "order": 707
+  },
+  {
+    "speaker": "host",
+    "start": 6847.48,
+    "end": 6849.48,
+    "start_timestamp": "01:54:07.480",
+    "end_timestamp": "01:54:09.480",
+    "text": "的时候",
+    "order": 708
+  },
+  {
+    "speaker": "host",
+    "start": 6849.48,
+    "end": 6851.48,
+    "start_timestamp": "01:54:09.480",
+    "end_timestamp": "01:54:11.480",
+    "text": "想做这样的一个Education",
+    "order": 709
+  },
+  {
+    "speaker": "host",
+    "start": 6851.48,
+    "end": 6905.99,
+    "start_timestamp": "01:54:11.480",
+    "end_timestamp": "01:55:05.990",
+    "text": "的Platform",
+    "order": 710
+  },
+  {
+    "speaker": "host",
+    "start": 6905.99,
+    "end": 6911.35,
+    "start_timestamp": "01:55:05.990",
+    "end_timestamp": "01:55:11.350",
+    "text": "所以你想创业的这个",
+    "order": 711
+  },
+  {
+    "speaker": "host",
+    "start": 6911.35,
+    "end": 6913.35,
+    "start_timestamp": "01:55:11.350",
+    "end_timestamp": "01:55:13.350",
+    "text": "idea",
+    "order": 712
+  },
+  {
+    "speaker": "host",
+    "start": 6913.35,
+    "end": 6915.35,
+    "start_timestamp": "01:55:13.350",
+    "end_timestamp": "01:55:15.350",
+    "text": "最开始",
+    "order": 713
+  },
+  {
+    "speaker": "host",
+    "start": 6915.35,
+    "end": 6917.35,
+    "start_timestamp": "01:55:15.350",
+    "end_timestamp": "01:55:17.350",
+    "text": "的启发是那次偶然的创业",
+    "order": 714
+  },
+  {
+    "speaker": "host",
+    "start": 6917.35,
+    "end": 6919.35,
+    "start_timestamp": "01:55:17.350",
+    "end_timestamp": "01:55:19.350",
+    "text": "比赛的这个事件",
+    "order": 715
+  },
+  {
+    "speaker": "host",
+    "start": 6919.35,
+    "end": 6921.35,
+    "start_timestamp": "01:55:19.350",
+    "end_timestamp": "01:55:21.350",
+    "text": "然后回忆想你的",
+    "order": 716
+  },
+  {
+    "speaker": "host",
+    "start": 6921.35,
+    "end": 6923.35,
+    "start_timestamp": "01:55:21.350",
+    "end_timestamp": "01:55:23.350",
+    "text": "职业生意啊你的经历",
+    "order": 717
+  },
+  {
+    "speaker": "host",
+    "start": 6923.35,
+    "end": 6925.35,
+    "start_timestamp": "01:55:23.350",
+    "end_timestamp": "01:55:25.350",
+    "text": "能够做什么",
+    "order": 718
+  },
+  {
+    "speaker": "host",
+    "start": 6925.35,
+    "end": 6949.98,
+    "start_timestamp": "01:55:25.350",
+    "end_timestamp": "01:55:49.980",
+    "text": "所以有一点你把自己",
+    "order": 719
+  },
+  {
+    "speaker": "host",
+    "start": 6949.98,
+    "end": 6951.98,
+    "start_timestamp": "01:55:49.980",
+    "end_timestamp": "01:55:51.980",
+    "text": "现在之前二五年",
+    "order": 720
+  },
+  {
+    "speaker": "host",
+    "start": 6951.98,
+    "end": 6953.98,
+    "start_timestamp": "01:55:51.980",
+    "end_timestamp": "01:55:53.980",
+    "text": "做的这个Platform定位成",
+    "order": 721
+  },
+  {
+    "speaker": "host",
+    "start": 6953.98,
+    "end": 6955.98,
+    "start_timestamp": "01:55:53.980",
+    "end_timestamp": "01:55:55.980",
+    "text": "可能更多出自于你自己的兴趣",
+    "order": 722
+  },
+  {
+    "speaker": "host",
+    "start": 6955.98,
+    "end": 6960.02,
+    "start_timestamp": "01:55:55.980",
+    "end_timestamp": "01:56:00.020",
+    "text": "也听起来也像是",
+    "order": 723
+  },
+  {
+    "speaker": "host",
+    "start": 6960.02,
+    "end": 6962.02,
+    "start_timestamp": "01:56:00.020",
+    "end_timestamp": "01:56:02.020",
+    "text": "很多层面上",
+    "order": 724
+  },
+  {
+    "speaker": "host",
+    "start": 6962.02,
+    "end": 6964.02,
+    "start_timestamp": "01:56:02.020",
+    "end_timestamp": "01:56:04.020",
+    "text": "是想教育自己的一个产品",
+    "order": 725
+  },
+  {
+    "speaker": "host",
+    "start": 6964.02,
+    "end": 6994.06,
+    "start_timestamp": "01:56:04.020",
+    "end_timestamp": "01:56:34.060",
+    "text": "这个也是很有意思的",
+    "order": 726
+  },
+  {
+    "speaker": "host",
+    "start": 6994.06,
+    "end": 6996.06,
+    "start_timestamp": "01:56:34.060",
+    "end_timestamp": "01:56:36.060",
+    "text": "教育自己因为",
+    "order": 727
+  },
+  {
+    "speaker": "host",
+    "start": 6996.06,
+    "end": 6998.06,
+    "start_timestamp": "01:56:36.060",
+    "end_timestamp": "01:56:38.060",
+    "text": "现在AI Agent或者说",
+    "order": 728
+  },
+  {
+    "speaker": "host",
+    "start": 6998.06,
+    "end": 7000.06,
+    "start_timestamp": "01:56:38.060",
+    "end_timestamp": "01:56:40.060",
+    "text": "Life Coding的时代",
+    "order": 729
+  },
+  {
+    "speaker": "host",
+    "start": 7000.06,
+    "end": 7002.06,
+    "start_timestamp": "01:56:40.060",
+    "end_timestamp": "01:56:42.060",
+    "text": "很多人会开发一些AI Agent",
+    "order": 730
+  },
+  {
+    "speaker": "host",
+    "start": 7002.06,
+    "end": 7004.06,
+    "start_timestamp": "01:56:42.060",
+    "end_timestamp": "01:56:44.060",
+    "text": "AI的Tools给自己去使用",
+    "order": 731
+  },
+  {
+    "speaker": "host",
+    "start": 7004.06,
+    "end": 7006.06,
+    "start_timestamp": "01:56:44.060",
+    "end_timestamp": "01:56:46.060",
+    "text": "对",
+    "order": 732
+  },
+  {
+    "speaker": "host",
+    "start": 7006.06,
+    "end": 7038.52,
+    "start_timestamp": "01:56:46.060",
+    "end_timestamp": "01:57:18.520",
+    "text": "对这也是个很意思的",
+    "order": 733
+  },
+  {
+    "speaker": "host",
+    "start": 7038.52,
+    "end": 7043.78,
+    "start_timestamp": "01:57:18.520",
+    "end_timestamp": "01:57:23.780",
+    "text": "现象",
+    "order": 734
+  },
+  {
+    "speaker": "host",
+    "start": 7043.78,
+    "end": 7045.78,
+    "start_timestamp": "01:57:23.780",
+    "end_timestamp": "01:57:25.780",
+    "text": "很多人开发应用",
+    "order": 735
+  },
+  {
+    "speaker": "host",
+    "start": 7045.78,
+    "end": 7047.78,
+    "start_timestamp": "01:57:25.780",
+    "end_timestamp": "01:57:27.780",
+    "text": "给自己使用的不是",
+    "order": 736
+  },
+  {
+    "speaker": "host",
+    "start": 7047.78,
+    "end": 7057.37,
+    "start_timestamp": "01:57:27.780",
+    "end_timestamp": "01:57:37.370",
+    "text": "给他人使用",
+    "order": 737
+  },
+  {
+    "speaker": "host",
+    "start": 7057.37,
+    "end": 7060.78,
+    "start_timestamp": "01:57:37.370",
+    "end_timestamp": "01:57:40.780",
+    "text": "这也是另外一种",
+    "order": 738
+  },
+  {
+    "speaker": "host",
+    "start": 7060.78,
+    "end": 7062.78,
+    "start_timestamp": "01:57:40.780",
+    "end_timestamp": "01:57:42.780",
+    "text": "安慰自己的",
+    "order": 739
+  },
+  {
+    "speaker": "host",
+    "start": 7062.78,
+    "end": 7064.78,
+    "start_timestamp": "01:57:42.780",
+    "end_timestamp": "01:57:44.780",
+    "text": "说法",
+    "order": 740
+  },
+  {
+    "speaker": "host",
+    "start": 7064.78,
+    "end": 7066.78,
+    "start_timestamp": "01:57:44.780",
+    "end_timestamp": "01:57:46.780",
+    "text": "因为",
+    "order": 741
+  },
+  {
+    "speaker": "host",
+    "start": 7066.78,
+    "end": 7068.78,
+    "start_timestamp": "01:57:46.780",
+    "end_timestamp": "01:57:48.780",
+    "text": "我既然卖不了钱",
+    "order": 742
+  },
+  {
+    "speaker": "host",
+    "start": 7068.78,
+    "end": 7070.78,
+    "start_timestamp": "01:57:48.780",
+    "end_timestamp": "01:57:50.780",
+    "text": "比如说一个既单词的App",
+    "order": 743
+  },
+  {
+    "speaker": "host",
+    "start": 7070.78,
+    "end": 7072.78,
+    "start_timestamp": "01:57:50.780",
+    "end_timestamp": "01:57:52.780",
+    "text": "我可能无法卖出去",
+    "order": 744
+  },
+  {
+    "speaker": "host",
+    "start": 7072.78,
+    "end": 7074.78,
+    "start_timestamp": "01:57:52.780",
+    "end_timestamp": "01:57:54.780",
+    "text": "那",
+    "order": 745
+  },
+  {
+    "speaker": "host",
+    "start": 7074.78,
+    "end": 7076.78,
+    "start_timestamp": "01:57:54.780",
+    "end_timestamp": "01:57:56.780",
+    "text": "只能安慰自己说",
+    "order": 746
+  },
+  {
+    "speaker": "host",
+    "start": 7076.78,
+    "end": 7078.78,
+    "start_timestamp": "01:57:56.780",
+    "end_timestamp": "01:57:58.780",
+    "text": "这是给自己用的",
+    "order": 747
+  },
+  {
+    "speaker": "host",
+    "start": 7078.78,
+    "end": 7082.06,
+    "start_timestamp": "01:57:58.780",
+    "end_timestamp": "01:58:02.060",
+    "text": "给自己孩子用的",
+    "order": 748
+  },
+  {
+    "speaker": "host",
+    "start": 7082.06,
+    "end": 7141.27,
+    "start_timestamp": "01:58:02.060",
+    "end_timestamp": "01:59:01.270",
+    "text": "也有可能",
+    "order": 749
+  },
+  {
+    "speaker": "host",
+    "start": 7141.27,
+    "end": 7143.27,
+    "start_timestamp": "01:59:01.270",
+    "end_timestamp": "01:59:03.270",
+    "text": "明白",
+    "order": 750
+  },
+  {
+    "speaker": "host",
+    "start": 7143.27,
+    "end": 7145.27,
+    "start_timestamp": "01:59:03.270",
+    "end_timestamp": "01:59:05.270",
+    "text": "继续回到你的Time Line",
+    "order": 751
+  },
+  {
+    "speaker": "host",
+    "start": 7145.27,
+    "end": 7147.27,
+    "start_timestamp": "01:59:05.270",
+    "end_timestamp": "01:59:07.270",
+    "text": "因为你的Time Line是很有意思",
+    "order": 752
+  },
+  {
+    "speaker": "host",
+    "start": 7147.27,
+    "end": 7149.27,
+    "start_timestamp": "01:59:07.270",
+    "end_timestamp": "01:59:09.270",
+    "text": "也很有代表性",
+    "order": 753
+  },
+  {
+    "speaker": "host",
+    "start": 7149.27,
+    "end": 7151.27,
+    "start_timestamp": "01:59:09.270",
+    "end_timestamp": "01:59:11.270",
+    "text": "也不算有代表性吧",
+    "order": 754
+  },
+  {
+    "speaker": "host",
+    "start": 7151.27,
+    "end": 7153.27,
+    "start_timestamp": "01:59:11.270",
+    "end_timestamp": "01:59:13.270",
+    "text": "因为你从国内工作到",
+    "order": 755
+  },
+  {
+    "speaker": "host",
+    "start": 7153.27,
+    "end": 7155.27,
+    "start_timestamp": "01:59:13.270",
+    "end_timestamp": "01:59:15.270",
+    "text": "国外的过渡",
+    "order": 756
+  },
+  {
+    "speaker": "host",
+    "start": 7155.27,
+    "end": 7157.27,
+    "start_timestamp": "01:59:15.270",
+    "end_timestamp": "01:59:17.270",
+    "text": "是用英国硕士去过渡了",
+    "order": 757
+  },
+  {
+    "speaker": "host",
+    "start": 7157.27,
+    "end": 7160.78,
+    "start_timestamp": "01:59:17.270",
+    "end_timestamp": "01:59:20.780",
+    "text": "一年",
+    "order": 758
+  },
+  {
+    "speaker": "host",
+    "start": 7160.78,
+    "end": 7162.78,
+    "start_timestamp": "01:59:20.780",
+    "end_timestamp": "01:59:22.780",
+    "text": "虽然我知道有不少人",
+    "order": 759
+  },
+  {
+    "speaker": "host",
+    "start": 7162.78,
+    "end": 7166.28,
+    "start_timestamp": "01:59:22.780",
+    "end_timestamp": "01:59:26.280",
+    "text": "工作了一段时间",
+    "order": 760
+  },
+  {
+    "speaker": "host",
+    "start": 7166.28,
+    "end": 7168.28,
+    "start_timestamp": "01:59:26.280",
+    "end_timestamp": "01:59:28.280",
+    "text": "之后才来读的硕士",
+    "order": 761
+  },
+  {
+    "speaker": "host",
+    "start": 7168.28,
+    "end": 7170.28,
+    "start_timestamp": "01:59:28.280",
+    "end_timestamp": "01:59:30.280",
+    "text": "当然很多英国的绝大部分的硕士",
+    "order": 762
+  },
+  {
+    "speaker": "host",
+    "start": 7170.28,
+    "end": 7172.28,
+    "start_timestamp": "01:59:30.280",
+    "end_timestamp": "01:59:32.280",
+    "text": "现在这个时代很多是",
+    "order": 763
+  },
+  {
+    "speaker": "host",
+    "start": 7172.28,
+    "end": 7174.28,
+    "start_timestamp": "01:59:32.280",
+    "end_timestamp": "01:59:34.280",
+    "text": "读完本科就读了硕士",
+    "order": 764
+  },
+  {
+    "speaker": "host",
+    "start": 7174.28,
+    "end": 7176.28,
+    "start_timestamp": "01:59:34.280",
+    "end_timestamp": "01:59:36.280",
+    "text": "并没有很长的工作经验",
+    "order": 765
+  },
+  {
+    "speaker": "host",
+    "start": 7176.28,
+    "end": 7178.28,
+    "start_timestamp": "01:59:36.280",
+    "end_timestamp": "01:59:38.280",
+    "text": "所以你其实代表的是小部分人",
+    "order": 766
+  },
+  {
+    "speaker": "host",
+    "start": 7178.28,
+    "end": 7180.28,
+    "start_timestamp": "01:59:38.280",
+    "end_timestamp": "01:59:40.280",
+    "text": "从客观角度来讲",
+    "order": 767
+  },
+  {
+    "speaker": "host",
+    "start": 7180.28,
+    "end": 7182.28,
+    "start_timestamp": "01:59:40.280",
+    "end_timestamp": "01:59:42.280",
+    "text": "你",
+    "order": 768
+  },
+  {
+    "speaker": "host",
+    "start": 7182.28,
+    "end": 7465.14,
+    "start_timestamp": "01:59:42.280",
+    "end_timestamp": "02:04:25.140",
+    "text": "这一年的英术有什么感受吗",
+    "order": 769
+  },
+  {
+    "speaker": "host",
+    "start": 7465.14,
+    "end": 7467.14,
+    "start_timestamp": "02:04:25.140",
+    "end_timestamp": "02:04:27.140",
+    "text": "但听下来我觉得这个是非常符合",
+    "order": 770
+  },
+  {
+    "speaker": "host",
+    "start": 7467.14,
+    "end": 7469.14,
+    "start_timestamp": "02:04:27.140",
+    "end_timestamp": "02:04:29.140",
+    "text": "你为什么想来读一年硕士",
+    "order": 771
+  },
+  {
+    "speaker": "host",
+    "start": 7469.14,
+    "end": 7471.14,
+    "start_timestamp": "02:04:29.140",
+    "end_timestamp": "02:04:31.140",
+    "text": "就是想换一个生活节奏",
+    "order": 772
+  },
+  {
+    "speaker": "host",
+    "start": 7471.14,
+    "end": 7473.14,
+    "start_timestamp": "02:04:31.140",
+    "end_timestamp": "02:04:33.140",
+    "text": "换一个生活方式",
+    "order": 773
+  },
+  {
+    "speaker": "host",
+    "start": 7473.14,
+    "end": 7475.14,
+    "start_timestamp": "02:04:33.140",
+    "end_timestamp": "02:04:35.140",
+    "text": "遇下七年的阴霾",
+    "order": 774
+  },
+  {
+    "speaker": "host",
+    "start": 7475.14,
+    "end": 7507.77,
+    "start_timestamp": "02:04:35.140",
+    "end_timestamp": "02:05:07.770",
+    "text": "对吗",
+    "order": 775
+  },
+  {
+    "speaker": "host",
+    "start": 7507.77,
+    "end": 7509.77,
+    "start_timestamp": "02:05:07.770",
+    "end_timestamp": "02:05:09.770",
+    "text": "所以更多作为一种过渡的",
+    "order": 776
+  },
+  {
+    "speaker": "host",
+    "start": 7509.77,
+    "end": 7511.77,
+    "start_timestamp": "02:05:09.770",
+    "end_timestamp": "02:05:11.770",
+    "text": "一种方式",
+    "order": 777
+  },
+  {
+    "speaker": "host",
+    "start": 7511.77,
+    "end": 7513.77,
+    "start_timestamp": "02:05:11.770",
+    "end_timestamp": "02:05:13.770",
+    "text": "去体验新鲜的一个生活",
+    "order": 778
+  },
+  {
+    "speaker": "host",
+    "start": 7513.77,
+    "end": 7515.77,
+    "start_timestamp": "02:05:13.770",
+    "end_timestamp": "02:05:15.770",
+    "text": "你有考虑过直接",
+    "order": 779
+  },
+  {
+    "speaker": "host",
+    "start": 7515.77,
+    "end": 7517.77,
+    "start_timestamp": "02:05:15.770",
+    "end_timestamp": "02:05:17.770",
+    "text": "出来申请工作吗",
+    "order": 780
+  },
+  {
+    "speaker": "host",
+    "start": 7517.77,
+    "end": 7519.77,
+    "start_timestamp": "02:05:17.770",
+    "end_timestamp": "02:05:19.770",
+    "text": "因为身边我也有见到很多",
+    "order": 781
+  },
+  {
+    "speaker": "host",
+    "start": 7519.77,
+    "end": 7644.52,
+    "start_timestamp": "02:05:19.770",
+    "end_timestamp": "02:07:24.520",
+    "text": "直接国内申请海外的工作",
+    "order": 782
+  },
+  {
+    "speaker": "host",
+    "start": 7644.52,
+    "end": 7646.52,
+    "start_timestamp": "02:07:24.520",
+    "end_timestamp": "02:07:26.520",
+    "text": "你觉得你现在",
+    "order": 783
+  },
+  {
+    "speaker": "host",
+    "start": 7646.52,
+    "end": 7648.52,
+    "start_timestamp": "02:07:26.520",
+    "end_timestamp": "02:07:28.520",
+    "text": "有觉得融入不了英国吗",
+    "order": 784
+  },
+  {
+    "speaker": "host",
+    "start": 7648.52,
+    "end": 7652.34,
+    "start_timestamp": "02:07:28.520",
+    "end_timestamp": "02:07:32.340",
+    "text": "你在英国几年了",
+    "order": 785
+  },
+  {
+    "speaker": "host",
+    "start": 7652.34,
+    "end": 7654.34,
+    "start_timestamp": "02:07:32.340",
+    "end_timestamp": "02:07:34.340",
+    "text": "你觉得融入这个社会了吗",
+    "order": 786
+  },
+  {
+    "speaker": "host",
+    "start": 7654.34,
+    "end": 7764.12,
+    "start_timestamp": "02:07:34.340",
+    "end_timestamp": "02:09:24.120",
+    "text": "或者喜欢这个国家吗",
+    "order": 787
+  },
+  {
+    "speaker": "host",
+    "start": 7764.12,
+    "end": 7766.12,
+    "start_timestamp": "02:09:24.120",
+    "end_timestamp": "02:09:26.120",
+    "text": "我喜欢伦敦",
+    "order": 788
+  },
+  {
+    "speaker": "host",
+    "start": 7766.12,
+    "end": 7779.93,
+    "start_timestamp": "02:09:26.120",
+    "end_timestamp": "02:09:39.930",
+    "text": "你是还挺喜欢伦敦的",
+    "order": 789
+  },
+  {
+    "speaker": "host",
+    "start": 7779.93,
+    "end": 7781.93,
+    "start_timestamp": "02:09:39.930",
+    "end_timestamp": "02:09:41.930",
+    "text": "对啊你很快就要回国了",
+    "order": 790
+  },
+  {
+    "speaker": "host",
+    "start": 7781.93,
+    "end": 7800.34,
+    "start_timestamp": "02:09:41.930",
+    "end_timestamp": "02:10:00.340",
+    "text": "是因为签证的原因",
+    "order": 791
+  },
+  {
+    "speaker": "host",
+    "start": 7800.34,
+    "end": 7802.34,
+    "start_timestamp": "02:10:00.340",
+    "end_timestamp": "02:10:02.340",
+    "text": "签证也是大环境",
+    "order": 792
+  },
+  {
+    "speaker": "host",
+    "start": 7802.34,
+    "end": 7804.34,
+    "start_timestamp": "02:10:02.340",
+    "end_timestamp": "02:10:04.340",
+    "text": "影响个人",
+    "order": 793
+  },
+  {
+    "speaker": "host",
+    "start": 7804.34,
+    "end": 7806.34,
+    "start_timestamp": "02:10:04.340",
+    "end_timestamp": "02:10:06.340",
+    "text": "选择的很大的影响因素",
+    "order": 794
+  },
+  {
+    "speaker": "host",
+    "start": 7806.34,
+    "end": 7813.34,
+    "start_timestamp": "02:10:06.340",
+    "end_timestamp": "02:10:13.340",
+    "text": "的一个点",
+    "order": 795
+  },
+  {
+    "speaker": "host",
+    "start": 7813.34,
+    "end": 7815.34,
+    "start_timestamp": "02:10:13.340",
+    "end_timestamp": "02:10:15.340",
+    "text": "那很快就要回国了你觉得",
+    "order": 796
+  },
+  {
+    "speaker": "host",
+    "start": 7815.34,
+    "end": 7817.34,
+    "start_timestamp": "02:10:15.340",
+    "end_timestamp": "02:10:17.340",
+    "text": "可能一个阶段",
+    "order": 797
+  },
+  {
+    "speaker": "host",
+    "start": 7817.34,
+    "end": 7819.34,
+    "start_timestamp": "02:10:17.340",
+    "end_timestamp": "02:10:19.340",
+    "text": "也告一段落了",
+    "order": 798
+  },
+  {
+    "speaker": "host",
+    "start": 7819.34,
+    "end": 7821.34,
+    "start_timestamp": "02:10:19.340",
+    "end_timestamp": "02:10:21.340",
+    "text": "可以这么说吗",
+    "order": 799
+  },
+  {
+    "speaker": "host",
+    "start": 7821.34,
+    "end": 7823.34,
+    "start_timestamp": "02:10:21.340",
+    "end_timestamp": "02:10:23.340",
+    "text": "你觉得你的",
+    "order": 800
+  },
+  {
+    "speaker": "host",
+    "start": 7823.34,
+    "end": 7825.34,
+    "start_timestamp": "02:10:23.340",
+    "end_timestamp": "02:10:25.340",
+    "text": "最初心的目的达到了吗",
+    "order": 801
+  },
+  {
+    "speaker": "host",
+    "start": 7825.34,
+    "end": 7827.34,
+    "start_timestamp": "02:10:25.340",
+    "end_timestamp": "02:10:27.340",
+    "text": "你刚刚觉得学语言可能没有学得特别好",
+    "order": 802
+  },
+  {
+    "speaker": "host",
+    "start": 7829.34,
+    "end": 7831.34,
+    "start_timestamp": "02:10:29.340",
+    "end_timestamp": "02:10:31.340",
+    "text": "或者自由旅游",
+    "order": 803
+  },
+  {
+    "speaker": "host",
+    "start": 7831.34,
+    "end": 7833.34,
+    "start_timestamp": "02:10:31.340",
+    "end_timestamp": "02:10:33.340",
+    "text": "有什么其他",
+    "order": 804
+  },
+  {
+    "speaker": "host",
+    "start": 7833.34,
+    "end": 7835.34,
+    "start_timestamp": "02:10:33.340",
+    "end_timestamp": "02:10:35.340",
+    "text": "来英国的这三年",
+    "order": 805
+  },
+  {
+    "speaker": "host",
+    "start": 7835.34,
+    "end": 7837.34,
+    "start_timestamp": "02:10:35.340",
+    "end_timestamp": "02:10:37.340",
+    "text": "三年前",
+    "order": 806
+  },
+  {
+    "speaker": "host",
+    "start": 7837.34,
+    "end": 7839.34,
+    "start_timestamp": "02:10:37.340",
+    "end_timestamp": "02:10:39.340",
+    "text": "你的预想是什么样的",
+    "order": 807
+  },
+  {
+    "speaker": "host",
+    "start": 7839.34,
+    "end": 7841.34,
+    "start_timestamp": "02:10:39.340",
+    "end_timestamp": "02:10:41.340",
+    "text": "然后三年后马上就要回国了",
+    "order": 808
+  },
+  {
+    "speaker": "host",
+    "start": 7841.34,
+    "end": 7843.34,
+    "start_timestamp": "02:10:41.340",
+    "end_timestamp": "02:10:43.340",
+    "text": "这阶段告一段落了",
+    "order": 809
+  },
+  {
+    "speaker": "host",
+    "start": 7843.34,
+    "end": 7845.34,
+    "start_timestamp": "02:10:43.340",
+    "end_timestamp": "02:10:45.340",
+    "text": "你觉得你有什么样的",
+    "order": 810
+  },
+  {
+    "speaker": "host",
+    "start": 7845.34,
+    "end": 7847.34,
+    "start_timestamp": "02:10:45.340",
+    "end_timestamp": "02:10:47.340",
+    "text": "当时是怎么想的",
+    "order": 811
+  },
+  {
+    "speaker": "host",
+    "start": 7847.34,
+    "end": 7849.34,
+    "start_timestamp": "02:10:47.340",
+    "end_timestamp": "02:10:49.340",
+    "text": "你觉得你目的达成了吗",
+    "order": 812
+  },
+  {
+    "speaker": "host",
+    "start": 7849.34,
+    "end": 7851.34,
+    "start_timestamp": "02:10:49.340",
+    "end_timestamp": "02:10:51.340",
+    "text": "还是说怎么样",
+    "order": 813
+  },
+  {
+    "speaker": "host",
+    "start": 7851.34,
+    "end": 7853.34,
+    "start_timestamp": "02:10:51.340",
+    "end_timestamp": "02:10:53.340",
+    "text": "总结一下这三年",
+    "order": 814
+  },
+  {
+    "speaker": "host",
+    "start": 7853.34,
+    "end": 7951.72,
+    "start_timestamp": "02:10:53.340",
+    "end_timestamp": "02:12:31.720",
+    "text": "明白",
+    "order": 815
+  },
+  {
+    "speaker": "host",
+    "start": 7951.72,
+    "end": 7953.72,
+    "start_timestamp": "02:12:31.720",
+    "end_timestamp": "02:12:33.720",
+    "text": "所以更享受的是这样的一个过程",
+    "order": 816
+  },
+  {
+    "speaker": "host",
+    "start": 7953.72,
+    "end": 7955.72,
+    "start_timestamp": "02:12:33.720",
+    "end_timestamp": "02:12:35.720",
+    "text": "其实最终结果",
+    "order": 817
+  },
+  {
+    "speaker": "host",
+    "start": 7955.72,
+    "end": 7957.72,
+    "start_timestamp": "02:12:35.720",
+    "end_timestamp": "02:12:37.720",
+    "text": "达成什么样的目的并没有那么的在意",
+    "order": 818
+  },
+  {
+    "speaker": "host",
+    "start": 7957.72,
+    "end": 7959.72,
+    "start_timestamp": "02:12:37.720",
+    "end_timestamp": "02:12:39.720",
+    "text": "只要走在路上就好",
+    "order": 819
+  },
+  {
+    "speaker": "host",
+    "start": 7959.72,
+    "end": 7961.72,
+    "start_timestamp": "02:12:39.720",
+    "end_timestamp": "02:12:41.720",
+    "text": "这样的一个状态",
+    "order": 820
+  },
+  {
+    "speaker": "host",
+    "start": 7961.72,
+    "end": 7991.59,
+    "start_timestamp": "02:12:41.720",
+    "end_timestamp": "02:13:11.590",
+    "text": "那给你现在",
+    "order": 821
+  },
+  {
+    "speaker": "host",
+    "start": 7991.59,
+    "end": 7993.59,
+    "start_timestamp": "02:13:11.590",
+    "end_timestamp": "02:13:13.590",
+    "text": "这三年打个分的这个阶段",
+    "order": 822
+  },
+  {
+    "speaker": "host",
+    "start": 7993.59,
+    "end": 7995.59,
+    "start_timestamp": "02:13:13.590",
+    "end_timestamp": "02:13:15.590",
+    "text": "已经拧来了一个尾声",
+    "order": 823
+  },
+  {
+    "speaker": "host",
+    "start": 7997.59,
+    "end": 7999.59,
+    "start_timestamp": "02:13:17.590",
+    "end_timestamp": "02:13:19.590",
+    "text": "你",
+    "order": 824
+  },
+  {
+    "speaker": "host",
+    "start": 7999.59,
+    "end": 8001.59,
+    "start_timestamp": "02:13:19.590",
+    "end_timestamp": "02:13:21.590",
+    "text": "这三年",
+    "order": 825
+  },
+  {
+    "speaker": "host",
+    "start": 8001.59,
+    "end": 8003.59,
+    "start_timestamp": "02:13:21.590",
+    "end_timestamp": "02:13:23.590",
+    "text": "来英国的这三年",
+    "order": 826
+  },
+  {
+    "speaker": "host",
+    "start": 8003.59,
+    "end": 8005.59,
+    "start_timestamp": "02:13:23.590",
+    "end_timestamp": "02:13:25.590",
+    "text": "有留学有工作",
+    "order": 827
+  },
+  {
+    "speaker": "host",
+    "start": 8005.59,
+    "end": 8007.59,
+    "start_timestamp": "02:13:25.590",
+    "end_timestamp": "02:13:27.590",
+    "text": "有参加活动",
+    "order": 828
+  },
+  {
+    "speaker": "host",
+    "start": 8007.59,
+    "end": 8009.59,
+    "start_timestamp": "02:13:27.590",
+    "end_timestamp": "02:13:29.590",
+    "text": "有自己创业",
+    "order": 829
+  },
+  {
+    "speaker": "host",
+    "start": 8009.59,
+    "end": 8011.59,
+    "start_timestamp": "02:13:29.590",
+    "end_timestamp": "02:13:31.590",
+    "text": "各种各样不管交到朋友",
+    "order": 830
+  },
+  {
+    "speaker": "host",
+    "start": 8011.59,
+    "end": 8013.59,
+    "start_timestamp": "02:13:31.590",
+    "end_timestamp": "02:13:33.590",
+    "text": "还是怎么样的生活方式",
+    "order": 831
+  },
+  {
+    "speaker": "host",
+    "start": 8013.59,
+    "end": 8015.59,
+    "start_timestamp": "02:13:33.590",
+    "end_timestamp": "02:13:35.590",
+    "text": "生活节奏",
+    "order": 832
+  },
+  {
+    "speaker": "host",
+    "start": 8015.59,
+    "end": 8017.59,
+    "start_timestamp": "02:13:35.590",
+    "end_timestamp": "02:13:37.590",
+    "text": "整体体验打个分",
+    "order": 833
+  },
+  {
+    "speaker": "host",
+    "start": 8017.59,
+    "end": 8054.82,
+    "start_timestamp": "02:13:37.590",
+    "end_timestamp": "02:14:14.820",
+    "text": "你的结果没拿到",
+    "order": 834
+  },
+  {
+    "speaker": "host",
+    "start": 8054.82,
+    "end": 8056.82,
+    "start_timestamp": "02:14:14.820",
+    "end_timestamp": "02:14:16.820",
+    "text": "是工作吗",
+    "order": 835
+  },
+  {
+    "speaker": "host",
+    "start": 8056.82,
+    "end": 8091.46,
+    "start_timestamp": "02:14:16.820",
+    "end_timestamp": "02:14:51.460",
+    "text": "那未来回国之后",
+    "order": 836
+  },
+  {
+    "speaker": "host",
+    "start": 8091.46,
+    "end": 8093.46,
+    "start_timestamp": "02:14:51.460",
+    "end_timestamp": "02:14:53.460",
+    "text": "你就想去杭州",
+    "order": 837
+  },
+  {
+    "speaker": "host",
+    "start": 8093.46,
+    "end": 8095.46,
+    "start_timestamp": "02:14:53.460",
+    "end_timestamp": "02:14:55.460",
+    "text": "继续再看一看新的机会",
+    "order": 838
+  },
+  {
+    "speaker": "host",
+    "start": 8095.46,
+    "end": 8150.94,
+    "start_timestamp": "02:14:55.460",
+    "end_timestamp": "02:15:50.940",
+    "text": "那你刚刚说",
+    "order": 839
+  },
+  {
+    "speaker": "host",
+    "start": 8150.94,
+    "end": 8152.94,
+    "start_timestamp": "02:15:50.940",
+    "end_timestamp": "02:15:52.940",
+    "text": "这三年这个阶段",
+    "order": 840
+  },
+  {
+    "speaker": "host",
+    "start": 8152.94,
+    "end": 8154.94,
+    "start_timestamp": "02:15:52.940",
+    "end_timestamp": "02:15:54.940",
+    "text": "有些结果可能没有拿到",
+    "order": 841
+  },
+  {
+    "speaker": "host",
+    "start": 8154.94,
+    "end": 8156.94,
+    "start_timestamp": "02:15:54.940",
+    "end_timestamp": "02:15:56.940",
+    "text": "以及还有很多待解决的",
+    "order": 842
+  },
+  {
+    "speaker": "host",
+    "start": 8156.94,
+    "end": 8158.94,
+    "start_timestamp": "02:15:56.940",
+    "end_timestamp": "02:15:58.940",
+    "text": "现实问题",
+    "order": 843
+  },
+  {
+    "speaker": "host",
+    "start": 8158.94,
+    "end": 8160.94,
+    "start_timestamp": "02:15:58.940",
+    "end_timestamp": "02:16:00.940",
+    "text": "会包括",
+    "order": 844
+  },
+  {
+    "speaker": "host",
+    "start": 8160.94,
+    "end": 8162.94,
+    "start_timestamp": "02:16:00.940",
+    "end_timestamp": "02:16:02.940",
+    "text": "稳定的现金流",
+    "order": 845
+  },
+  {
+    "speaker": "host",
+    "start": 8162.94,
+    "end": 8164.94,
+    "start_timestamp": "02:16:02.940",
+    "end_timestamp": "02:16:04.940",
+    "text": "那会带来",
+    "order": 846
+  },
+  {
+    "speaker": "host",
+    "start": 8164.94,
+    "end": 8166.94,
+    "start_timestamp": "02:16:04.940",
+    "end_timestamp": "02:16:06.940",
+    "text": "很强的焦虑吗",
+    "order": 847
+  },
+  {
+    "speaker": "host",
+    "start": 8166.94,
+    "end": 8248.01,
+    "start_timestamp": "02:16:06.940",
+    "end_timestamp": "02:17:28.010",
+    "text": "现阶段",
+    "order": 848
+  },
+  {
+    "speaker": "host",
+    "start": 8248.01,
+    "end": 8250.01,
+    "start_timestamp": "02:17:28.010",
+    "end_timestamp": "02:17:30.010",
+    "text": "所以接下来你会去",
+    "order": 849
+  },
+  {
+    "speaker": "host",
+    "start": 8250.01,
+    "end": 8252.01,
+    "start_timestamp": "02:17:30.010",
+    "end_timestamp": "02:17:32.010",
+    "text": "担心这些压力",
+    "order": 850
+  },
+  {
+    "speaker": "host",
+    "start": 8252.01,
+    "end": 8254.01,
+    "start_timestamp": "02:17:32.010",
+    "end_timestamp": "02:17:34.010",
+    "text": "外界的各种压力",
+    "order": 851
+  },
+  {
+    "speaker": "host",
+    "start": 8254.01,
+    "end": 8256.01,
+    "start_timestamp": "02:17:34.010",
+    "end_timestamp": "02:17:36.010",
+    "text": "包括内心的焦虑",
+    "order": 852
+  },
+  {
+    "speaker": "host",
+    "start": 8256.01,
+    "end": 8258.01,
+    "start_timestamp": "02:17:36.010",
+    "end_timestamp": "02:17:38.010",
+    "text": "会导致你未来动作变形",
+    "order": 853
+  },
+  {
+    "speaker": "host",
+    "start": 8258.01,
+    "end": 8260.01,
+    "start_timestamp": "02:17:38.010",
+    "end_timestamp": "02:17:40.010",
+    "text": "就是你未来的",
+    "order": 854
+  },
+  {
+    "speaker": "host",
+    "start": 8260.01,
+    "end": 8262.01,
+    "start_timestamp": "02:17:40.010",
+    "end_timestamp": "02:17:42.010",
+    "text": "最理想的状态就是",
+    "order": 855
+  },
+  {
+    "speaker": "host",
+    "start": 8262.01,
+    "end": 8264.01,
+    "start_timestamp": "02:17:42.010",
+    "end_timestamp": "02:17:44.010",
+    "text": "稳定的数字有名",
+    "order": 856
+  },
+  {
+    "speaker": "host",
+    "start": 8264.01,
+    "end": 8266.01,
+    "start_timestamp": "02:17:44.010",
+    "end_timestamp": "02:17:46.010",
+    "text": "但有没有可能",
+    "order": 857
+  },
+  {
+    "speaker": "host",
+    "start": 8266.01,
+    "end": 8268.01,
+    "start_timestamp": "02:17:46.010",
+    "end_timestamp": "02:17:48.010",
+    "text": "又回到老路",
+    "order": 858
+  },
+  {
+    "speaker": "host",
+    "start": 8268.01,
+    "end": 8296.15,
+    "start_timestamp": "02:17:48.010",
+    "end_timestamp": "02:18:16.150",
+    "text": "你会有这种担心吗",
+    "order": 859
+  },
+  {
+    "speaker": "host",
+    "start": 8296.15,
+    "end": 8298.15,
+    "start_timestamp": "02:18:16.150",
+    "end_timestamp": "02:18:18.150",
+    "text": "明白 这也是沉重但是不得不面对的一些",
+    "order": 860
+  },
+  {
+    "speaker": "host",
+    "start": 8298.15,
+    "end": 8300.15,
+    "start_timestamp": "02:18:18.150",
+    "end_timestamp": "02:18:20.150",
+    "text": "话题",
+    "order": 861
+  },
+  {
+    "speaker": "host",
+    "start": 8300.15,
+    "end": 8305.9,
+    "start_timestamp": "02:18:20.150",
+    "end_timestamp": "02:18:25.900",
+    "text": "那又想好",
+    "order": 862
+  },
+  {
+    "speaker": "host",
+    "start": 8305.9,
+    "end": 8309.62,
+    "start_timestamp": "02:18:25.900",
+    "end_timestamp": "02:18:29.620",
+    "text": "一些规划了吗",
+    "order": 863
+  },
+  {
+    "speaker": "host",
+    "start": 8309.62,
+    "end": 8317.58,
+    "start_timestamp": "02:18:29.620",
+    "end_timestamp": "02:18:37.580",
+    "text": "面对",
+    "order": 864
+  },
+  {
+    "speaker": "host",
+    "start": 8317.58,
+    "end": 8319.58,
+    "start_timestamp": "02:18:37.580",
+    "end_timestamp": "02:18:39.580",
+    "text": "但是综合听起来你的经历",
+    "order": 865
+  },
+  {
+    "speaker": "host",
+    "start": 8319.58,
+    "end": 8321.58,
+    "start_timestamp": "02:18:39.580",
+    "end_timestamp": "02:18:41.580",
+    "text": "你也不像是那种会",
+    "order": 866
+  },
+  {
+    "speaker": "host",
+    "start": 8321.58,
+    "end": 8323.58,
+    "start_timestamp": "02:18:41.580",
+    "end_timestamp": "02:18:43.580",
+    "text": "特别做规划的",
+    "order": 867
+  },
+  {
+    "speaker": "host",
+    "start": 8323.58,
+    "end": 8338.95,
+    "start_timestamp": "02:18:43.580",
+    "end_timestamp": "02:18:58.950",
+    "text": "一步一步脚印的那种人",
+    "order": 868
+  },
+  {
+    "speaker": "host",
+    "start": 8338.95,
+    "end": 8340.95,
+    "start_timestamp": "02:18:58.950",
+    "end_timestamp": "02:19:00.950",
+    "text": "所以",
+    "order": 869
+  },
+  {
+    "speaker": "host",
+    "start": 8340.95,
+    "end": 8342.95,
+    "start_timestamp": "02:19:00.950",
+    "end_timestamp": "02:19:02.950",
+    "text": "要脚印的阶段先脚印",
+    "order": 870
+  },
+  {
+    "speaker": "host",
+    "start": 8342.95,
+    "end": 8344.95,
+    "start_timestamp": "02:19:02.950",
+    "end_timestamp": "02:19:04.950",
+    "text": "然后该压力的时候",
+    "order": 871
+  },
+  {
+    "speaker": "host",
+    "start": 8344.95,
+    "end": 8350.09,
+    "start_timestamp": "02:19:04.950",
+    "end_timestamp": "02:19:10.090",
+    "text": "就解决问题",
+    "order": 872
+  },
+  {
+    "speaker": "host",
+    "start": 8350.09,
+    "end": 8352.09,
+    "start_timestamp": "02:19:10.090",
+    "end_timestamp": "02:19:12.090",
+    "text": "那我想问",
+    "order": 873
+  },
+  {
+    "speaker": "host",
+    "start": 8352.09,
+    "end": 8355.88,
+    "start_timestamp": "02:19:12.090",
+    "end_timestamp": "02:19:15.880",
+    "text": "那如果想让你",
+    "order": 874
+  },
+  {
+    "speaker": "host",
+    "start": 8355.88,
+    "end": 8359.54,
+    "start_timestamp": "02:19:15.880",
+    "end_timestamp": "02:19:19.540",
+    "text": "给一句话",
+    "order": 875
+  },
+  {
+    "speaker": "host",
+    "start": 8359.54,
+    "end": 8361.54,
+    "start_timestamp": "02:19:19.540",
+    "end_timestamp": "02:19:21.540",
+    "text": "给几个重要阶段的自己",
+    "order": 876
+  },
+  {
+    "speaker": "host",
+    "start": 8361.54,
+    "end": 8363.54,
+    "start_timestamp": "02:19:21.540",
+    "end_timestamp": "02:19:23.540",
+    "text": "以及未来的自己",
+    "order": 877
+  },
+  {
+    "speaker": "host",
+    "start": 8363.54,
+    "end": 8365.54,
+    "start_timestamp": "02:19:23.540",
+    "end_timestamp": "02:19:25.540",
+    "text": "可能会给那些话",
+    "order": 878
+  },
+  {
+    "speaker": "host",
+    "start": 8365.54,
+    "end": 8367.54,
+    "start_timestamp": "02:19:25.540",
+    "end_timestamp": "02:19:27.540",
+    "text": "比如说几个重要的阶段",
+    "order": 879
+  },
+  {
+    "speaker": "host",
+    "start": 8367.54,
+    "end": 8369.54,
+    "start_timestamp": "02:19:27.540",
+    "end_timestamp": "02:19:29.540",
+    "text": "给三年前刚来英国的时候",
+    "order": 880
+  },
+  {
+    "speaker": "host",
+    "start": 8369.54,
+    "end": 8371.54,
+    "start_timestamp": "02:19:29.540",
+    "end_timestamp": "02:19:31.540",
+    "text": "可以送给自己",
+    "order": 881
+  },
+  {
+    "speaker": "host",
+    "start": 8371.54,
+    "end": 8373.54,
+    "start_timestamp": "02:19:31.540",
+    "end_timestamp": "02:19:33.540",
+    "text": "一段什么话",
+    "order": 882
+  },
+  {
+    "speaker": "host",
+    "start": 8373.54,
+    "end": 8375.54,
+    "start_timestamp": "02:19:33.540",
+    "end_timestamp": "02:19:35.540",
+    "text": "或者说三年前",
+    "order": 883
+  },
+  {
+    "speaker": "host",
+    "start": 8375.54,
+    "end": 8377.54,
+    "start_timestamp": "02:19:35.540",
+    "end_timestamp": "02:19:37.540",
+    "text": "三年前的自己可能是一句什么话",
+    "order": 884
+  },
+  {
+    "speaker": "host",
+    "start": 8377.54,
+    "end": 8379.54,
+    "start_timestamp": "02:19:37.540",
+    "end_timestamp": "02:19:39.540",
+    "text": "以及现在这个阶段",
+    "order": 885
+  },
+  {
+    "speaker": "host",
+    "start": 8379.54,
+    "end": 8381.54,
+    "start_timestamp": "02:19:39.540",
+    "end_timestamp": "02:19:41.540",
+    "text": "可能送一句什么话",
+    "order": 886
+  },
+  {
+    "speaker": "host",
+    "start": 8381.54,
+    "end": 8383.54,
+    "start_timestamp": "02:19:41.540",
+    "end_timestamp": "02:19:43.540",
+    "text": "以及下个阶段",
+    "order": 887
+  },
+  {
+    "speaker": "host",
+    "start": 8383.54,
+    "end": 8385.54,
+    "start_timestamp": "02:19:43.540",
+    "end_timestamp": "02:19:45.540",
+    "text": "可能十年后或者二十年后",
+    "order": 888
+  },
+  {
+    "speaker": "host",
+    "start": 8385.54,
+    "end": 8387.54,
+    "start_timestamp": "02:19:45.540",
+    "end_timestamp": "02:19:47.540",
+    "text": "可能",
+    "order": 889
+  },
+  {
+    "speaker": "host",
+    "start": 8387.54,
+    "end": 8389.54,
+    "start_timestamp": "02:19:47.540",
+    "end_timestamp": "02:19:49.540",
+    "text": "你现在",
+    "order": 890
+  },
+  {
+    "speaker": "host",
+    "start": 8389.54,
+    "end": 8391.54,
+    "start_timestamp": "02:19:49.540",
+    "end_timestamp": "02:19:51.540",
+    "text": "年龄一方面问吧",
+    "order": 891
+  },
+  {
+    "speaker": "host",
+    "start": 8391.54,
+    "end": 8397.74,
+    "start_timestamp": "02:19:51.540",
+    "end_timestamp": "02:19:57.740",
+    "text": "年龄",
+    "order": 892
+  },
+  {
+    "speaker": "host",
+    "start": 8397.74,
+    "end": 8399.74,
+    "start_timestamp": "02:19:57.740",
+    "end_timestamp": "02:19:59.740",
+    "text": "就一年的",
+    "order": 893
+  },
+  {
+    "speaker": "host",
+    "start": 8399.74,
+    "end": 8401.74,
+    "start_timestamp": "02:19:59.740",
+    "end_timestamp": "02:20:01.740",
+    "text": "三十四",
+    "order": 894
+  },
+  {
+    "speaker": "host",
+    "start": 8401.74,
+    "end": 8404.98,
+    "start_timestamp": "02:20:01.740",
+    "end_timestamp": "02:20:04.980",
+    "text": "对",
+    "order": 895
+  },
+  {
+    "speaker": "host",
+    "start": 8404.98,
+    "end": 8406.98,
+    "start_timestamp": "02:20:04.980",
+    "end_timestamp": "02:20:06.980",
+    "text": "那这个的时候",
+    "order": 896
+  },
+  {
+    "speaker": "host",
+    "start": 8406.98,
+    "end": 8408.98,
+    "start_timestamp": "02:20:06.980",
+    "end_timestamp": "02:20:08.980",
+    "text": "已经逼近了中年危机",
+    "order": 897
+  },
+  {
+    "speaker": "host",
+    "start": 8408.98,
+    "end": 8414.89,
+    "start_timestamp": "02:20:08.980",
+    "end_timestamp": "02:20:14.890",
+    "text": "我也定义中年危机的",
+    "order": 898
+  },
+  {
+    "speaker": "host",
+    "start": 8414.89,
+    "end": 8416.89,
+    "start_timestamp": "02:20:14.890",
+    "end_timestamp": "02:20:16.890",
+    "text": "那这时候焦虑会来到",
+    "order": 899
+  },
+  {
+    "speaker": "host",
+    "start": 8416.89,
+    "end": 8420.42,
+    "start_timestamp": "02:20:16.890",
+    "end_timestamp": "02:20:20.420",
+    "text": "顶点",
+    "order": 900
+  },
+  {
+    "speaker": "host",
+    "start": 8420.42,
+    "end": 8551.51,
+    "start_timestamp": "02:20:20.420",
+    "end_timestamp": "02:22:31.510",
+    "text": "未来十年",
+    "order": 901
+  },
+  {
+    "speaker": "host",
+    "start": 8551.51,
+    "end": 8553.51,
+    "start_timestamp": "02:22:31.510",
+    "end_timestamp": "02:22:33.510",
+    "text": "有一些长了",
+    "order": 902
+  },
+  {
+    "speaker": "host",
+    "start": 8553.51,
+    "end": 8555.51,
+    "start_timestamp": "02:22:33.510",
+    "end_timestamp": "02:22:35.510",
+    "text": "对于批人来说",
+    "order": 903
+  },
+  {
+    "speaker": "host",
+    "start": 8555.51,
+    "end": 8557.51,
+    "start_timestamp": "02:22:35.510",
+    "end_timestamp": "02:22:37.510",
+    "text": "规划的有点长了",
+    "order": 904
+  },
+  {
+    "speaker": "host",
+    "start": 8557.51,
+    "end": 8559.51,
+    "start_timestamp": "02:22:37.510",
+    "end_timestamp": "02:22:39.510",
+    "text": "那",
+    "order": 905
+  },
+  {
+    "speaker": "host",
+    "start": 8559.51,
+    "end": 8561.51,
+    "start_timestamp": "02:22:39.510",
+    "end_timestamp": "02:22:41.510",
+    "text": "我们有三个阶段",
+    "order": 906
+  },
+  {
+    "speaker": "host",
+    "start": 8561.51,
+    "end": 8563.51,
+    "start_timestamp": "02:22:41.510",
+    "end_timestamp": "02:22:43.510",
+    "text": "三年前的你",
+    "order": 907
+  },
+  {
+    "speaker": "host",
+    "start": 8563.51,
+    "end": 8565.51,
+    "start_timestamp": "02:22:43.510",
+    "end_timestamp": "02:22:45.510",
+    "text": "和现在的你以及三年后的你",
+    "order": 908
+  },
+  {
+    "speaker": "host",
+    "start": 8565.51,
+    "end": 8567.51,
+    "start_timestamp": "02:22:45.510",
+    "end_timestamp": "02:22:47.510",
+    "text": "各留一句话",
+    "order": 909
+  },
+  {
+    "speaker": "host",
+    "start": 8567.51,
+    "end": 8569.51,
+    "start_timestamp": "02:22:47.510",
+    "end_timestamp": "02:22:49.510",
+    "text": "就说一句话",
+    "order": 910
+  },
+  {
+    "speaker": "host",
+    "start": 8569.51,
+    "end": 8573.05,
+    "start_timestamp": "02:22:49.510",
+    "end_timestamp": "02:22:53.050",
+    "text": "跟他对话你会留一句话",
+    "order": 911
+  },
+  {
+    "speaker": "host",
+    "start": 8573.05,
+    "end": 8581.54,
+    "start_timestamp": "02:22:53.050",
+    "end_timestamp": "02:23:01.540",
+    "text": "分别留一句话",
+    "order": 912
+  },
+  {
+    "speaker": "host",
+    "start": 8581.54,
+    "end": 8583.54,
+    "start_timestamp": "02:23:01.540",
+    "end_timestamp": "02:23:03.540",
+    "text": "你想对三年前的小女孩说什么",
+    "order": 913
+  },
+  {
+    "speaker": "host",
+    "start": 8583.54,
+    "end": 8643.78,
+    "start_timestamp": "02:23:03.540",
+    "end_timestamp": "02:24:03.780",
+    "text": "你想对未来",
+    "order": 914
+  },
+  {
+    "speaker": "host",
+    "start": 8643.78,
+    "end": 8645.78,
+    "start_timestamp": "02:24:03.780",
+    "end_timestamp": "02:24:05.780",
+    "text": "三年后的",
+    "order": 915
+  },
+  {
+    "speaker": "host",
+    "start": 8645.78,
+    "end": 8647.78,
+    "start_timestamp": "02:24:05.780",
+    "end_timestamp": "02:24:07.780",
+    "text": "他说我希望你能成功",
+    "order": 916
+  },
+  {
+    "speaker": "host",
+    "start": 8647.78,
+    "end": 8655.19,
+    "start_timestamp": "02:24:07.780",
+    "end_timestamp": "02:24:15.190",
+    "text": "有对成功的定义吗",
+    "order": 917
+  },
+  {
+    "speaker": "host",
+    "start": 8655.19,
+    "end": 8659.91,
+    "start_timestamp": "02:24:15.190",
+    "end_timestamp": "02:24:19.910",
+    "text": "就是",
+    "order": 918
+  },
+  {
+    "speaker": "host",
+    "start": 8659.91,
+    "end": 8661.91,
+    "start_timestamp": "02:24:19.910",
+    "end_timestamp": "02:24:21.910",
+    "text": "做一个合格的数字有名",
+    "order": 919
+  },
+  {
+    "speaker": "host",
+    "start": 8661.91,
+    "end": 8768.58,
+    "start_timestamp": "02:24:21.910",
+    "end_timestamp": "02:26:08.580",
+    "text": "有什么标准吗",
+    "order": 920
+  },
+  {
+    "speaker": "host",
+    "start": 8768.58,
+    "end": 8770.58,
+    "start_timestamp": "02:26:08.580",
+    "end_timestamp": "02:26:10.580",
+    "text": "所以你在这里未来",
+    "order": 921
+  },
+  {
+    "speaker": "host",
+    "start": 8770.58,
+    "end": 8772.58,
+    "start_timestamp": "02:26:10.580",
+    "end_timestamp": "02:26:12.580",
+    "text": "三年后的自己说成功的定义",
+    "order": 922
+  },
+  {
+    "speaker": "host",
+    "start": 8772.58,
+    "end": 8774.58,
+    "start_timestamp": "02:26:12.580",
+    "end_timestamp": "02:26:14.580",
+    "text": "财富",
+    "order": 923
+  },
+  {
+    "speaker": "host",
+    "start": 8774.58,
+    "end": 8776.58,
+    "start_timestamp": "02:26:14.580",
+    "end_timestamp": "02:26:16.580",
+    "text": "不是必要条件吗",
+    "order": 924
+  },
+  {
+    "speaker": "host",
+    "start": 8776.58,
+    "end": 8804.22,
+    "start_timestamp": "02:26:16.580",
+    "end_timestamp": "02:26:44.220",
+    "text": "明白非常富裕",
+    "order": 925
+  },
+  {
+    "speaker": "host",
+    "start": 8804.22,
+    "end": 8834.6,
+    "start_timestamp": "02:26:44.220",
+    "end_timestamp": "02:27:14.600",
+    "text": "所以",
+    "order": 926
+  },
+  {
+    "speaker": "host",
+    "start": 8834.6,
+    "end": 8836.6,
+    "start_timestamp": "02:27:14.600",
+    "end_timestamp": "02:27:16.600",
+    "text": "对自己认同你的定义是",
+    "order": 927
+  },
+  {
+    "speaker": "host",
+    "start": 8836.6,
+    "end": 8838.6,
+    "start_timestamp": "02:27:16.600",
+    "end_timestamp": "02:27:18.600",
+    "text": "至少解决文保问题有稳定的收入",
+    "order": 928
+  },
+  {
+    "speaker": "host",
+    "start": 8838.6,
+    "end": 8840.6,
+    "start_timestamp": "02:27:18.600",
+    "end_timestamp": "02:27:20.600",
+    "text": "然后",
+    "order": 929
+  },
+  {
+    "speaker": "host",
+    "start": 8840.6,
+    "end": 8842.6,
+    "start_timestamp": "02:27:20.600",
+    "end_timestamp": "02:27:22.600",
+    "text": "以及其他的",
+    "order": 930
+  },
+  {
+    "speaker": "host",
+    "start": 8842.6,
+    "end": 8844.6,
+    "start_timestamp": "02:27:22.600",
+    "end_timestamp": "02:27:24.600",
+    "text": "那别人对你的认同你是怎么去衡量",
+    "order": 931
+  },
+  {
+    "speaker": "host",
+    "start": 9005.78,
+    "end": 9007.78,
+    "start_timestamp": "02:30:05.780",
+    "end_timestamp": "02:30:07.780",
+    "text": "接下来半年",
+    "order": 932
+  },
+  {
+    "speaker": "host",
+    "start": 9007.78,
+    "end": 9009.78,
+    "start_timestamp": "02:30:07.780",
+    "end_timestamp": "02:30:09.780",
+    "text": "我们拉近一些时间",
+    "order": 933
+  },
+  {
+    "speaker": "host",
+    "start": 9009.78,
+    "end": 9011.78,
+    "start_timestamp": "02:30:09.780",
+    "end_timestamp": "02:30:11.780",
+    "text": "接下来半年你可能",
+    "order": 934
+  },
+  {
+    "speaker": "host",
+    "start": 9011.78,
+    "end": 9030.94,
+    "start_timestamp": "02:30:11.780",
+    "end_timestamp": "02:30:30.940",
+    "text": "最想完成的一件小事",
+    "order": 935
+  },
+  {
+    "speaker": "host",
+    "start": 9030.94,
+    "end": 9032.94,
+    "start_timestamp": "02:30:30.940",
+    "end_timestamp": "02:30:32.940",
+    "text": "签证是为了继续",
+    "order": 936
+  },
+  {
+    "speaker": "host",
+    "start": 9032.94,
+    "end": 9085.5,
+    "start_timestamp": "02:30:32.940",
+    "end_timestamp": "02:31:25.500",
+    "text": "返回伦敦",
+    "order": 937
+  },
+  {
+    "speaker": "host",
+    "start": 9085.5,
+    "end": 9087.5,
+    "start_timestamp": "02:31:25.500",
+    "end_timestamp": "02:31:27.500",
+    "text": "因为你想",
+    "order": 938
+  },
+  {
+    "speaker": "host",
+    "start": 9087.5,
+    "end": 9089.5,
+    "start_timestamp": "02:31:27.500",
+    "end_timestamp": "02:31:29.500",
+    "text": "回到伦敦",
+    "order": 939
+  },
+  {
+    "speaker": "host",
+    "start": 9091.5,
+    "end": 9093.5,
+    "start_timestamp": "02:31:31.500",
+    "end_timestamp": "02:31:33.500",
+    "text": "这个我",
+    "order": 940
+  },
+  {
+    "speaker": "host",
+    "start": 9093.5,
+    "end": 9095.5,
+    "start_timestamp": "02:31:33.500",
+    "end_timestamp": "02:31:35.500",
+    "text": "可以理解成你想",
+    "order": 941
+  },
+  {
+    "speaker": "host",
+    "start": 9095.5,
+    "end": 9097.5,
+    "start_timestamp": "02:31:35.500",
+    "end_timestamp": "02:31:37.500",
+    "text": "一个相对稳定的生活状态",
+    "order": 942
+  },
+  {
+    "speaker": "host",
+    "start": 9097.5,
+    "end": 9103.43,
+    "start_timestamp": "02:31:37.500",
+    "end_timestamp": "02:31:43.430",
+    "text": "在伦敦",
+    "order": 943
+  },
+  {
+    "speaker": "host",
+    "start": 9103.43,
+    "end": 9105.43,
+    "start_timestamp": "02:31:43.430",
+    "end_timestamp": "02:31:45.430",
+    "text": "但是数字有名你又想自由",
+    "order": 944
+  },
+  {
+    "speaker": "host",
+    "start": 9105.43,
+    "end": 9107.43,
+    "start_timestamp": "02:31:45.430",
+    "end_timestamp": "02:31:47.430",
+    "text": "还是说你觉得这件事情",
+    "order": 945
+  },
+  {
+    "speaker": "host",
+    "start": 9107.43,
+    "end": 9109.43,
+    "start_timestamp": "02:31:47.430",
+    "end_timestamp": "02:31:49.430",
+    "text": "其实完全不冲突",
+    "order": 946
+  },
+  {
+    "speaker": "host",
+    "start": 9109.43,
+    "end": 9111.43,
+    "start_timestamp": "02:31:49.430",
+    "end_timestamp": "02:31:51.430",
+    "text": "你可以去新加坡你可以去其他的",
+    "order": 947
+  },
+  {
+    "speaker": "host",
+    "start": 9111.43,
+    "end": 9113.43,
+    "start_timestamp": "02:31:51.430",
+    "end_timestamp": "02:31:53.430",
+    "text": "任何国家任何城市",
+    "order": 948
+  },
+  {
+    "speaker": "host",
+    "start": 9113.43,
+    "end": 9184.3,
+    "start_timestamp": "02:31:53.430",
+    "end_timestamp": "02:33:04.300",
+    "text": "去旅游明白",
+    "order": 949
+  },
+  {
+    "speaker": "host",
+    "start": 9184.3,
+    "end": 9186.3,
+    "start_timestamp": "02:33:04.300",
+    "end_timestamp": "02:33:06.300",
+    "text": "所以你更排斥的是",
+    "order": 950
+  },
+  {
+    "speaker": "host",
+    "start": 9186.3,
+    "end": 9188.3,
+    "start_timestamp": "02:33:06.300",
+    "end_timestamp": "02:33:08.300",
+    "text": "这种被动",
+    "order": 951
+  },
+  {
+    "speaker": "host",
+    "start": 9188.3,
+    "end": 9200.92,
+    "start_timestamp": "02:33:08.300",
+    "end_timestamp": "02:33:20.920",
+    "text": "被禁锢的感觉",
+    "order": 952
+  },
+  {
+    "speaker": "host",
+    "start": 9200.92,
+    "end": 9202.92,
+    "start_timestamp": "02:33:20.920",
+    "end_timestamp": "02:33:22.920",
+    "text": "但是依然有人可能未来的",
+    "order": 953
+  },
+  {
+    "speaker": "host",
+    "start": 9202.92,
+    "end": 9204.92,
+    "start_timestamp": "02:33:22.920",
+    "end_timestamp": "02:33:24.920",
+    "text": "一个人生伴侣在家里等你回家",
+    "order": 954
+  },
+  {
+    "speaker": "host",
+    "start": 9204.92,
+    "end": 9206.92,
+    "start_timestamp": "02:33:24.920",
+    "end_timestamp": "02:33:26.920",
+    "text": "那种也是一种",
+    "order": 955
+  },
+  {
+    "speaker": "host",
+    "start": 9206.92,
+    "end": 9222.26,
+    "start_timestamp": "02:33:26.920",
+    "end_timestamp": "02:33:42.260",
+    "text": "可以的我觉得",
+    "order": 956
+  },
+  {
+    "speaker": "host",
+    "start": 9222.26,
+    "end": 9224.26,
+    "start_timestamp": "02:33:42.260",
+    "end_timestamp": "02:33:44.260",
+    "text": "今天的很多主旨",
+    "order": 957
+  },
+  {
+    "speaker": "host",
+    "start": 9224.26,
+    "end": 9226.26,
+    "start_timestamp": "02:33:44.260",
+    "end_timestamp": "02:33:46.260",
+    "text": "围绕数字有名啊",
+    "order": 958
+  },
+  {
+    "speaker": "host",
+    "start": 9226.26,
+    "end": 9228.26,
+    "start_timestamp": "02:33:46.260",
+    "end_timestamp": "02:33:48.260",
+    "text": "至少这个主线我觉得",
+    "order": 959
+  },
+  {
+    "speaker": "host",
+    "start": 9228.26,
+    "end": 9230.26,
+    "start_timestamp": "02:33:48.260",
+    "end_timestamp": "02:33:50.260",
+    "text": "是有凸显出来了",
+    "order": 960
+  },
+  {
+    "speaker": "host",
+    "start": 9230.26,
+    "end": 9232.26,
+    "start_timestamp": "02:33:50.260",
+    "end_timestamp": "02:33:52.260",
+    "text": "但至于剩下的就看我们剪辑",
+    "order": 961
+  },
+  {
+    "speaker": "host",
+    "start": 9232.26,
+    "end": 9234.26,
+    "start_timestamp": "02:33:52.260",
+    "end_timestamp": "02:33:54.260",
+    "text": "怎么剪了",
+    "order": 962
+  },
+  {
+    "speaker": "host",
+    "start": 9234.26,
+    "end": 9236.26,
+    "start_timestamp": "02:33:54.260",
+    "end_timestamp": "02:33:56.260",
+    "text": "我觉得你的",
+    "order": 963
+  },
+  {
+    "speaker": "host",
+    "start": 9236.26,
+    "end": 9238.26,
+    "start_timestamp": "02:33:56.260",
+    "end_timestamp": "02:33:58.260",
+    "text": "你的内容非常的",
+    "order": 964
+  },
+  {
+    "speaker": "host",
+    "start": 9238.26,
+    "end": 9240.26,
+    "start_timestamp": "02:33:58.260",
+    "end_timestamp": "02:34:00.260",
+    "text": "丰富了",
+    "order": 965
+  },
+  {
+    "speaker": "host",
+    "start": 9240.26,
+    "end": 9242.26,
+    "start_timestamp": "02:34:00.260",
+    "end_timestamp": "02:34:02.260",
+    "text": "虽然两个小时多吧",
+    "order": 966
+  },
+  {
+    "speaker": "host",
+    "start": 9242.26,
+    "end": 9244.26,
+    "start_timestamp": "02:34:02.260",
+    "end_timestamp": "02:34:04.260",
+    "text": "内容非常丰富",
+    "order": 967
+  },
+  {
+    "speaker": "host",
+    "start": 9244.26,
+    "end": 9246.26,
+    "start_timestamp": "02:34:04.260",
+    "end_timestamp": "02:34:06.260",
+    "text": "已经是有主线了",
+    "order": 968
+  },
+  {
+    "speaker": "host",
+    "start": 9246.26,
+    "end": 9248.26,
+    "start_timestamp": "02:34:06.260",
+    "end_timestamp": "02:34:08.260",
+    "text": "而且是非常多的",
+    "order": 969
+  },
+  {
+    "speaker": "host",
+    "start": 9248.26,
+    "end": 9250.26,
+    "start_timestamp": "02:34:08.260",
+    "end_timestamp": "02:34:10.260",
+    "text": "我非常期待未来",
+    "order": 970
+  },
+  {
+    "speaker": "host",
+    "start": 9250.26,
+    "end": 9252.26,
+    "start_timestamp": "02:34:10.260",
+    "end_timestamp": "02:34:12.260",
+    "text": "经常来做客",
+    "order": 971
+  },
+  {
+    "speaker": "host",
+    "start": 9252.26,
+    "end": 9254.26,
+    "start_timestamp": "02:34:12.260",
+    "end_timestamp": "02:34:14.260",
+    "text": "我们节目",
+    "order": 972
+  },
+  {
+    "speaker": "host",
+    "start": 9254.26,
+    "end": 9256.26,
+    "start_timestamp": "02:34:14.260",
+    "end_timestamp": "02:34:16.260",
+    "text": "聊聊你的进展",
+    "order": 973
+  },
+  {
+    "speaker": "host",
+    "start": 9256.26,
+    "end": 9260.34,
+    "start_timestamp": "02:34:16.260",
+    "end_timestamp": "02:34:20.340",
+    "text": "有没有",
+    "order": 974
+  },
+  {
+    "speaker": "host",
+    "start": 9260.34,
+    "end": 9265.42,
+    "start_timestamp": "02:34:20.340",
+    "end_timestamp": "02:34:25.420",
+    "text": "对",
+    "order": 975
+  },
+  {
+    "speaker": "host",
+    "start": 9265.42,
+    "end": 9267.42,
+    "start_timestamp": "02:34:25.420",
+    "end_timestamp": "02:34:27.420",
+    "text": "也是真的是",
+    "order": 976
+  },
+  {
+    "speaker": "host",
+    "start": 9267.42,
+    "end": 9272.87,
+    "start_timestamp": "02:34:27.420",
+    "end_timestamp": "02:34:32.870",
+    "text": "这个阶段告一段落了",
+    "order": 977
+  },
+  {
+    "speaker": "host",
+    "start": 9272.87,
+    "end": 9274.87,
+    "start_timestamp": "02:34:32.870",
+    "end_timestamp": "02:34:34.870",
+    "text": "就不问太多其他的了",
+    "order": 978
+  },
+  {
+    "speaker": "host",
+    "start": 9274.87,
+    "end": 9276.87,
+    "start_timestamp": "02:34:34.870",
+    "end_timestamp": "02:34:36.870",
+    "text": "其他的真的也是",
+    "order": 979
+  },
+  {
+    "speaker": "host",
+    "start": 9276.87,
+    "end": 9278.87,
+    "start_timestamp": "02:34:36.870",
+    "end_timestamp": "02:34:38.870",
+    "text": "留到下一次",
+    "order": 980
+  },
+  {
+    "speaker": "host",
+    "start": 9278.87,
+    "end": 9280.87,
+    "start_timestamp": "02:34:38.870",
+    "end_timestamp": "02:34:40.870",
+    "text": "我们再来",
+    "order": 981
+  },
+  {
+    "speaker": "host",
+    "start": 9280.87,
+    "end": 9282.87,
+    "start_timestamp": "02:34:40.870",
+    "end_timestamp": "02:34:42.870",
+    "text": "看看你的进展",
+    "order": 982
+  },
+  {
+    "speaker": "host",
+    "start": 9282.87,
+    "end": 9284.87,
+    "start_timestamp": "02:34:42.870",
+    "end_timestamp": "02:34:44.870",
+    "text": "有什么新的感悟",
+    "order": 983
+  },
+  {
+    "speaker": "host",
+    "start": 9284.87,
+    "end": 9289.3,
+    "start_timestamp": "02:34:44.870",
+    "end_timestamp": "02:34:49.300",
+    "text": "行啊行啊",
+    "order": 984
+  },
+  {
+    "speaker": "host",
+    "start": 9289.3,
+    "end": 9291.3,
+    "start_timestamp": "02:34:49.300",
+    "end_timestamp": "02:34:51.300",
+    "text": "你把录音发我一下",
+    "order": 985
+  },
+  {
+    "speaker": "host",
+    "start": 9291.3,
+    "end": 9294.94,
+    "start_timestamp": "02:34:51.300",
+    "end_timestamp": "02:34:54.940",
+    "text": "你暂停吧",
+    "order": 986
+  },
+  {
+    "speaker": "host",
+    "start": 9294.94,
+    "end": 9309.32,
+    "start_timestamp": "02:34:54.940",
+    "end_timestamp": "02:35:09.320",
+    "text": "你有两个音频",
+    "order": 987
+  }
+]

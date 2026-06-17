@@ -1,0 +1,33 @@
+﻿# Visual Studio
+.vs/
+
+# audio files
+*.m4a
+*.mp3
+*.wav
+*.aac
+
+# generated outputs
+final_cutting*
+*_actual_cut_sequence.json
+
+# inputs and temp audio
+inputs/
+outputs/temp/
+outputs/temp*/
+outputs/temp_chunks_guest/
+outputs/temp_chunks_host/
+
+# python cache
+__pycache__/
+*.pyc
+
+# environment
+.env
+.venv/
+venv/
+podcast/
+
+# system
+.DS_Store
+Thumbs.db
